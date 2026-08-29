@@ -33,7 +33,9 @@ def fetch_google_news(category,query):
  articles=[]
  for item in root.findall("./channel/item")[:75]:
   source=item.find("source"); source_url=source.get("url","") if source is not None else ""
-  articles.append({"category":category,"title":item.findtext("title",default=""),"url":item.findtext("link",default=""),"source_domain":urlparse(source_url).netloc.lower(),"publisher":source.text if source is not None else ""})
+  publisher=source.text if source is not None else ""; title=item.findtext("title",default="")
+  if publisher and title.endswith(f" - {publisher}"): title=title[:-(len(publisher)+3)]
+  articles.append({"category":category,"title":title,"url":item.findtext("link",default=""),"source_domain":urlparse(source_url).netloc.lower(),"publisher":publisher})
  return articles
 
 def fetch(category,query):
@@ -59,10 +61,11 @@ def kind(title):
  if any(x in t for x in ("anomaly","unprecedented","plunge","collapse")): return "ANOMALY"
  return "SIGNAL"
 def score(article,peers):
- title=article.get("title",""); lower=title.lower(); points=45+sum(v for k,v in SIGNALS.items() if k in lower)
+ title=article.get("title",""); lower=title.lower(); points=45+sum(v for k,v in SIGNALS.items() if re.search(rf"\b{re.escape(k)}\b",lower))
  domain=article.get("source_domain") or urlparse(article.get("url","")).netloc.lower()
  if any(source in domain for source in TRUSTED): points+=7
  corroborating={(p.get("source_domain") or urlparse(p.get("url","")).netloc) for p in peers if p is not article and similarity(title,p.get("title",""))>=.42}
+ corroborating.discard("")
  return min(99,points+min(14,len(corroborating)*5)),len(corroborating)+1
 def question(category): return {"KULTTUURI":"Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?","TEKNOLOGIA":"Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?","TALOUS":"Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?","URHEILU":"Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?"}[category]
 
@@ -81,6 +84,8 @@ def main():
   if len(title)<35 or any(term in title.lower() for term in LOW_VALUE): continue
   value,sources=score(item,grouped[item["category"]])
   if value<75: continue
+  domain=item.get("source_domain") or urlparse(item.get("url","")).netloc.lower()
+  if not any(trusted in domain for trusted in TRUSTED) and sources<2: continue
   source=item.get("publisher") or (item.get("source_domain") or urlparse(item.get("url","")).netloc).removeprefix("www.")
   candidates.append({"category":item["category"],"type":kind(title),"score":value,"title":title,"question":question(item["category"]),"why":f"Otsikossa on poikkeavuussignaali ja havaintoa tukee {sources} toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.","source":source,"url":item.get("url",""),"age":"TUORE"})
  chosen=[]; counts=defaultdict(int); seen=[]
@@ -89,7 +94,7 @@ def main():
   counts[item["category"]]+=1; seen.append(item["title"]); chosen.append(item)
   if len(chosen)==8: break
  for index,item in enumerate(chosen,1): item["id"]=f"{index:02d}"
- now=datetime.now(timezone.utc); date=now.date().isoformat(); snapshot={"date":date,"generated_at":now.isoformat(),"updated":now.strftime("%H:%M UTC"),"rejected":max(0,len(raw)-len(chosen)),"findings":chosen,"errors":errors,"providers":providers,"method_version":"v0.2"}
+ now=datetime.now(timezone.utc); date=now.date().isoformat(); snapshot={"date":date,"generated_at":now.isoformat(),"updated":now.strftime("%H:%M UTC"),"rejected":max(0,len(raw)-len(chosen)),"findings":chosen,"errors":errors,"providers":providers,"method_version":"v0.3"}
  text=json.dumps(snapshot,ensure_ascii=False,indent=2); (DATA/"latest.json").write_text(text,encoding="utf-8"); (HISTORY/f"{date}.json").write_text(text,encoding="utf-8")
  entries=[]
  for path in sorted(HISTORY.glob("*.json"),reverse=True):
