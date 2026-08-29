@@ -1,0 +1,28 @@
+name: Collect TUTKA findings
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 0,6,12,18 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: tutka-collection
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect exceptional news
+        run: python scripts/collect.py
+      - name: Archive results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Update TUTKA findings"
+          git push
+
