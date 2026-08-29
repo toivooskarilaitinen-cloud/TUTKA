@@ -1,64 +1,15 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T21:07:28.642067+00:00",
-  "updated": "21:07 UTC",
-  "rejected": 234,
-  "findings": [
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "EU enters winter panic mode as gas storage hits record low Guardian",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "asiabulletin.com",
-      "url": "http://www.asiabulletin.com/news/279273448/eu-enters-winter-panic-mode-as-gas-storage-hits-record-low-guardian",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Ronaldo Breaks Al Nassr Record and Hails Teammates After Historic Goal - koorabreak.com",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "koorabreak.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhejRkQ3IzRC1KQzVCSU9jNWo3MW1CMmFBRUZodE4xT3M0ejdOaGVhNkY1S05qZ29HWEhETmhLU1NFdlA5SzlWbQ?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 76,
-      "title": "Ubtech's Humanoid Sales Surge to Record Levels, Yet the Market Remains Unmoved - AD HOC NEWS",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUW1hc21sMkdybHJYZXA0R3VCM045UWxhS1RzUERRdkxBQkN1RG9yckJWVDE3ZTFiUWxnMHo1TC05TS1tSDlaSmtEMUEtSGwybmNENENTLWN5bDZuelVXOE0zNFZwTGpzNUpnV1FXZTNFV2h1ZjVIMFlWT0tHOG5vRjNYdHlTNDJTNWdtWGxKMzVQOXFWRFJoZGk0RDRoU0lKNDZWbC1WbnlnNUpadU92T3plVWhHTXZQOS14NVBhcFEtUjRtWXZfWmZNNmluZDNRWDJQeVh3dXk?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Keeping Score with Chip Ainsworth: Can UMass football keep the streak alive? - Greenfield Recorder",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Greenfield Recorder",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3RHUWh5X29kNDlScGNxTzdOc3ZQUmxVclVTZUxsYmVleE9pNUxfWWJ6aTdab2JoUlBJTDcxRmFMdllLOUdUTWNuOVJvdXYtZlFIemplcEx3RkFlVC1Da0Jka2RDUlN2Y2Y1U2RpOVlYNkJOcEdMMlU4b0dlYnAyYzVBbWs3cGxmWi13Y2hkdlpuaUtuNzFvNUluQVpGZXBSNXg0amdvTnVzME0?oc=5",
-      "age": "TUORE",
-      "id": "04"
-    }
-  ],
+  "generated_at": "2026-08-29T21:11:03.557985+00:00",
+  "updated": "21:11 UTC",
+  "rejected": 217,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
-  "method_version": "v0.2"
+  "method_version": "v0.3"
 }
