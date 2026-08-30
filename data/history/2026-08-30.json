@@ -1,9 +1,21 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T16:45:51.874663+00:00",
-  "updated": "16:45 UTC",
-  "rejected": 195,
+  "generated_at": "2026-08-30T21:12:09.382430+00:00",
+  "updated": "21:12 UTC",
+  "rejected": 203,
   "findings": [
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Abdulmalik agrees Boreham Wood exit to beat Jamie Vardy's record",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wcTZvUVpQWmpLYWNVdmlRU2loNGg4dS1BWktmYjRHa2xxT3NBNXFxcnlWdmVqT0Q5Wk5hNkJuay1LaE85c3dNUXdqQWxKcXE4bENHZGtCbGdFS0FtODZGaXc5VVNveFU?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
@@ -14,7 +26,7 @@
       "source": "ESPN",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVZiZlRjall0a0w5Z3JsUlBFbHNSUm9xcW9NQ2pybTEydU5DZ0JnWTluYnhUVWlQZEt1TTk4Z3o3UktqOFd1U1d3TGF2YkRWSnZQVVh6UFNQaUtua3RhUHJhbGR0OW02a3JsZU81UW50MF9jWGZMUmowTEhWTWc3R3drOXlMcWtlRzZnWVpMWXZoYVpHLUFReElBSXlQWjktdk5FSTExMVFzQ0RaNVhj?oc=5",
       "age": "TUORE",
-      "id": "01"
+      "id": "02"
     }
   ],
   "errors": [],
