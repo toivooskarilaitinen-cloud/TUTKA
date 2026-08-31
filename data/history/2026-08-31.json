@@ -1,9 +1,21 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T05:43:30.615305+00:00",
-  "updated": "05:43 UTC",
-  "rejected": 196,
+  "generated_at": "2026-08-31T13:59:41.346728+00:00",
+  "updated": "13:59 UTC",
+  "rejected": 211,
   "findings": [
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 80,
+      "title": "What to Know About Mariano Navone After Historic Upset vs. Novak Djokovic at US Open Tennis 2026",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMWt2TXhKa0RTckU1UkNNZFJGSFVTeU1VbExMQnlBX1BCZXhVeGVmbFNydU96RjEwZGtraEVyVnNOaHBZeXJFZWRuUEluUFRWYmRGd0tacmdtVWJyMVZ2TFB1U1VNQnlxS0diQzBuTS0tTGsxS01HYWlvb0F6R0pQRTdoMWdQRVJnRXc5V0JHSlItTHBYZkpscFROWHEwMnJLNGYtY0FQSmQtM2tfR2tOSlp1U2xqMXhuOE1WOEtpek9oYlhERlkzTzFHelJkMkE?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
@@ -14,7 +26,7 @@
       "source": "The Nation (Pakistan )",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkZDTkJEMXRJUzNpMUVfRWdsOHZWRVFQUW80MjF2bjVhLU9WWjRCdmtId1BxOWpCZVB3TkI1bmtZVTg1dzRzUEZyc2l0WUxkeVROZnZMOXFSaG9KamhYTHotZ0xEY0JObms1T2o2YkxvdG5KVng0a3VncVdsNHFZb2hBYlZTTWhSVXRfb2FTNThDNU0zNkstQVNSaWQ3UXU2?oc=5",
       "age": "TUORE",
-      "id": "01"
+      "id": "02"
     }
   ],
   "errors": [],
