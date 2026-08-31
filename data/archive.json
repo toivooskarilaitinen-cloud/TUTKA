@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-08-31",
+    "count": 1,
+    "file": "history/2026-08-31.json"
+  },
+  {
     "date": "2026-08-30",
     "count": 2,
     "file": "history/2026-08-30.json"
