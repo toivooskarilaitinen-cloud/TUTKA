@@ -1,42 +1,42 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T11:44:46.735462+00:00",
-  "updated": "11:44 UTC",
-  "rejected": 193,
+  "generated_at": "2026-09-01T16:44:34.803874+00:00",
+  "updated": "16:44 UTC",
+  "rejected": 234,
   "findings": [
     {
-      "category": "URHEILU",
+      "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 87,
-      "title": "Germany equals Pakistan’s historic record of 4 Hockey World Cup",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "score": 95,
+      "title": "August Exports Hit $98.3 Billion, 3rd Highest on Record... Semiconductors at All-Time High",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Minute Mirror",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0tQV3VEY1lzOVZZNUZrMTRRZ1VhSXhFWXk5ME1lckgtUkZoeFhYYVNsa2ljbTU4UVROVG1nQmpaMi13X1JYTVV3WVpfYXZMaWJPOHRWcUw5Qi1Ic0FVVDEyWC1XOU1DSEtKbVQ5RFJVYVBVVWxVekJ6Z0xiek0tWUVweUN2dnlYSlFScHVHN1QwZG8zU0lLVllTZHFLSDQ?oc=5",
+      "source": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMWU9xeVRTZ3U5RjNxTUVIUG5UM3d0bmhiYUMxQVYzeFM2cHBVUjZ1Sm1HRU1yRzNRX0p2R0tRTnQ4Y3NzVWtzU0JkdWg3bFhENlJmSHZQWUVCYlVfZDY3a01aM1Vydw?oc=5",
       "age": "TUORE",
       "id": "01"
     },
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 75,
-      "title": "South Korea proposes record $597 billion 2027 budget to supercharge AI investment",
+      "score": 86,
+      "title": "AI Infrastructure Demand Surge Drives South Korea's August Semiconductor Exports Up 209% to Another Record",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFc4bTExbGQweGt4OHNVVjRRS2RlcmN3dDBDWFVzeTFfd3BNUHhXT09ORzVzd2hVbnhlZVI5MlNpOWZrNUxHSGtjWTBsai13R1ZzaHpSUnAtLVRaNUljdmdqTDVsOElKR3ByQ3Rka3ZxaEhsSEpSNldBVm0xSVlVenBKV3VRaTdteDJxY3dUUmF1ZVM2NjBLSEpIQXlrTEZrSnNiVHdQX2JOSDJfVjFocWZjSVJfMjcxYkxTMw?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ibk1aNGRaMmQtaVR1cUkydGtFUmR6TkEyNXY4N1JIdVpLNHRzWnQ2R2xBcEVCbzdjcDllbW1LenVJZDFUbHgzd2w2UjBJNFoyV1dsRFJxYXFUM0xzLTZybXRZYnRqTTB2NWVrUTBpTlVwZnJ0UUE?oc=5",
       "age": "TUORE",
       "id": "02"
     },
     {
-      "category": "TALOUS",
-      "type": "SIGNAL",
-      "score": 75,
-      "title": "Global Bond Yields Surge as Inflation Fears Rise",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXRsbzVpN09jS2VHaE5PSHJ1NjdVNFBSVF9naFY2M0VzWjU0akMzMjAyVmk5SExrUmt1TWVUQkNFTHBBVzJJY3EwX0Y3eG1RZm52TTlMVXVtMDdNOUs5QmNocGFYZVEwVTZtM09vMi1KdG9jT3Q3cC00aEZEQXF1YkNjbVlhckFoaFplZ0xFQ0R1WURxVTN4bm1tR191c2s0MzNUVQ?oc=5",
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 82,
+      "title": "Germany equals Pakistan’s historic record of 4 Hockey World Cup",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Minute Mirror",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0tQV3VEY1lzOVZZNUZrMTRRZ1VhSXhFWXk5ME1lckgtUkZoeFhYYVNsa2ljbTU4UVROVG1nQmpaMi13X1JYTVV3WVpfYXZMaWJPOHRWcUw5Qi1Ic0FVVDEyWC1XOU1DSEtKbVQ5RFJVYVBVVWxVekJ6Z0xiek0tWUVweUN2dnlYSlFScHVHN1QwZG8zU0lLVllTZHFLSDQ?oc=5",
       "age": "TUORE",
       "id": "03"
     }
@@ -45,7 +45,7 @@
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
