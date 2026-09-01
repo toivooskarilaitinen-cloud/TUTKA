@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T16:44:34.803874+00:00",
-  "updated": "16:44 UTC",
-  "rejected": 234,
+  "generated_at": "2026-09-01T21:06:44.322745+00:00",
+  "updated": "21:06 UTC",
+  "rejected": 224,
   "findings": [
     {
       "category": "TEKNOLOGIA",
@@ -17,18 +17,6 @@
       "id": "01"
     },
     {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 86,
-      "title": "AI Infrastructure Demand Surge Drives South Korea's August Semiconductor Exports Up 209% to Another Record",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ibk1aNGRaMmQtaVR1cUkydGtFUmR6TkEyNXY4N1JIdVpLNHRzWnQ2R2xBcEVCbzdjcDllbW1LenVJZDFUbHgzd2w2UjBJNFoyV1dsRFJxYXFUM0xzLTZybXRZYnRqTTB2NWVrUTBpTlVwZnJ0UUE?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
       "category": "URHEILU",
       "type": "RECORD WATCH",
       "score": 82,
@@ -38,14 +26,50 @@
       "source": "Minute Mirror",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0tQV3VEY1lzOVZZNUZrMTRRZ1VhSXhFWXk5ME1lckgtUkZoeFhYYVNsa2ljbTU4UVROVG1nQmpaMi13X1JYTVV3WVpfYXZMaWJPOHRWcUw5Qi1Ic0FVVDEyWC1XOU1DSEtKbVQ5RFJVYVBVVWxVekJ6Z0xiek0tWUVweUN2dnlYSlFScHVHN1QwZG8zU0lLVllTZHFLSDQ?oc=5",
       "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "AI Infrastructure Demand Surge Drives South Korea's August Semiconductor Exports Up 209% to Another Record",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ibk1aNGRaMmQtaVR1cUkydGtFUmR6TkEyNXY4N1JIdVpLNHRzWnQ2R2xBcEVCbzdjcDllbW1LenVJZDFUbHgzd2w2UjBJNFoyV1dsRFJxYXFUM0xzLTZybXRZYnRqTTB2NWVrUTBpTlVwZnJ0UUE?oc=5",
+      "age": "TUORE",
       "id": "03"
+    },
+    {
+      "category": "TALOUS",
+      "type": "SIGNAL",
+      "score": 79,
+      "title": "Global Bond Yields Surge as Inflation Fears Rise",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXRsbzVpN09jS2VHaE5PSHJ1NjdVNFBSVF9naFY2M0VzWjU0akMzMjAyVmk5SExrUmt1TWVUQkNFTHBBVzJJY3EwX0Y3eG1RZm52TTlMVXVtMDdNOUs5QmNocGFYZVEwVTZtM09vMi1KdG9jT3Q3cC00aEZEQXF1YkNjbVlhckFoaFplZ0xFQ0R1WURxVTN4bm1tR191c2s0MzNUVQ?oc=5",
+      "age": "TUORE",
+      "id": "04"
+    },
+    {
+      "category": "URHEILU",
+      "type": "ODDITY",
+      "score": 75,
+      "title": "WVU football: 'Cowboy' Kayden Luke making mark as a rare fullback",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Charleston Gazette-Mail",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRGxJcDJPajFhYkw3RWxYUUFtUE41YzdQS2l2b2lDM25taDg3d096Q1E2TGhBOGRjMlh2TlY3MEd6R0N2Q0p3T0t5T2tOUElCdkFlTy1rUFpiMElTZE13alNSRUk2YjZJaGVSX3k2ZmRYWmR3WlQwcTA0ZEhuakR6WmEwTjBlRnhnZWR5UGN0VzVEelVBX0tMeDdUMGdCa1FnRVJDbzVKWkg3R2l3aXJaX2JycVllbk1kMzNDeXduWHd2TGtSVkFoWElUMVl0MEo4c2FHQTdfa0tOY1dEREo1WEx3NU5zYVFY?oc=5",
+      "age": "TUORE",
+      "id": "05"
     }
   ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
