@@ -1,44 +1,56 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T04:42:28.709786+00:00",
-  "updated": "04:42 UTC",
-  "rejected": 254,
+  "generated_at": "2026-09-02T11:25:38.942562+00:00",
+  "updated": "11:25 UTC",
+  "rejected": 255,
   "findings": [
     {
-      "category": "URHEILU",
+      "category": "TALOUS",
       "type": "RECORD WATCH",
-      "score": 82,
-      "title": "Germany equals Pakistan’s historic record of 4 Hockey World Cup",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "minutemirror.com.pk",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0tQV3VEY1lzOVZZNUZrMTRRZ1VhSXhFWXk5ME1lckgtUkZoeFhYYVNsa2ljbTU4UVROVG1nQmpaMi13X1JYTVV3WVpfYXZMaWJPOHRWcUw5Qi1Ic0FVVDEyWC1XOU1DSEtKbVQ5RFJVYVBVVWxVekJ6Z0xiek0tWUVweUN2dnlYSlFScHVHN1QwZG8zU0lLVllTZHFLSDQ?oc=5",
+      "score": 80,
+      "title": "Warsh's Jackson Hole encore may put Trump's inflation record under a microscope",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1R1MzRzd281NmluU3cyRUNUV1VRY2h0UFFKbU40ZVExWWVXdGIwNGltaEwyUXJ4UWVzU3owNXlsd3FFbTBYVTRxMW1SQlBvLTRpT1dSeE9TRG5qbmUwUmJSa3NYZ29IRGxFRmZLVzBKdjNpZXFPZGhEamJOWmRiX3VQNlBmNDJMM0ZTS0xBSks3Z2NfOUJURGZPU1pWWGJrVGRMT2o5dFczNXhxdVhCSXpBZ1VGT1FCazgzcg?oc=5",
       "age": "TUORE",
       "id": "01"
     },
     {
-      "category": "TEKNOLOGIA",
+      "category": "KULTTUURI",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "South Korea sets record 820.9 trillion-won budget",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "동아일보",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wdmZ0NzEteXF4U1JvRWNZbDFHaGRrREFhYWw4ZkREdTlGOU9FQ3MwRTU2WnNRc1V1VFM4U2tyTDYtS3BrTWtETm8way1JMmM3ZnczcjJyWDYtV2xIUmtlXzdpeWl4UQ?oc=5",
+      "title": "Mundi Mundi Bash : Record rain turns festival into muddiest | The Inverell Times",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "inverelltimes.com.au",
+      "url": "https://www.inverelltimes.com.au/story/9336871/mundi-mundi-bash-record-rain-turns-festival-into-muddiest/",
       "age": "TUORE",
       "id": "02"
     },
     {
-      "category": "TEKNOLOGIA",
+      "category": "KULTTUURI",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "South Korea’s 2027 Budget Hits Record $597 Billion as Semiconductor Taxes Drive AI Investment",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN056ZjY2QU9CVHFvVmhHU3EyTllvYjhodWZ5WUVwVEFyU2FyM0RLRm4xMURsemU3V010WmhCQ3p1cFBNaTJGUFdqcl9HMW45VnNEdjBXb3kxV3VKWjZiMGlMQkRvX3B4VGVhVURQR3Z2eFRSMHdLUm9GbUVwNlBTUllvVEpsVkdJdUh3SzkzckNrS2RsX2MzR2RzSFB6OEdJdG1sUndjMVpoc1EtNm91WHp6aFloNFFteXJ5aFJ2ZEhLZFVqbnpGZFNnZnFyTTRZam1lUFNKRHpQa2U5cE9SQXZycw?oc=5",
+      "title": "He died in a sweltering house . Why doesnt his death record show it ?",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "wqcs.org",
+      "url": "https://www.wqcs.org/2026-09-02/he-died-in-a-sweltering-house-why-doesnt-his-death-record-show-it",
       "age": "TUORE",
       "id": "03"
+    },
+    {
+      "category": "TALOUS",
+      "type": "ODDITY",
+      "score": 75,
+      "title": "Dodgers Make Rare September Trade, Acquire Pitcher From Blue Jays",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkhvN3h0YzhIbk9NZDI3SjlocFBGWmo3QzJNdGpSVkRqbTlMWnlEV0ZJRU1WVXhwSV9wdXFucnlZOUVpOXVDaEN3bXE3cGRlR0l5a1JDSmpwQzNUbHcxcVByZjJCc3VKcUgwc1lDY2RGV0IxUmRVR1hrcGlhd2c5RlYtYjA4NlBDNlFKME1R?oc=5",
+      "age": "TUORE",
+      "id": "04"
     },
     {
       "category": "URHEILU",
@@ -50,14 +62,14 @@
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOeXBSYU1UY2VNMnlzS1FCaGQzaWh3dldTWFNjRWdkYThRNDkyUndVRWdwTm01Tm5aWXBBbF9RSjMwYko4ejJRWnpUT0FIZkxUX2FRUTJtUURqWnE3NnRhOWEtbzhqMXM?oc=5",
       "age": "TUORE",
-      "id": "04"
+      "id": "05"
     }
   ],
   "errors": [],
   "providers": {
     "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
