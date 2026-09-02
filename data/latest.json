@@ -1,39 +1,27 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T16:39:37.980356+00:00",
-  "updated": "16:39 UTC",
-  "rejected": 240,
+  "generated_at": "2026-09-02T21:07:57.174436+00:00",
+  "updated": "21:07 UTC",
+  "rejected": 248,
   "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Music CDs are seen on display at the Rough Trade NYC record store in Brooklyn, New York",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 8 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "crossroadstoday.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPb0dhRFB2TFJNMENhdDM2M2ZoYnVMWnh0X3NxeF9lRGpRRm1YUGhQZEVrX1Nual9sMTV4SzdPVy1JaG03dlVWUFF4VG84YUwxU3VRbWlJeEllMktQUWRWU3Q3c2ZSOVA5VEQ0SVBpVmJ4c0VzUDBUa1NHVW5rOElvZmtBWEdNSnFZX3l4bXo1UG1GYVZVMm9wUWRxN1l0WC1EV0VISWliMElIZTN1elpBbnNMMUNnLXdVY1ctcGZzVFNPMmZ3UXQ5aHJ5WVlUeUJLMnRhaXBEUXpRb1ZxRW5pRk4ycmV1aG85bThLZXgwdGQyRWwtTlFaTU1JZTBMLThWSHExU1Y5VVBSX2VI?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
     {
       "category": "TALOUS",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "Andy Burnham blames rising debt costs on Tory record at first PMQs",
+      "title": "Music CDs are seen on display at the Rough Trade NYC record store in Brooklyn, New York",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "northwalespioneer.co.uk",
-      "url": "https://www.northwalespioneer.co.uk/news/national/26515547.andy-burnham-blames-rising-debt-costs-tory-record-first-pmqs/",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "crossroadstoday.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPb0dhRFB2TFJNMENhdDM2M2ZoYnVMWnh0X3NxeF9lRGpRRm1YUGhQZEVrX1Nual9sMTV4SzdPVy1JaG03dlVWUFF4VG84YUwxU3VRbWlJeEllMktQUWRWU3Q3c2ZSOVA5VEQ0SVBpVmJ4c0VzUDBUa1NHVW5rOElvZmtBWEdNSnFZX3l4bXo1UG1GYVZVMm9wUWRxN1l0WC1EV0VISWliMElIZTN1elpBbnNMMUNnLXdVY1ctcGZzVFNPMmZ3UXQ5aHJ5WVlUeUJLMnRhaXBEUXpRb1ZxRW5pRk4ycmV1aG85bThLZXgwdGQyRWwtTlFaTU1JZTBMLThWSHExU1Y5VVBSX2VI?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "01"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
