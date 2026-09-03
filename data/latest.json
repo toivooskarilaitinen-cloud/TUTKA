@@ -1,9 +1,21 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T16:31:11.079141+00:00",
-  "updated": "16:31 UTC",
-  "rejected": 271,
+  "generated_at": "2026-09-03T21:06:33.756595+00:00",
+  "updated": "21:06 UTC",
+  "rejected": 240,
   "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 93,
+      "title": "John Turturro Was Given a Rare Leading Film Role. Now He’s in the Running for His First-Ever Oscar Nod",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXlobElnOUZaNTlTTnh1RUNUUnI4ZUpiem52NUN6ejFtcldRcHRIbGlzOWVkVUR2blVZU1hRaUNjenR2UFJVN3hRUGNKUGVacjI3ekdhdGVYZElNM3BrMnI4cjIwRnZENG16S1J0M05CMDY4aFVjSXdpNVo5WGhaSVRmOEdDSmx2ODNGTE8tUXFXRjl5aVZDcUdZdV9lSkcxQlExUkU3Uzl0T1hiZl9jMXdyMTRHSk1jU0tZOHM1cXptUUdR?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
@@ -14,12 +26,12 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXA1TU9pUWF1ckJBWXdiWVVIVXBNTUQ0UEF3S1JzR1FDRFJLMVJQTkNoeUYyU0xwV28wWGZ2LXNGNlhiRjdxRlphTDR5X2tOVkZublJhdk8yVE9iS3ZBQmtTZkZ0X2VsTzdPTjFxX3FiMUNmQWxPNEsxOHRFXzMxcGlkQVNEZmdDM2RzbzRR?oc=5",
       "age": "TUORE",
-      "id": "01"
+      "id": "02"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
