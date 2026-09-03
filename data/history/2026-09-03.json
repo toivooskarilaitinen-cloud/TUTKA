@@ -1,14 +1,27 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T11:22:31.570612+00:00",
-  "updated": "11:22 UTC",
-  "rejected": 259,
-  "findings": [],
+  "generated_at": "2026-09-03T16:31:11.079141+00:00",
+  "updated": "16:31 UTC",
+  "rejected": 271,
+  "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "Semiconductor Exports Drive Record Surge in South Korea's Foreign Reserves",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXA1TU9pUWF1ckJBWXdiWVVIVXBNTUQ0UEF3S1JzR1FDRFJLMVJQTkNoeUYyU0xwV28wWGZ2LXNGNlhiRjdxRlphTDR5X2tOVkZublJhdk8yVE9iS3ZBQmtTZkZ0X2VsTzdPTjFxX3FiMUNmQWxPNEsxOHRFXzMxcGlkQVNEZmdDM2RzbzRR?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
