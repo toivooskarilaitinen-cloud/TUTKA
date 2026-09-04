@@ -1,25 +1,49 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T04:40:01.159319+00:00",
-  "updated": "04:40 UTC",
-  "rejected": 270,
+  "generated_at": "2026-09-04T11:24:26.585002+00:00",
+  "updated": "11:24 UTC",
+  "rejected": 218,
   "findings": [
     {
-      "category": "URHEILU",
+      "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 82,
-      "title": "UMass football snaps longest FBS losing streak with 37-21 win at Rutgers",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Greenfield Recorder",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUowaDM2dThjOW91dHFTNm5GZklNY0pEVERiTGZwdnFIMzdEdUhsVlF5SmMyRFhTTVh6Mm9CU0ZpLUhwTTk5R21lQW14blRRcjFVdEZTYjEzV0NLS2ZCR0NtU0llMXlkV2VKRHJsU19GTkdmeGRYOFk4cFB1T3VvQk1WYlBnNVBndGpoVHp3cTdWcTdTVkhmOWtnVHpOUHFMeGJqMV9xX2k?oc=5",
+      "score": 93,
+      "title": "John Turturro Was Given a Rare Leading Film Role. Now He’s in the Running for His First-Ever Oscar Nod",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "hollywoodreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXlobElnOUZaNTlTTnh1RUNUUnI4ZUpiem52NUN6ejFtcldRcHRIbGlzOWVkVUR2blVZU1hRaUNjenR2UFJVN3hRUGNKUGVacjI3ekdhdGVYZElNM3BrMnI4cjIwRnZENG16S1J0M05CMDY4aFVjSXdpNVo5WGhaSVRmOEdDSmx2ODNGTE8tUXFXRjl5aVZDcUdZdV9lSkcxQlExUkU3Uzl0T1hiZl9jMXdyMTRHSk1jU0tZOHM1cXptUUdR?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "The price of diesel hits a record high",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "wxpr.org",
+      "url": "https://www.wxpr.org/2026-09-04/the-price-of-diesel-hits-a-record-high",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "US diesel prices hit record high of $5 . 85 on average amid Iran War",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "wgal.com",
+      "url": "https://www.wgal.com/article/record-diesel-prices-iran-war-fuel-supply/73613348",
+      "age": "TUORE",
+      "id": "03"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "GDELT",
     "URHEILU": "Google News"
