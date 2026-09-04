@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T11:24:26.585002+00:00",
-  "updated": "11:24 UTC",
-  "rejected": 218,
+  "generated_at": "2026-09-04T16:26:12.014504+00:00",
+  "updated": "16:26 UTC",
+  "rejected": 238,
   "findings": [
     {
       "category": "KULTTUURI",
@@ -11,41 +11,53 @@
       "title": "John Turturro Was Given a Rare Leading Film Role. Now He’s in the Running for His First-Ever Oscar Nod",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "hollywoodreporter.com",
+      "source": "The Hollywood Reporter",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXlobElnOUZaNTlTTnh1RUNUUnI4ZUpiem52NUN6ejFtcldRcHRIbGlzOWVkVUR2blVZU1hRaUNjenR2UFJVN3hRUGNKUGVacjI3ekdhdGVYZElNM3BrMnI4cjIwRnZENG16S1J0M05CMDY4aFVjSXdpNVo5WGhaSVRmOEdDSmx2ODNGTE8tUXFXRjl5aVZDcUdZdV9lSkcxQlExUkU3Uzl0T1hiZl9jMXdyMTRHSk1jU0tZOHM1cXptUUdR?oc=5",
       "age": "TUORE",
       "id": "01"
     },
     {
-      "category": "TALOUS",
+      "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 77,
-      "title": "The price of diesel hits a record high",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "wxpr.org",
-      "url": "https://www.wxpr.org/2026-09-04/the-price-of-diesel-hits-a-record-high",
+      "score": 93,
+      "title": "UMass snaps college football's longest losing streak with Rutgers upset",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmNFQTQtbGlCTkgyZUotem5VcXg4ZmxXQWlZN0JBNW1HSTJGSF9tbHVILUQ2bVNFbVVlOGRNOVU1MnJkbVRwcElJS1dZRURYQ2s1cGFTa0stenZWYWdJR2FyYWlfZ1llaURkYVN3ZGp1UWZUZmtWb3JveFF3S2dBSXN3ekNpUVhxUmhkRHZBZmlCTFIxRGNFd3ZoeVpNcl93dFY1bkU1SEs?oc=5",
       "age": "TUORE",
       "id": "02"
     },
     {
-      "category": "TALOUS",
+      "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 77,
-      "title": "US diesel prices hit record high of $5 . 85 on average amid Iran War",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "wgal.com",
-      "url": "https://www.wgal.com/article/record-diesel-prices-iran-war-fuel-supply/73613348",
+      "score": 90,
+      "title": "Hayashi and Japan on fire, set all-time triples record",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "FIBA Basketball",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaV9TdW9YLWtBMXBVTEt3V051QnlLMkR0MkxwSU5zS1R3enNvS1Q4dTdBWWloVnB4cTJZcENSZXJLd2xDTzB4OWp2UWF1N0kybVBXeEhxa25Zdnh0WC10ZDQxU2dlM2ZYWTFTS1VkS3h6U1BwU3VNbWtjYk1wb3Z2N211YUxvYklPVVAzaGpiU1VTQWhKaGdXcGNHSHJjYjJXMjE3aHRRUnpIMDFuS0kzSGotdVJyZDJDZ0t3dS1WN3dXcGpm?oc=5",
       "age": "TUORE",
       "id": "03"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "South Korea Posts Record July Current Account Surplus",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16UmhRMlE1Wk9XLXZfWDA5R3JBTE9VejVGSXJwZzd4UlZPT2pGTDVJaUs4bklNbEdyTXhKekxHNU1RNjRhVHhiQU40YzFUWUVGUXlZSUJ3Wlh4T2kxOGdyLTZtVF80S2dLOHBPdGJ3dkJrLTBS?oc=5",
+      "age": "TUORE",
+      "id": "04"
     }
   ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
