@@ -1,9 +1,21 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T15:18:45.234010+00:00",
-  "updated": "15:18 UTC",
+  "generated_at": "2026-09-05T20:26:31.805099+00:00",
+  "updated": "20:26 UTC",
   "rejected": 204,
   "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "Hanuman Ansh Sets All-Time Box Office Record For Fifth Friday",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "zoomtventertainment.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnh6Yk5qYVdIMVhxaUM5NmgxbFUwNjhFY2NWUFNDbEVGUXdEV1d3Ungxbl85UjRJOHZvY2V0ME9GUWRqV1hwNkxrbnJKMS10SWVRNE5ZOGtJMHYwb2N3dndEaTlNN0pxZW9mTWlSdE9sWmkyd1V0eWU4LV9mZjdnZ09KM0M2ZVVoNjVreVF3N09WZ0gyNmtLUThIY2xGSlF4c0ZEbEluVEFNMTRTSlhSSDA4ekdSdS1CNm5IVUhBMGRHRnc?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "URHEILU",
       "type": "SIGNAL",
@@ -14,7 +26,7 @@
       "source": "Western Mass News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk5aVld1WVdVUXZkNTE1U0FhT3Vyb3NEODJFT3BrclFZdUcyN3VrRW45MjVTNVVJUVY3eTMtT0hEa0xGclVZNHJadTVsY2FxUGozelFCanVCZVU4Z0RVRlpDQjdnVDJaWVY4aTltN3VVMmZiVEtjSEUzZUpYYk5iUS1ORXowN0JJUlBkazNXZmo0ek5iMFRNM2JpR1VlbjBFTWd4SWUxWDlrQdIBvgFBVV95cUxOb1RNVjJhaGVnSzA5TnpmS0tkSk5fMFlfeWNZWUs4VkQxLVpOWDkybnpzVWtCNjBEY1lnQnUyMUJIWDQ0c09lMXhQdGRTeFVPdGVIOW5Hc0VhQzZ5QUc0RHRDQkhWa3VMa3hTT185VDNuN0JLR2JJUHFZR0RLX2w5NnFDTFVTbmQwZjU2ZDNNODZUeUdab2VtSExqMHoyRUxtSzBvVy0tamVFMnU2ZzE2NkM3aW8zZjlfR1g4NGFB?oc=5",
       "age": "TUORE",
-      "id": "01"
+      "id": "02"
     },
     {
       "category": "TEKNOLOGIA",
@@ -26,19 +38,31 @@
       "source": "Storyboard18",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlQ5MWZmN2M0YjB6emkySmpaWU5ZZWxSTnYtcmJkSnlfMUhKTy16TDZDTnp0SjRWTUdET1BGclh4YS11TGpfUGhYMnBXbGwwdHZMN0kwMmVTbFVTa1o3Mlg5Q2JGRkFqRjRYX0EyTjMwSWhhZnZNYmpFenUtMUhib0wtMGNoLURfeGRFSXJxYVdoMUhOVzF4YWs2ZjBZd3oxSHZOYldmV0hLSmpRektNQlNzWW01Y05RdVVqSWxoa9IBxAFBVV95cUxPeFJTUXZMZmlpRzFCRGcyOXFwUWZDMHRxVEJFTGE5aG0wNXZrUGM5YkVoRl9PdjRqcklOamlDVUdNOGJNT3ZFOEc5ZzBPQU9HLURQMDhFTGpHdTJTS1c1UEFSRkhOc1BpUEN0Y2pVRE1RbDV5WlNBY2xlUGtBT29RUllFckl4alJvTl9MYVJZTzk5ZktBX2YtTWNfNVlTTEgydmpQZzQ4Q3c1Mlp2cXB4RXNqLTMyNmZQeXdrUFlFcF8yeWph?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "03"
     },
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "Record-setting Japan, U.S. start Women’s Basketball World Cup with wins, Spain downs hosts",
+      "title": "Record-setting Japan, US start Women’s Basketball World Cup with wins, Spain downs hosts",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEtEWEdiTHlkUmVhNkRsTXBDRkt5U0drUmg2Ti1Hb0JmLUo4X0NKb2JTYVItczFnTmtFa1RWVXpaTFVyUVFrZHhIeF9SdGlVLXBsWlBybUlhdXgzNlBDWjQ3RVJRSWRXWG1LTmF6RHk0TTZad0ZFOV8xejVyay1PcTJKM0haQ0xMdjNmQ1ROeERaZUprLWNpazdWT21kcWUtMTZFWENaaXlsZnhZQUUwYTYwVjBtRHVhMUx0cGFaSmFQSTQ1c0gzeDlzMHI?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "arabnews.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pTFExeVp0MXdXTHU5cm1mV29zVmxWVmVsdGZfOVVRYmN1ZnJ2RVgyWEI0ZGlnbWkyQ0kxWnpMRkg2SEdrSDAya1dtS2haLThpMm5DQ3pIeXozZENUQVFyRQ?oc=5",
       "age": "TUORE",
-      "id": "03"
+      "id": "04"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzBwRGtBRUpMS2lpTUE3VzJpWk92V25OVUphRWdKNFNnSG1LX25NRER1elJBTWlGaUJYQ0xxenB6SnZuSGJMN2E0SjJfaVFsTHRpaExkaXdaeDZFUWRNWWxydUYzZldCOWtPTzRNWWw0ZHhTTVRLLTY0aUFjN1gtQ2l4cFNiakVrSjdSMVdEUHFZLXhvdDhKN0hfZ0NmWWFPdHVTUzVkd0dPd0FGUjZvUW1RUmdSdjhnRnJQVw?oc=5",
+      "age": "TUORE",
+      "id": "05"
     }
   ],
   "errors": [],
