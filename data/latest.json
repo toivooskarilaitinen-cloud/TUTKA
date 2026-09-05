@@ -1,21 +1,9 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T10:41:08.326217+00:00",
-  "updated": "10:41 UTC",
-  "rejected": 247,
+  "generated_at": "2026-09-05T15:18:45.234010+00:00",
+  "updated": "15:18 UTC",
+  "rejected": 204,
   "findings": [
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 90,
-      "title": "Hayashi and Japan on fire, set all-time triples record",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "FIBA",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaV9TdW9YLWtBMXBVTEt3V051QnlLMkR0MkxwSU5zS1R3enNvS1Q4dTdBWWloVnB4cTJZcENSZXJLd2xDTzB4OWp2UWF1N0kybVBXeEhxa25Zdnh0WC10ZDQxU2dlM2ZYWTFTS1VkS3h6U1BwU3VNbWtjYk1wb3Z2N211YUxvYklPVVAzaGpiU1VTQWhKaGdXcGNHSHJjYjJXMjE3aHRRUnpIMDFuS0kzSGotdVJyZDJDZ0t3dS1WN3dXcGpm?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
     {
       "category": "URHEILU",
       "type": "SIGNAL",
@@ -26,7 +14,7 @@
       "source": "Western Mass News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk5aVld1WVdVUXZkNTE1U0FhT3Vyb3NEODJFT3BrclFZdUcyN3VrRW45MjVTNVVJUVY3eTMtT0hEa0xGclVZNHJadTVsY2FxUGozelFCanVCZVU4Z0RVRlpDQjdnVDJaWVY4aTltN3VVMmZiVEtjSEUzZUpYYk5iUS1ORXowN0JJUlBkazNXZmo0ek5iMFRNM2JpR1VlbjBFTWd4SWUxWDlrQdIBvgFBVV95cUxOb1RNVjJhaGVnSzA5TnpmS0tkSk5fMFlfeWNZWUs4VkQxLVpOWDkybnpzVWtCNjBEY1lnQnUyMUJIWDQ0c09lMXhQdGRTeFVPdGVIOW5Hc0VhQzZ5QUc0RHRDQkhWa3VMa3hTT185VDNuN0JLR2JJUHFZR0RLX2w5NnFDTFVTbmQwZjU2ZDNNODZUeUdab2VtSExqMHoyRUxtSzBvVy0tamVFMnU2ZzE2NkM3aW8zZjlfR1g4NGFB?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "01"
     },
     {
       "category": "TEKNOLOGIA",
@@ -37,6 +25,18 @@
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Storyboard18",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlQ5MWZmN2M0YjB6emkySmpaWU5ZZWxSTnYtcmJkSnlfMUhKTy16TDZDTnp0SjRWTUdET1BGclh4YS11TGpfUGhYMnBXbGwwdHZMN0kwMmVTbFVTa1o3Mlg5Q2JGRkFqRjRYX0EyTjMwSWhhZnZNYmpFenUtMUhib0wtMGNoLURfeGRFSXJxYVdoMUhOVzF4YWs2ZjBZd3oxSHZOYldmV0hLSmpRektNQlNzWW01Y05RdVVqSWxoa9IBxAFBVV95cUxPeFJTUXZMZmlpRzFCRGcyOXFwUWZDMHRxVEJFTGE5aG0wNXZrUGM5YkVoRl9PdjRqcklOamlDVUdNOGJNT3ZFOEc5ZzBPQU9HLURQMDhFTGpHdTJTS1c1UEFSRkhOc1BpUEN0Y2pVRE1RbDV5WlNBY2xlUGtBT29RUllFckl4alJvTl9MYVJZTzk5ZktBX2YtTWNfNVlTTEgydmpQZzQ4Q3c1Mlp2cXB4RXNqLTMyNmZQeXdrUFlFcF8yeWph?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Record-setting Japan, U.S. start Women’s Basketball World Cup with wins, Spain downs hosts",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEtEWEdiTHlkUmVhNkRsTXBDRkt5U0drUmg2Ti1Hb0JmLUo4X0NKb2JTYVItczFnTmtFa1RWVXpaTFVyUVFrZHhIeF9SdGlVLXBsWlBybUlhdXgzNlBDWjQ3RVJRSWRXWG1LTmF6RHk0TTZad0ZFOV8xejVyay1PcTJKM0haQ0xMdjNmQ1ROeERaZUprLWNpazdWT21kcWUtMTZFWENaaXlsZnhZQUUwYTYwVjBtRHVhMUx0cGFaSmFQSTQ1c0gzeDlzMHI?oc=5",
       "age": "TUORE",
       "id": "03"
     }
