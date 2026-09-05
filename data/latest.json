@@ -1,8 +1,8 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T04:36:07.305300+00:00",
-  "updated": "04:36 UTC",
-  "rejected": 250,
+  "generated_at": "2026-09-05T10:41:08.326217+00:00",
+  "updated": "10:41 UTC",
+  "rejected": 247,
   "findings": [
     {
       "category": "URHEILU",
@@ -19,10 +19,10 @@
     {
       "category": "URHEILU",
       "type": "SIGNAL",
-      "score": 85,
+      "score": 80,
       "title": "Students celebrate UMass football’s historic upset over Rutgers",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Western Mass News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk5aVld1WVdVUXZkNTE1U0FhT3Vyb3NEODJFT3BrclFZdUcyN3VrRW45MjVTNVVJUVY3eTMtT0hEa0xGclVZNHJadTVsY2FxUGozelFCanVCZVU4Z0RVRlpDQjdnVDJaWVY4aTltN3VVMmZiVEtjSEUzZUpYYk5iUS1ORXowN0JJUlBkazNXZmo0ek5iMFRNM2JpR1VlbjBFTWd4SWUxWDlrQdIBvgFBVV95cUxOb1RNVjJhaGVnSzA5TnpmS0tkSk5fMFlfeWNZWUs4VkQxLVpOWDkybnpzVWtCNjBEY1lnQnUyMUJIWDQ0c09lMXhQdGRTeFVPdGVIOW5Hc0VhQzZ5QUc0RHRDQkhWa3VMa3hTT185VDNuN0JLR2JJUHFZR0RLX2w5NnFDTFVTbmQwZjU2ZDNNODZUeUdab2VtSExqMHoyRUxtSzBvVy0tamVFMnU2ZzE2NkM3aW8zZjlfR1g4NGFB?oc=5",
       "age": "TUORE",
@@ -31,26 +31,14 @@
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 81,
-      "title": "Broadcom stock falls despite record Q3 2026 AI revenue surge",
+      "score": 77,
+      "title": "Global billionaire wealth hits record $15 trillion as AI boom drives gains",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGY4ejJCMWd4WGc5aEJuTmF0SDhnYkEtay1QQ2xCYVJBbDlTaWktLXlKb2FlcFh1U1NxZ1ZMLWdnZnhVRlpEa3pUYms2RG9uZEY3djZGdlk0MjJ0RXdyWF9OMlhyX082cndMbXlIMHNWTEtsWUZ3ZEl0QmRDNE8zZHJPWFExU181b2xBcjZQbWhHZkg4Vk00U3p3WWM0ajEzVTdKa0RDT0l3WTNMQy1id3hrVW5zallLdktGWkNjVTc?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlQ5MWZmN2M0YjB6emkySmpaWU5ZZWxSTnYtcmJkSnlfMUhKTy16TDZDTnp0SjRWTUdET1BGclh4YS11TGpfUGhYMnBXbGwwdHZMN0kwMmVTbFVTa1o3Mlg5Q2JGRkFqRjRYX0EyTjMwSWhhZnZNYmpFenUtMUhib0wtMGNoLURfeGRFSXJxYVdoMUhOVzF4YWs2ZjBZd3oxSHZOYldmV0hLSmpRektNQlNzWW01Y05RdVVqSWxoa9IBxAFBVV95cUxPeFJTUXZMZmlpRzFCRGcyOXFwUWZDMHRxVEJFTGE5aG0wNXZrUGM5YkVoRl9PdjRqcklOamlDVUdNOGJNT3ZFOEc5ZzBPQU9HLURQMDhFTGpHdTJTS1c1UEFSRkhOc1BpUEN0Y2pVRE1RbDV5WlNBY2xlUGtBT29RUllFckl4alJvTl9MYVJZTzk5ZktBX2YtTWNfNVlTTEgydmpQZzQ4Q3c1Mlp2cXB4RXNqLTMyNmZQeXdrUFlFcF8yeWph?oc=5",
       "age": "TUORE",
       "id": "03"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "The price of diesel hits a record high",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mRE41N0E1NzZmLUN1X2ZaM09CRzB3dWx4Uk1EbmRiS3E2c2VxU3hUY2xacDd0eG5qT0VCS0RjTEdqdUJFRkdEejZ4TXpfUEw3WE1yUnRIcHIwUm9SN0t0TkZXdlFySEJGVG5tY19PVmxOQktwbFlPZg?oc=5",
-      "age": "TUORE",
-      "id": "04"
     }
   ],
   "errors": [],
