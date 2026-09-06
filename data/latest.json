@@ -1,18 +1,18 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T15:31:55.239147+00:00",
-  "updated": "15:31 UTC",
-  "rejected": 232,
+  "generated_at": "2026-09-06T20:28:25.442602+00:00",
+  "updated": "20:28 UTC",
+  "rejected": 261,
   "findings": [
     {
-      "category": "KULTTUURI",
-      "type": "ODDITY",
-      "score": 79,
-      "title": "Ethan Hawke makes ultra-rare red carpet appearance with daughter Indiana, 15",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "HELLO! Magazine",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaUEtSWx2TnkzMk5LYjhFWVprZ1d0SlB0aTRDcm94N0VuSUJfbENXOTBteHJfNlFEOEtJWkZWN2pVRlVudmJUUktZT2had05zbk1GUnAwd04wYVpHZVVMMWxTNEJDd0hiVnZsZnQyT0tuNk1XcDFLN2lHRjVwYV9zTmY3RmlNc2hpQmd2NkZUdnFhMkhVTE5ib3RIWWJjNGtRSE9kN1NTRzM4Rk5XRE5XaE1sdWc0ckwzSjlpOXZ0SQ?oc=5",
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Pitt's Mason Heintschel ties school record with 7 TD passes",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTNrMkNNQ1JOYjYwYTZZdkJPRktGYkh2U3E4MWc0N09qd2k0R09HbDVCOWhBaEZhRkl4NXR1dmQyZUJ2Z1I4OXJwOUJtZGZ2cUtjVWhPOVdkMHFBM0Q0VFZnYWh2Q0FaR3dBbTh0c1R3WlpaYkZiWk9ER3VwRTJzc0tkQS1ZWHZ1ZmVvOVFVWk9fQW5ieUtfQ191SEExenJoZzhaeW9ONldXd056Wjg4?oc=5",
       "age": "TUORE",
       "id": "01"
     }
@@ -21,7 +21,7 @@
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
