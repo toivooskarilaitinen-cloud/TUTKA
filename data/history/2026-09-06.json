@@ -1,32 +1,20 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T11:03:15.934312+00:00",
-  "updated": "11:03 UTC",
-  "rejected": 227,
+  "generated_at": "2026-09-06T15:31:55.239147+00:00",
+  "updated": "15:31 UTC",
+  "rejected": 232,
   "findings": [
     {
       "category": "KULTTUURI",
       "type": "ODDITY",
       "score": 79,
-      "title": "Ethan Hawke makes rare appearance with wife Ryan and teen daughter Indiana",
+      "title": "Ethan Hawke makes ultra-rare red carpet appearance with daughter Indiana, 15",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Page Six",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGdOcEZFTURkUlVLLU55SGFqNm54ZG83bTFFOVpxdzY4c200bFp4NTVEZlV1VFdTUmtDdmNHNW1mTl8wV1I3Rk95aWwxN1BmUmtrbVhLWHhOcnFpWVo1SVE3ZWU4dzRRazV3bkpmRmRCQ0hHVmItS092cy1JTDVjQXpmYkM1YU1QLVFIZlVkYnRJcmRvMllkRmlqS3ZNZUNnZ1d2RFFqX1h2Ymw5bUVFZXp0N2I?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "HELLO! Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaUEtSWx2TnkzMk5LYjhFWVprZ1d0SlB0aTRDcm94N0VuSUJfbENXOTBteHJfNlFEOEtJWkZWN2pVRlVudmJUUktZT2had05zbk1GUnAwd04wYVpHZVVMMWxTNEJDd0hiVnZsZnQyT0tuNk1XcDFLN2lHRjVwYV9zTmY3RmlNc2hpQmd2NkZUdnFhMkhVTE5ib3RIWWJjNGtRSE9kN1NTRzM4Rk5XRE5XaE1sdWc0ckwzSjlpOXZ0SQ?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "AI Boom Pushes Global Billionaire Wealth to Record $15.1 Trillion in 2025",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "INDIA New England News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2N2QUNkQkFnODd3Q2FENHVSUERPOGh0b190d3U5RTRaUUFwMFFJWWlFZDNQWEhQM2ljWW44YnJxTVFIdWc4QUljN0pRM05FZ1VUYXNpTUJVZUFiaWo1ZHJyaWRrTlJGU3J3Y0tCMVpoMHlUbXBQWEN1RnVSTDFkbFY0ZWtVWVVwR0gySXJzenUwV0FSYi0zQ253OUxIRXB2eVhN?oc=5",
-      "age": "TUORE",
-      "id": "02"
     }
   ],
   "errors": [],
