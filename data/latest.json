@@ -1,63 +1,27 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T12:41:38.132374+00:00",
-  "updated": "12:41 UTC",
-  "rejected": 213,
+  "generated_at": "2026-09-07T21:34:35.158999+00:00",
+  "updated": "21:34 UTC",
+  "rejected": 255,
   "findings": [
     {
-      "category": "KULTTUURI",
+      "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 90,
-      "title": "Box Office: 'Spider-Man' Labor Day Pushing Summer To $4.76B All-Time Record",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "score": 81,
+      "title": "Nvidia Stock Eyes Record High as AI Investments Surge to $99B",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Deadline",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2N3UVRUU0tpX1lXSUtSS1h5Vk5kWkpaZk5XZnAtbDdiWlNOU0lJRGJMNDlkaFk1Z3UzR25uTGFpaGtxaTR2QnRqY0ExSGpkSHZIdDNudjlYazV2d0Jnd05HUF82TFkyYWxVbVdIVk9uTzJQZUZ0cDBMbFJibWFSajhUbkFBaS1sUEJiNFZpUGpleVBEQXliUUZxRlpBV0ZC?oc=5",
+      "source": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN19jeGQ0MDdYNGF0enlGZmZUNFRfX3MxRk1zc09uREFkd0RmLW50aFNpYUFfeG5UQkhzV1dSRTZCenZrTDR5V2VCTGdiV19aLTBuYkk4VW93MDNYbmNmcEJoRGZpYnpqbE1zLWRvdHhFbWNoOVZQSDZDQWZGLUdON1dCOW9QWEJqYW8ta05udDdkV3VpNFRGZ0dTVkxsdWc?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 90,
-      "title": "Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 in Sixth Weekend, Nears ‘Avengers: Endgame’ All-Time Domestic Record",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Variety",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbV94QWFTbU4zME5YSG5HR1IwY3g4cnNmd2lQT3NQa1FaNXVEZkdEamlmNkI5cnVKUUxYMUxXZ2w3LVdLY1cyMFFaai1JdGMyb3ZXazMyUTVicjVpeXo3VHdoTnFzV3ljSGhJdXRGbHJ0YnZJREgxOVZ1bGludjRmd1R5OGZqaXh5a201QWNNWlc3S0JEOGYwdnpEZ1oyeUVwTVh3?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Japan Likely Sold Treasuries to Fund Record Yen Intervention",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkdXcnRheVpDSV93WVJma0dYRmtUaGVuTm0wVXF5MEpwVUdiOUh6UWM5QXZpZ3dWelhlVWhKVHpPc1JUUkVyMklLdFpuWjZPUV9SaE5TaGthdzBfUDNjSERNOXRJT1J4eHZvd0lPQ0hYNFI4S09NNGJiTzZlVUN5Rm9DTUttNE9adzhUTW5OaHhjd29VTGYxYW5WUzNpaWVPSFI1SC11UURvMl9Takl2bg?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "This Date in Baseball - Dwight Gooden sets an NL record for a rookie with 228 strikeouts",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObzNvV3lKY1dqa2NQbnhKRERYbEpuRGRmaTZ2ekRiMVFZSFVzWDFUOGNUenFtTGpQNlh3RkhQY1I0MFE5OGZQUl85OEJJNmF1am5XRi03dU5WVVFlZ2RwV3RtNjd6TzlYNVVqclVmVkpXZXMxT21nTVNjbHM4eXN3OGMtSEZKQUs0SDVXRkJBdlVLRER2eUJxX1RSOEwweFE2VTVDNWZZdXZJcHBaaEVWOVk4WERMdkRNdEtCRkNtNUNJa3M0R0p2MA?oc=5",
-      "age": "TUORE",
-      "id": "04"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
