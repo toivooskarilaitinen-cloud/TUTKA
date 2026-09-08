@@ -1,51 +1,14 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T11:25:05.453264+00:00",
-  "updated": "11:25 UTC",
-  "rejected": 189,
-  "findings": [
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 90,
-      "title": "China’s Exports Surge 25% in August Amid Strong Demand and Record Trade Surplus",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "SSBCrack",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXdmMHdOZ2ZSQS14YVVFbENSbXcyVnJjS0IxX21ScVZMd2xUald6YTFlYXZaVDh4dl9IVXdnZnhKNTl2eUNScnNlbEdlalBUQUFPTmMtR3JjTV9mcTRyaGowNVlJWEZmVWNlSGFkN1d1UU5UN2JDVVFqcHBtV2FXWEx2czltM2M3U09wSzNiRTlUNDVadzV4RGNiMF9ybDk0RVdoLUhEcw?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 83,
-      "title": "China’s 25% export surge sets stage for record annual trade surplus",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnkxQXZIUUNxQzlQMXFUYTNMTXpfSjdjcHZaSUtTa0U4dEF1dHZUYzk2QzRDdzJlN0djaFNObE9qSXo1QUthc25Wck16MUZjd1FIVGFmZEg1RDlRZGFFRndWbENRVXpEUWVPRnM5MFd6aWlNaHpIblA0ejNZZW1PT3l1RjU?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Liverpool agree record-breaking £300m shirt deal with Turkish Airlines",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Times",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWFVQVXFmeHFrV2pFQi10WW9TRUlLMFh2VzB3OTZpMllNQng0M3kwOFFRSDBWSlV2T28tYkV1dkpPVzZ0VFFpbmw5TS1PVGl5ZEJRbjZmblhTQ3p0SEFhNXZfV3ltVEtrZm5EcGhqWVMyaTJNWVFKUkRFTHNhZk1uMk82TTRqMGlrNS1oV1VvdklZZm42a1dqdW5HU0Z4c1NiSUZqaWFCMXhiZnMtMWY5SFdQSnZvaHpjYldkQUpCZk55dXJXMngyU0JpM3ZKYkFueXNCWlFxaHhiSkloQ3c?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    }
-  ],
+  "generated_at": "2026-09-08T16:42:09.871066+00:00",
+  "updated": "16:42 UTC",
+  "rejected": 229,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
