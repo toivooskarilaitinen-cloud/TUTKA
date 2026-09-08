@@ -1,14 +1,39 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T16:42:09.871066+00:00",
-  "updated": "16:42 UTC",
-  "rejected": 229,
-  "findings": [],
+  "generated_at": "2026-09-08T21:13:59.220828+00:00",
+  "updated": "21:13 UTC",
+  "rejected": 209,
+  "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "Taiwan Semiconductor Just Set a New Company Record. A New All-Time High Stock Price Is Coming",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjl3V1V0T0VrX253WXI4OVJyLWstTDlHT3FnbjZBX19JUkhSUVE0aC1MZ0phQTgtN3dOV0lUc0FjZVpzamJTVEQwOWo3QlVKMmxEbDBtbVl3cEJadHcxek14UGNYQ2JlWDdRWmZxME5HRjFZNHZlb0pyR2RyNWdGLWQ3TXhhMWtNWEh3aXVmVWRlUEl3eURRbg?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "China’s Exports Surge 25% in August Amid Strong Demand and Record Trade Surplus",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXdmMHdOZ2ZSQS14YVVFbENSbXcyVnJjS0IxX21ScVZMd2xUald6YTFlYXZaVDh4dl9IVXdnZnhKNTl2eUNScnNlbEdlalBUQUFPTmMtR3JjTV9mcTRyaGowNVlJWEZmVWNlSGFkN1d1UU5UN2JDVVFqcHBtV2FXWEx2czltM2M3U09wSzNiRTlUNDVadzV4RGNiMF9ybDk0RVdoLUhEcw?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
+  ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
