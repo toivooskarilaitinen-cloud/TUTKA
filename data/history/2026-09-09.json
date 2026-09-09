@@ -1,44 +1,20 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T16:43:07.307513+00:00",
-  "updated": "16:43 UTC",
-  "rejected": 207,
+  "generated_at": "2026-09-09T20:59:05.320463+00:00",
+  "updated": "20:59 UTC",
+  "rejected": 236,
   "findings": [
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 95,
-      "title": "Taiwan Semiconductor Just Set a New Company Record. A New All-Time High Stock Price Is Coming",
+      "score": 88,
+      "title": "Taiwan’s Exports Surge to Record on Demand for AI Products",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjl3V1V0T0VrX253WXI4OVJyLWstTDlHT3FnbjZBX19JUkhSUVE0aC1MZ0phQTgtN3dOV0lUc0FjZVpzamJTVEQwOWo3QlVKMmxEbDBtbVl3cEJadHcxek14UGNYQ2JlWDdRWmZxME5HRjFZNHZlb0pyR2RyNWdGLWQ3TXhhMWtNWEh3aXVmVWRlUEl3eURRbg?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUpqSExsbXhiNFRJeWVLVHZZV0dqQXYweU0tZEZGb0pvUHBwbHQwMWwwaXlNUWtTQTN1VjlLT2xfdFFSZTFxZUZnTVVKRmxLdkVPUTZSeks0OVJRY0pHVTE2R1RyRlVKT0Rnb2FXeGJhaWxYdnNNaHg3ckQ5cUl2VlRRaUFYVE9vOWFyaFBNeUNoZV8ya1FIVlNwOWg0SG53LXVBN0tSeDNxS3I4Z1E?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "ODDITY",
-      "score": 79,
-      "title": "Casey Affleck’s Son Indiana, 22, Is All Grown Up During Rare Appearance at Venice Film Festival",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "E! News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdUpKLXhYbmxGVjdVT0htWWlsQWpaeGhTQTVZYndaNlc2aFB2UTZCOVhGTm43ejhkTVc0blRZMEp0LUxiSHBDa2RXVERzN1hVcTllbjRwWUE5Zm1ObXE0bXRsN1FyNjVOWmFlUzczazhjSXltLTZLM05iRy0wWnNQdVZsM0hnbElSNTNlaFd3U1l1cTRtNEZMLVFzbnJQdmJIMU9TVEgwRjN6U0pGZWc?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "ODDITY",
-      "score": 75,
-      "title": "Nick Nolte Looks Nearly Unrecognizable During Rare Appearance at Venice Film Festival",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWFBX0pnZmZORXdHRm9kQkxSRVVzU2UxLVJzM0dGbDhBMGpnbWxyLWdpakxqUzl4Z29rc3ZPeDFSRVVFbmc2cC13cVg1ODdIWS1PZGdEeElZemhlLW5kUzVNeUlvemY3dVRhSkdaOXlxcmFwajd5SHdqREhSVkI3MVdXd25GQQ?oc=5",
-      "age": "TUORE",
-      "id": "03"
     },
     {
       "category": "TEKNOLOGIA",
@@ -50,12 +26,12 @@
       "source": "PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZVk1cVJyTUNfNHNMTGJSMGJlTVlwakNkS25WelhKZVVuVl9pNlI3OUo3OFg3d1lETE5mVERVWTF5bEFhZlFEeGt5Uy1XN1VtYnB0THp6QWRHS1dtZkFJQjRHT1g5Ym9fSGdxalQ5Q2ZZOTctOHV5bGFZWWtVSjBjNFNYdnUyVFZ0LXFab1J4TzRhMUNDTDZKWW9RMkN2bnpRZm5LT0FyaWY0YXM4LVJzdG9WbERLZ2J2X3lWZl9KZ0xSWjUwRkc5NlhPWFBMRFhHUk5NWE1TaWI2RTBoWVlLRkowYUxoYU9YdjhN?oc=5",
       "age": "TUORE",
-      "id": "04"
+      "id": "02"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
