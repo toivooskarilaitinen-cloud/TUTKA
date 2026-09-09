@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T11:29:53.733952+00:00",
-  "updated": "11:29 UTC",
-  "rejected": 203,
+  "generated_at": "2026-09-09T16:43:07.307513+00:00",
+  "updated": "16:43 UTC",
+  "rejected": 207,
   "findings": [
     {
       "category": "TEKNOLOGIA",
@@ -19,6 +19,18 @@
     {
       "category": "KULTTUURI",
       "type": "ODDITY",
+      "score": 79,
+      "title": "Casey Affleck’s Son Indiana, 22, Is All Grown Up During Rare Appearance at Venice Film Festival",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "E! News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdUpKLXhYbmxGVjdVT0htWWlsQWpaeGhTQTVZYndaNlc2aFB2UTZCOVhGTm43ejhkTVc0blRZMEp0LUxiSHBDa2RXVERzN1hVcTllbjRwWUE5Zm1ObXE0bXRsN1FyNjVOWmFlUzczazhjSXltLTZLM05iRy0wWnNQdVZsM0hnbElSNTNlaFd3U1l1cTRtNEZMLVFzbnJQdmJIMU9TVEgwRjN6U0pGZWc?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "ODDITY",
       "score": 75,
       "title": "Nick Nolte Looks Nearly Unrecognizable During Rare Appearance at Venice Film Festival",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
@@ -26,7 +38,7 @@
       "source": "Yahoo News Canada",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWFBX0pnZmZORXdHRm9kQkxSRVVzU2UxLVJzM0dGbDhBMGpnbWxyLWdpakxqUzl4Z29rc3ZPeDFSRVVFbmc2cC13cVg1ODdIWS1PZGdEeElZemhlLW5kUzVNeUlvemY3dVRhSkdaOXlxcmFwajd5SHdqREhSVkI3MVdXd25GQQ?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "03"
     },
     {
       "category": "TEKNOLOGIA",
@@ -38,7 +50,7 @@
       "source": "PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZVk1cVJyTUNfNHNMTGJSMGJlTVlwakNkS25WelhKZVVuVl9pNlI3OUo3OFg3d1lETE5mVERVWTF5bEFhZlFEeGt5Uy1XN1VtYnB0THp6QWRHS1dtZkFJQjRHT1g5Ym9fSGdxalQ5Q2ZZOTctOHV5bGFZWWtVSjBjNFNYdnUyVFZ0LXFab1J4TzRhMUNDTDZKWW9RMkN2bnpRZm5LT0FyaWY0YXM4LVJzdG9WbERLZ2J2X3lWZl9KZ0xSWjUwRkc5NlhPWFBMRFhHUk5NWE1TaWI2RTBoWVlLRkowYUxoYU9YdjhN?oc=5",
       "age": "TUORE",
-      "id": "03"
+      "id": "04"
     }
   ],
   "errors": [],
