@@ -1,64 +1,15 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T04:50:01.958093+00:00",
-  "updated": "04:50 UTC",
-  "rejected": 226,
-  "findings": [
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 88,
-      "title": "Taiwan’s Exports Surge to Record on Demand for AI Products",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUpqSExsbXhiNFRJeWVLVHZZV0dqQXYweU0tZEZGb0pvUHBwbHQwMWwwaXlNUWtTQTN1VjlLT2xfdFFSZTFxZUZnTVVKRmxLdkVPUTZSeks0OVJRY0pHVTE2R1RyRlVKT0Rnb2FXeGJhaWxYdnNNaHg3ckQ5cUl2VlRRaUFYVE9vOWFyaFBNeUNoZV8ya1FIVlNwOWg0SG53LXVBN0tSeDNxS3I4Z1E?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "August was world joint hottest month on record – scientists | The Wiltshire Gazette and Herald",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 13 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "gazetteandherald.co.uk",
-      "url": "https://www.gazetteandherald.co.uk/news/national/26537350.august-worlds-joint-hottest-month-record---scientists/",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "ODDITY",
-      "score": 75,
-      "title": "Hylenr Technologies Finds Rare-Earth Signatures, Opens New Technology Pathway Through Nuclear Fusion",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZVk1cVJyTUNfNHNMTGJSMGJlTVlwakNkS25WelhKZVVuVl9pNlI3OUo3OFg3d1lETE5mVERVWTF5bEFhZlFEeGt5Uy1XN1VtYnB0THp6QWRHS1dtZkFJQjRHT1g5Ym9fSGdxalQ5Q2ZZOTctOHV5bGFZWWtVSjBjNFNYdnUyVFZ0LXFab1J4TzRhMUNDTDZKWW9RMkN2bnpRZm5LT0FyaWY0YXM4LVJzdG9WbERLZ2J2X3lWZl9KZ0xSWjUwRkc5NlhPWFBMRFhHUk5NWE1TaWI2RTBoWVlLRkowYUxoYU9YdjhN?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    },
-    {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 75,
-      "title": "🏈 College football upset picks: Week 2",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "sportsbookreview.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNclA1QUx3Zmk4REUybDVERkctdnE2Sm1CUXNXV3VkNkpBMkU5ZTNxcGc2b0ZGNmtCOVJfeUlUMXJaZlRFa3BFbHJheEh2aU9lZTNsSS1NMF90N3d4RGFmVUUzQXd5VXhBQ09aSFplY3hHSGpZY044SWFYd09WSjZDZ1JGYzdwZll1VENSVGVZWEZhUWgtc0M2dVpkUi1DX1F1dnYtMTZKNElhRERGbkE?oc=5",
-      "age": "TUORE",
-      "id": "04"
-    }
+  "generated_at": "2026-09-10T11:26:58.724815+00:00",
+  "updated": "11:26 UTC",
+  "rejected": 0,
+  "findings": [],
+  "errors": [
+    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
+    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
+    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
+    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
   ],
-  "errors": [],
-  "providers": {
-    "KULTTUURI": "Google News",
-    "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
-    "URHEILU": "Google News"
-  },
+  "providers": {},
   "method_version": "v0.3"
 }
