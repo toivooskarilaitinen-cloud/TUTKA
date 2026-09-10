@@ -1,15 +1,52 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T11:26:58.724815+00:00",
-  "updated": "11:26 UTC",
-  "rejected": 0,
-  "findings": [],
-  "errors": [
-    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
-    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
-    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
-    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
+  "generated_at": "2026-09-10T16:29:01.857947+00:00",
+  "updated": "16:29 UTC",
+  "rejected": 228,
+  "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 95,
+      "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ycjd0eDNoeHBMd2Y4OE5TT2JvVUlNbVlhREFBc19jRTU3b0lrRTkxU1JrSmdmZ1AwcGFsWUlvZXBfT3FVS093cWxNZDA0WlRmb3haODhHVHREaDlyV3RYWVNjdEtYWTMtdGxwUEhPb3kzd9IBd0FVX3lxTE51eV9XN2ZtTHdhbUJaX1dtaTFWT0k5THItMFBIb3RRN3ZZT2dlamlnLXRaMkROcHFCQjBTWkcyQ3BlTWc1bmRsMUpsTnRwU2VKUWRxSW5lQ3FiTV9MRzVKX1QwUi1LYThTaEhpdUs0dTcyd0hER2Jn?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "TSMC Reports Record Revenue Growth of 53% in August",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDhSRlN3UHRqTGdubE1OUkhDdWFzRkI1TWk0dW1uTXBTdkl4SG83QzVyc1k0Vkw3ZmdjcUJsb2FiWndjbnpHb1dLM1hfUTJYUFVyNHBUVjNzNm52UkVQdlMwY0dSODdPSGMtSnhxUm5iSXk2cGRpUzFzRlBhY19TaVhKZEwyc3VGNVZnVA?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 75,
+      "title": "The Upset Factory: College Football Upset Parlay Week 2",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Sports Gambling Podcast",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdFZRbWliejhfSHBCUGJ6aFZXSmNUR2VBMll1RzJwbXVrXzVDSmVCLTE4U3o0c1NPTmU0R2JTOXNIWTFlNjV0bGREYS1LU0FWTC1iRDlzalFFUWw0MEpaNWJ1Vm82N3hYSHRycHlOVDhTWVpWODI3M0UxYkF0dDhfT2RudTVqZ0VmY2U3dnJXUThySFh2QWI2M2d4ZTRWLV9iTHo5bk4xUQ?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    }
   ],
-  "providers": {},
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
   "method_version": "v0.3"
 }
