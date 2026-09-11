@@ -1,15 +1,100 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T11:28:43.532220+00:00",
-  "updated": "11:28 UTC",
-  "rejected": 0,
-  "findings": [],
-  "errors": [
-    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
-    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
-    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
-    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
+  "generated_at": "2026-09-11T16:33:01.818638+00:00",
+  "updated": "16:33 UTC",
+  "rejected": 233,
+  "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 91,
+      "title": "‘NAZA’ Documentary Stuns Venice with Record-Breaking Ovation",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 8 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHhKbUJ1aWpPanVYMjNTenZsWDZxMXhLaWRXakRzUDBGMEoyVzlLRHpQMUxwQ1NWOU9pczRrVE1YMllLUFFxV0pUUUt3c0pTdk51NmNIMUFrenRXNktJMXhRZTMtel9oaUZpSmcxMERuTDFybnhYZHF4RlFoY1ZDeDRrSmI3NjQ4Rm1idlgtdWRnTUpleDROamhmOEg3MUxNNmNhckY0UUM5ckZtWHhtMFNFLWZYa3pn0gG-AUFVX3lxTE9MOGswMDRfQzBXTGJYU2hVU2dkLVdRclZVQTNaZER2Z1lKdnpHTTB1cGV3dUVwUzA0UG5iWjlzdW1OVkc0dU1kVmtiRXUtSUNwRk9QUDBySVlHVm9DNzI3VFNfc3pacExKdS1KT0FISVNFd2YxNGFmejl1cEJ6TnlobFdEV2ZyTUt5R1lockpjdjZwamJfdFk4cW9IVUN1LXB3LWl4amFzSzV4VDBuZFJ5bzZNMnNUSWdoT0dzQ0E?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "Semiconductor majors surge in South Korea as applicants hit record high - CHOSUNBIZ",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "biz.chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMm9TdzYwQ1FwTjFXa2o4WTFwV1JfY1JUVWV0UlQyc2s5cTUwYmRCNnlJTjVzYmk5cUlNdHIwc3JKV3dkSGozazBYVmVmT2E1RTBGY21fYVhHYWQxbENxR25WdkJrbmM4QmxjZUgydnpMSmxKc3NneDNEOUlIUWpjetIBlAFBVV95cUxNWlh5aVYwLTY2bnZaZUM5VXdwaWNSWmRDbS1HVXdPM2lkQ1k3R1BMcmltd2FHNEJVT3VldXZzaGtmam9UcGk0MXZoQ1dORC1UQ0F5Wm1TMUk0X3FSUVFGZ2RxUjZSTU10LVB2RUsxclZrTEk2U052LVhOMGNMcGhuLVB3dV9FUG95eEhTbUJJZURBUGtU?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "Semiconductor surge lifts South Korea’s early-September exports to record - CHOSUNBIZ",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "biz.chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS21fYS1wdGVGTDhUd3g1bklRa0EwMk13OFR0Qmg2c29jemNnNDNiMWpVQTdmaTlwZUNqVDNzaTlpTUJ1WVRxTVNsU2l1YnQ5Znkyam5JVExGTnkxSGU5MnBnUUYzcGFfMjdBOWR6ckNYUVU5RmtFMXUwQ1UzSEwyd0pnUDhVekt6a0VGOVVIUDRQMTDSAZMBQVVfeXFMTkttX2EtcHRlRkw4VHd4NW5JUWtBMDJNdzhUdEJoNnNvY3pjZzQzYjFqVUE3Zmk5cGVDalQzc2k5aU1CdVlUcU1TbFNpdWJ0OWZ5MmpuSVRMRk55MUhlOTJwZ1FGM3BhXzI3QTlkenJDWFFVOUZrRTF1MENVM0hMMndKZ1A4VXpLemtFRjlVSFA0UDEw?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "US Equity Funds See Record Weekly Outflows as Oil Surge Stirs Inflation Worries",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTIyRHYyNUVja1RlR3RVVVFHVXNDbzFkaUVVNnBwV0VXZlU4LUE0akQ1ejN4ZEUyQVpOUmV3alg4WkhiUFVvX1FET1YwNjJRNUlYWjNpX0hoZTF4dmVhaEZEWC1waEtUa090WHBnU25oOVVwcWVTd2JKWGJpMlEtcDdjR3NHNWJKTEo1Vy1nbm1LaFlEcDQxTVZybGZ1aF9sY3VwWGluUnNtRWs4aEE?oc=5",
+      "age": "TUORE",
+      "id": "04"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Gaza documentary ‘NAZA’ wows Venice and breaks standing ovation record",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 12 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpGMFpOeFlLcnhNMDFyZC1iV1ZtWXJWcjNyS2JxdnJuQkxPSmdob01YMkNpSlNmWGR3UkNaWkM4LVpJckU4RWV2c3BibDRNTFZxU0JWZ0lNZWtwRDN6UUM1WVMxZXR5cHJMand6RGFSSE9lcXhpd3F4R3JLVHhqN2N2aDNUZ1NDLS00bGtZNGVQbkxRaTJiQktfVDkwTFdJSE9wc1pQMzZZUmw2bGl0WVZB?oc=5",
+      "age": "TUORE",
+      "id": "05"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Tanya Chaudhary shatters women's hammer throw national record at Indian Athletics Series final",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeHNoalZ4MjZfSzFIQnlTX3FiVlBmMm0yQ2N5c05tWUszRlp5ZmtQd0UwcXFJel9qRERnZUNVaVlQc0ViaTMzTzdqbUNRd3dvTFRraTNwVFdfdG9XcGJfRGpZSV9vd01rS2htNEphdGZLUklvbFlOM3ZfcV9vc0I2WDlHSllOOXpESkotMDJWUFdodGExSkRGNDBUQklRdjN1b2htOThxS3JXd2VnWnVaRHVxTUtudXA4YWZybmhMMUhIVE1MWEtyRzVteE9mdkt2X1RRQXBnY9IB3AFBVV95cUxOelFRUm12UDhXMWF0VVl2R3d3MF9hRDZzOXlqOElQa0h5YjhzazU4UTNSMW8yV0VhTjdIcGhUS0tqZWtYeGNScEZVTG9mc21qeGx2OTNRZDJTRUVxc3c1T29tRG11THk2OFZUSFdReUZGVTZCZ0stcVVqYUxJbVpBeDJ4T3hrVUZHWkRBclZoVlBodm41eFRraUxzck9wV3JVNGdvQjllcFYyNzE2NVI1S21qdi1FeVNfYjdmaGt1Zjl3Zm9PanVQSlhxZUVGYkZpeUFUaFVBT3o5dWNB?oc=5",
+      "age": "TUORE",
+      "id": "06"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Nirbhay Choudhary breaks Indian hammer throw record at Athletics Final Series 2026",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The News Mill",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEJFRmtROGlFdXZPTjRYZWdnMU8td3hMelJKT3Vza0lkd1FLcWRGX3U2X0FCcXhpRmVaWmpQZHhOejJRbFZybEYzaDV6SGNTd2dUSnhJTk5UNFZ4TTN4TlZBQWgwUXRxVHBqVy1BM0ktRFo1WUlWTm5GZVVpaUR4QW9udk5JUGwwcDNUM3ZIaXdraFVobVNsalVDT1pUcFdTUThXRl9iXzR1N1dIMDltM18zdGt5QQ?oc=5",
+      "age": "TUORE",
+      "id": "07"
+    }
   ],
-  "providers": {},
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
   "method_version": "v0.3"
 }
