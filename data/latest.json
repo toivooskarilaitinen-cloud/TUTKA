@@ -1,64 +1,15 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T04:47:00.785742+00:00",
-  "updated": "04:47 UTC",
-  "rejected": 230,
-  "findings": [
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 95,
-      "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ycjd0eDNoeHBMd2Y4OE5TT2JvVUlNbVlhREFBc19jRTU3b0lrRTkxU1JrSmdmZ1AwcGFsWUlvZXBfT3FVS093cWxNZDA0WlRmb3haODhHVHREaDlyV3RYWVNjdEtYWTMtdGxwUEhPb3kzd9IBd0FVX3lxTE51eV9XN2ZtTHdhbUJaX1dtaTFWT0k5THItMFBIb3RRN3ZZT2dlamlnLXRaMkROcHFCQjBTWkcyQ3BlTWc1bmRsMUpsTnRwU2VKUWRxSW5lQ3FiTV9MRzVKX1QwUi1LYThTaEhpdUs0dTcyd0hER2Jn?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 91,
-      "title": "Gaza Documentary ‘NAZA’ Stuns With Record-Breaking 24.5 Minute Standing Ovation at Venice Film Festival",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Netflix Junkie",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLXgzaDk5a25BSUdhaC1PZVZUWVdpN0JpSlVRd1JVU192RElzcFVoUGx0VGU1ZElIemNyQXg1SG95elA4MndfVTNOZTdhVEJnLUdxMzkyQ2VXSENqajA0V3ZfbklJd2VzenUwRlJ5UzRjRGxzQUZhSlc1YWdXazRrQ2R0cGtSYi0tRGhPOVJwckJhRXp3YU5YSWIxQloxYWVsVlNoNFB3UmN4WC02ZFFabWZxbnJaeC1LMGVfNXNxR1E4SWVabWxka1FOWlVVb0ZSa3lhUmFCaEFLUURTcTlBLV9nNE1WNFhUZE1ndzhtdWltNi1FcW1N?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "NAZA: Film exposing systematic killing in Gaza gets record 24-minute standing ovation at Venice",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0k3a0JId01JdkpEWGRZX3lucmlhazl3VEtWOVI3Q1NQRkg0Vy11WUtiLUhqZzVzbU5xcXdxSUw2UFczcVpLYklzVW9SdmRNWXRiZ2NMRGpwZ2VsUFgwbTAtcWFkMFpJRmVPSHRULXJXU3piWjVqWGFqZ3lOSDM0RmR1bmk1dDF4OVdKeFZieXJRWVhfa3N5OGxrb3E1X212TEx1ZzQwbTVrWU92QlJnQjdjVFNxeXpqeFRvQ3FB?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "“It feels really good”: Tanya Chaudhary breaks women’s hammer throw national record at Indian Athletics Series Final",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "ANI News",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRWpjOWpCWUtpSGNGZ1o5OXhxcXN6MDJDUlZ5bjNiX2JYOEtWZWNZbDRKSjRkZW1zNllCb01IWS1BckdVLURMQ3RmSmJjMEFpeHRSSUlUTV9maXlENkpmX29INE5LYUhkOEZwUnBPNTJvTHlpbTRfZThSTHpINEVZNWRzajNVZTBjd2V2dVJWTGVDV0MtTEFGUUNRaWVJbW9NdklnQ2Q3QlZCNjNLdHJZSUZ4NUZGVkxaeVA3cVk4YTdBTkdxVWkxRG9PQmdReTdndWg3WmE5d0o4MXRJSkNiT3hCMGVldE9NT2RYeFR2OExIcVpCVk1aNC1hS2tzcFVnRlctdC1UdXBXekdD?oc=5",
-      "age": "TUORE",
-      "id": "04"
-    }
+  "generated_at": "2026-09-11T11:28:43.532220+00:00",
+  "updated": "11:28 UTC",
+  "rejected": 0,
+  "findings": [],
+  "errors": [
+    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
+    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
+    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
+    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
   ],
-  "errors": [],
-  "providers": {
-    "KULTTUURI": "Google News",
-    "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
-    "URHEILU": "Google News"
-  },
+  "providers": {},
   "method_version": "v0.3"
 }
