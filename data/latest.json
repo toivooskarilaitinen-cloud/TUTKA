@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T16:33:01.818638+00:00",
-  "updated": "16:33 UTC",
-  "rejected": 233,
+  "generated_at": "2026-09-11T21:01:47.374161+00:00",
+  "updated": "21:01 UTC",
+  "rejected": 230,
   "findings": [
     {
       "category": "KULTTUURI",
@@ -23,7 +23,7 @@
       "title": "Semiconductor majors surge in South Korea as applicants hit record high - CHOSUNBIZ",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "biz.chosun.com",
+      "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMm9TdzYwQ1FwTjFXa2o4WTFwV1JfY1JUVWV0UlQyc2s5cTUwYmRCNnlJTjVzYmk5cUlNdHIwc3JKV3dkSGozazBYVmVmT2E1RTBGY21fYVhHYWQxbENxR25WdkJrbmM4QmxjZUgydnpMSmxKc3NneDNEOUlIUWpjetIBlAFBVV95cUxNWlh5aVYwLTY2bnZaZUM5VXdwaWNSWmRDbS1HVXdPM2lkQ1k3R1BMcmltd2FHNEJVT3VldXZzaGtmam9UcGk0MXZoQ1dORC1UQ0F5Wm1TMUk0X3FSUVFGZ2RxUjZSTU10LVB2RUsxclZrTEk2U052LVhOMGNMcGhuLVB3dV9FUG95eEhTbUJJZURBUGtU?oc=5",
       "age": "TUORE",
       "id": "02"
@@ -35,7 +35,7 @@
       "title": "Semiconductor surge lifts South Korea’s early-September exports to record - CHOSUNBIZ",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "biz.chosun.com",
+      "source": "Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS21fYS1wdGVGTDhUd3g1bklRa0EwMk13OFR0Qmg2c29jemNnNDNiMWpVQTdmaTlwZUNqVDNzaTlpTUJ1WVRxTVNsU2l1YnQ5Znkyam5JVExGTnkxSGU5MnBnUUYzcGFfMjdBOWR6ckNYUVU5RmtFMXUwQ1UzSEwyd0pnUDhVekt6a0VGOVVIUDRQMTDSAZMBQVVfeXFMTkttX2EtcHRlRkw4VHd4NW5JUWtBMDJNdzhUdEJoNnNvY3pjZzQzYjFqVUE3Zmk5cGVDalQzc2k5aU1CdVlUcU1TbFNpdWJ0OWZ5MmpuSVRMRk55MUhlOTJwZ1FGM3BhXzI3QTlkenJDWFFVOUZrRTF1MENVM0hMMndKZ1A4VXpLemtFRjlVSFA0UDEw?oc=5",
       "age": "TUORE",
       "id": "03"
@@ -58,7 +58,7 @@
       "score": 77,
       "title": "Gaza documentary ‘NAZA’ wows Venice and breaks standing ovation record",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 12 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 10 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpGMFpOeFlLcnhNMDFyZC1iV1ZtWXJWcjNyS2JxdnJuQkxPSmdob01YMkNpSlNmWGR3UkNaWkM4LVpJckU4RWV2c3BibDRNTFZxU0JWZ0lNZWtwRDN6UUM1WVMxZXR5cHJMand6RGFSSE9lcXhpd3F4R3JLVHhqN2N2aDNUZ1NDLS00bGtZNGVQbkxRaTJiQktfVDkwTFdJSE9wc1pQMzZZUmw2bGl0WVZB?oc=5",
       "age": "TUORE",
@@ -82,11 +82,23 @@
       "score": 77,
       "title": "Nirbhay Choudhary breaks Indian hammer throw record at Athletics Final Series 2026",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "The News Mill",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEJFRmtROGlFdXZPTjRYZWdnMU8td3hMelJKT3Vza0lkd1FLcWRGX3U2X0FCcXhpRmVaWmpQZHhOejJRbFZybEYzaDV6SGNTd2dUSnhJTk5UNFZ4TTN4TlZBQWgwUXRxVHBqVy1BM0ktRFo1WUlWTm5GZVVpaUR4QW9udk5JUGwwcDNUM3ZIaXdraFVobVNsalVDT1pUcFdTUThXRl9iXzR1N1dIMDltM18zdGt5QQ?oc=5",
       "age": "TUORE",
       "id": "07"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Oil tanker rates hit record highs following Iran, US shipping attacks",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5",
+      "age": "TUORE",
+      "id": "08"
     }
   ],
   "errors": [],
