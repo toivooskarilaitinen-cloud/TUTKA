@@ -1,16 +1,16 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T15:35:52.485758+00:00",
-  "updated": "15:35 UTC",
-  "rejected": 200,
+  "generated_at": "2026-09-12T20:36:50.126783+00:00",
+  "updated": "20:36 UTC",
+  "rejected": 164,
   "findings": [
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 83,
+      "score": 88,
       "title": "Jindal Steel Builds World’s Longest Steel Slag Road, Sets Guinness World Record",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "ANI News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkstNzdWTEN3V1RtdlBGSjRBLTFZcXA0eU05blE4Z21yRnJvajFpbFhqbklvVkZTd0RKc1RuN1EzMnlZQk0wOWlxUElCSUZPVUx4cmVhRkRWT3V1Z3VnNWNWQ1dVNmFGejAxTlJZdVdDc1VDUEstUDl6eUlLakVxZDd5MEo5YUFCYkdPel9IcDJBUmQ4U0xYNXFtRWhhc3lvRHpUakZRSzc2Y29vOHhLa2JVYWd6VmFLOHZQZGxhT1pTdkNCU1ZUY2RwZDc?oc=5",
       "age": "TUORE",
