@@ -1,33 +1,9 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T04:41:20.052692+00:00",
-  "updated": "04:41 UTC",
-  "rejected": 233,
+  "generated_at": "2026-09-12T10:53:15.366690+00:00",
+  "updated": "10:53 UTC",
+  "rejected": 215,
   "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 91,
-      "title": "‘NAZA’ Documentary Stuns Venice with Record-Breaking Ovation",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHhKbUJ1aWpPanVYMjNTenZsWDZxMXhLaWRXakRzUDBGMEoyVzlLRHpQMUxwQ1NWOU9pczRrVE1YMllLUFFxV0pUUUt3c0pTdk51NmNIMUFrenRXNktJMXhRZTMtel9oaUZpSmcxMERuTDFybnhYZHF4RlFoY1ZDeDRrSmI3NjQ4Rm1idlgtdWRnTUpleDROamhmOEg3MUxNNmNhckY0UUM5ckZtWHhtMFNFLWZYa3pn0gG-AUFVX3lxTE9MOGswMDRfQzBXTGJYU2hVU2dkLVdRclZVQTNaZER2Z1lKdnpHTTB1cGV3dUVwUzA0UG5iWjlzdW1OVkc0dU1kVmtiRXUtSUNwRk9QUDBySVlHVm9DNzI3VFNfc3pacExKdS1KT0FISVNFd2YxNGFmejl1cEJ6TnlobFdEV2ZyTUt5R1lockpjdjZwamJfdFk4cW9IVUN1LXB3LWl4amFzSzV4VDBuZFJ5bzZNMnNUSWdoT0dzQ0E?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 82,
-      "title": "Logitech & Aspire For Her Set New Guinness World Record Title For Largest Women-Only Generative AI Hackathon",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Passionate In Marketing",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRThodUtxVFdIZEZCNDlEeVduLXhtMXVBbGhPMkFkalhBekxmb0R0SmRyQzVVM1RGSHdsU2hNZm9PMjdnMGZhVGM5cDBXM1BmVE53cTN3SExoT1RrR1NYeTZjSHlGNm5NbjNyMnVjV3FGMjJuN051VnhGN3I1N0d3SzRrMEc3MklmT183OWh4aHJjZ0RMNWlKZmhwaWVyZTVGT2hPTWd4bFlRZFpFVHo2dXNIXzRZNEtRbkRfY0xwWlJ3eW1iNG9QV1lOSEgtekZoM2FzbEd5S2J4Sm40WXc?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
     {
       "category": "TALOUS",
       "type": "RECORD WATCH",
@@ -38,17 +14,41 @@
       "source": "IndexBox",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTIyRHYyNUVja1RlR3RVVVFHVXNDbzFkaUVVNnBwV0VXZlU4LUE0akQ1ejN4ZEUyQVpOUmV3alg4WkhiUFVvX1FET1YwNjJRNUlYWjNpX0hoZTF4dmVhaEZEWC1waEtUa090WHBnU25oOVVwcWVTd2JKWGJpMlEtcDdjR3NHNWJKTEo1Vy1nbm1LaFlEcDQxTVZybGZ1aF9sY3VwWGluUnNtRWs4aEE?oc=5",
       "age": "TUORE",
-      "id": "03"
+      "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 80,
+      "title": "Oil tanker rates hit record highs following Iran, US shipping attacks",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5",
+      "age": "TUORE",
+      "id": "02"
     },
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "Gaza documentary ‘NAZA’ wows Venice and breaks standing ovation record",
+      "title": "Gaza doc ‘Naza’ gets record 25-min ovation at Venice premiere",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpGMFpOeFlLcnhNMDFyZC1iV1ZtWXJWcjNyS2JxdnJuQkxPSmdob01YMkNpSlNmWGR3UkNaWkM4LVpJckU4RWV2c3BibDRNTFZxU0JWZ0lNZWtwRDN6UUM1WVMxZXR5cHJMand6RGFSSE9lcXhpd3F4R3JLVHhqN2N2aDNUZ1NDLS00bGtZNGVQbkxRaTJiQktfVDkwTFdJSE9wc1pQMzZZUmw2bGl0WVZB?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Siasat Daily",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDM2TXdyV1kwazYxRVcySnFwSjVVME1VbkU0cE1GZDV1OElObWFTd0xPUndXRnZHWVp2U0VRUmEtZkdGZG5lcFdzajluNHVyLTh2WVhZaTI5Q3o5bmhCOXZfR1RiUklpOHI0TGl1QjFtT0xzZGltV2RCSm5tdENueWQyNnR1UG5HcUVEWGtTV2dxZDNjWWfSAZsBQVVfeXFMUHFkZHpodU9DVm84SDlXS2NhbWpNcFN3YU91ZHdvWm5RX2ZOWVZXVWctUnE4VEpoWkJjalJHY0QxbDQ5SXZtNi1PSG15d2RVQXBCYnd5WUZyOFU0VVQwdzVRTGhZTkM0dkxnYlNEUUNaanFjV2RiV1dzS2NfOElib0ZDV1NNS1RmdlhPZVJaWUJ2QV9GU1ppb0ZPWHc?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    },
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 76,
+      "title": "Merced flag football ends Central-Phenix's historic 62-game winning streak",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLURPSzQ2MHNHeVlKakQ3cWVpUVVMaWpaWDV3dTBOU01MbGlDaFY3cXJkVElWUlpBYWZsbzd0QTBuaWJ3bjhnWDcteGk0OHFXcWpDSFdla0xtTXo4dG92QjNVMDA1R3V0cmhDWGd1ZTI0VkFUeWFsc1l6bmVoYzN2MW8zYmhTeTFncnlMXzNEZnQ0WjQtNjN2a1d2YlRKYThCTWdiVjJFSFhmVFJZV0IzNlhfenVQWUx2Qy10ZzBIaFRZOGd2bHU1QzRWcDl2TFRfUE9jam5fY08tVjdQOFdFUG1lLXhBZllq?oc=5",
       "age": "TUORE",
       "id": "04"
     }
