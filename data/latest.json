@@ -1,18 +1,18 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T16:23:44.003377+00:00",
-  "updated": "16:23 UTC",
-  "rejected": 227,
+  "generated_at": "2026-09-13T20:54:27.565511+00:00",
+  "updated": "20:54 UTC",
+  "rejected": 193,
   "findings": [
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
       "score": 83,
-      "title": "Jindal Steel Builds World’s Longest Steel Slag Road, Sets Guinness World Record",
+      "title": "Jindal Steel receives Guinness World Record recognition for building world’s longest slag road",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Ommcom News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWRNbThTRTBZQXBKYlNRNWtmU2VsWEJ3MVVMRmltbUl3UWVWTDZHMVhGMXpYMGVESVMxUDlNUmdBejB2bW0tdU5seF9aMUdmQ2ZEQUtpa2VIWU9fN0ZWTmRabXpXX0UwQkZybDM2NkNNS3dyQ1k2UG8xNTNMSDNMeUhrM3RuYlZKLW12WlIzblNfeF9QM3FHa29KNDloSVJNc0R0emF0SFhXXzZqaHlMS0FOdw?oc=5",
+      "source": "ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1F5ZkF4QnljWE9WM2NFWkxFVnY1Mi1yZzBoWTlzdm0yamFDMi05Vkl2bUhlSVhIUHctdWE5b1hRcUEzd0dIRWxHU05VTTFraFMxVkk3eEpiWG5iYXlPSDByZlhUU3A4MmhQWXcyRmVQU2NzZGZvdTZldnk3dmdqV1VmN0xRUngyMWptQURjckZMX0wtNkZBUmlrRFFBZklJa0tGMF9NMnRLNzYxSF9SYTZtRjdRVWw2VV9sdmk1Mm5DQTRVNVExZ2ZR0gHPAUFVX3lxTE5uQnRaWmpwR25jbU4tdEpaRHNWc2RvWVJRNl9sNXVFYnBOcDExSnR1UXVRQy01NWU1OVl2dmo0aExnM3ZtMkllM29FT3RtbmhwVUhQc3NtalMwNVZESHdjNzFmRndsZWhBWDZ3WHczUWpIT25Od1M2Y0M3ajBFRHIxM0FybXEtY3Bacmo1d1BBaUxHVU4tQjl5QTRUQzZwTFN2NVJhMTNMM05kY1Y1MFVWQkxBNnJ6WVBpN0l1UHRzWVVORUMxbUxqZnc5V0l0UQ?oc=5",
       "age": "TUORE",
       "id": "01"
     }
@@ -21,7 +21,7 @@
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
