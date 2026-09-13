@@ -1,9 +1,21 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T04:54:39.606720+00:00",
-  "updated": "04:54 UTC",
-  "rejected": 176,
+  "generated_at": "2026-09-13T11:58:19.871988+00:00",
+  "updated": "11:58 UTC",
+  "rejected": 207,
   "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 92,
+      "title": "Jindal Steel Builds World’s Longest Steel Slag Road, Sets Guinness World Record",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "ANI News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkstNzdWTEN3V1RtdlBGSjRBLTFZcXA0eU05blE4Z21yRnJvajFpbFhqbklvVkZTd0RKc1RuN1EzMnlZQk0wOWlxUElCSUZPVUx4cmVhRkRWT3V1Z3VnNWNWQ1dVNmFGejAxTlJZdVdDc1VDUEstUDl6eUlLakVxZDd5MEo5YUFCYkdPel9IcDJBUmQ4U0xYNXFtRWhhc3lvRHpUakZRSzc2Y29vOHhLa2JVYWd6VmFLOHZQZGxhT1pTdkNCU1ZUY2RwZDc?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
@@ -14,31 +26,7 @@
       "source": "Comic Basics",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQzlTMWNOVHNobWNRNUtubWQ3cHlBQU1xTWFpZE1LOENJWHdlZ1cxOVFKUXV5U21hZmhOWktfVHlsUFpOdmhfN3NfT1o1S0w4Y3I4M0x1QXYxMEgxa2JxYXJNZEVzVjFTOHFVdmM2ZkpRbGFhcWJudFAzbDV0UzFTQkh4WFIyVUJXczkyZUJMQU9nUC1CbFFhTWlIM2ozM0tYZ2JzRXRONkxkVWw4TnhSVA?oc=5",
       "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 88,
-      "title": "Jindal Steel Builds World’s Longest Steel Slag Road, Sets Guinness World Record",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "aninews.in",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkstNzdWTEN3V1RtdlBGSjRBLTFZcXA0eU05blE4Z21yRnJvajFpbFhqbklvVkZTd0RKc1RuN1EzMnlZQk0wOWlxUElCSUZPVUx4cmVhRkRWT3V1Z3VnNWNWQ1dVNmFGejAxTlJZdVdDc1VDUEstUDl6eUlLakVxZDd5MEo5YUFCYkdPel9IcDJBUmQ4U0xYNXFtRWhhc3lvRHpUakZRSzc2Y29vOHhLa2JVYWd6VmFLOHZQZGxhT1pTdkNCU1ZUY2RwZDc?oc=5",
-      "age": "TUORE",
       "id": "02"
-    },
-    {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 80,
-      "title": "Oregon falls to Oklahoma State in historic college football upset",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHhjUVpQZkVrYk5oYnBNR3BEM0V6dVBWdy0tTGNHVGEzQ3JjR3ZiZG8xY0dIenU2WjlmLVNPQmZjZUNJc2NBYjVoZllzb1daeVdONmVLclkxVEUyS2tscHJ5bkVmdzFzSXZybFVIQnAwUGw0TVNESTltampGeDZfc3U1VjR3LXlQU0xqYk5nR01fdFFGNF84SUY0MFRTcFdiODhvYWlR?oc=5",
-      "age": "TUORE",
-      "id": "03"
     }
   ],
   "errors": [],
