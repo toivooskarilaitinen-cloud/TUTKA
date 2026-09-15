@@ -1,18 +1,18 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T04:59:27.683495+00:00",
-  "updated": "04:59 UTC",
-  "rejected": 208,
+  "generated_at": "2026-09-15T11:50:58.682590+00:00",
+  "updated": "11:50 UTC",
+  "rejected": 211,
   "findings": [
     {
       "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Global Semiconductor Revenue Surges 31% to Record $425 Billion",
+      "type": "ANOMALY",
+      "score": 79,
+      "title": "UN calls for 'urgent action' to rein in AI in face of 'unprecedented risks'",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Businesskorea",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qTEF5UGJZYlhQY0hrb3k3bXplNkIyZTFkWlZFSFluTzBnSEtsX1EtOWgwVXlDUmc4N2Y0c2QwTkxIdU9YX1lHUm4zaUd6SXlRVTBrR19fM2QyU3FYSkMxZFp5M0tLQ3RNWmdYTUZ5dE9aVjBW?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGtONEVFYzZWVTZTN0p6cTFLcERneEtLd3Ezd1JBSzNxWmFwcHREa1duX210NkhZU3JuaEl0Q21KZWhjNFZvTGhiX0ZnTnA1eTlTNUVzRmFQc2ZOak5aUmI2S3U3cUs4eHV3N1FoUEhlQmNwUThPeFJoM3dkU3BEeUgxRVQtODYwZ1BVSG9uakhFVUNvSnFhaTg0anFnanJwaHNyMXpZdk5FOEJ3NWRDVTBLc3JDdjRSLVZVbmZn?oc=5",
       "age": "TUORE",
       "id": "01"
     },
@@ -27,18 +27,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEJidFNRQ1I5MGgydDNteUNFSGpyc0R6WEZ5RGRnQ3JBLXZfdVdnUHVpZVJxaG8zMFlIMDNucm5UM3huWVNYa1FZNmtGZk03VEY2aHJFSHBvU0ZVN1JydTVmTko0UHNJc0Z3N0d2UTU3aW5VWUtma3hiNDR3X2FybnJpTW5iMS1VYUU1ZmhLdkY4ZzlCYzVrZW1TbUR5R0VjTmdTWjdTd3UzUVh2Q2NuTC1ObEt1QU0?oc=5",
       "age": "TUORE",
       "id": "02"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Jersey Bulls Women suffer first-ever league defeat at Sutton United Under 23s",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KcVo2ZndubUtEQnBuSjJUaGQxV0RTdEpMNnQxNVNjU2xsUGV3b2ZMY1JOZTk1a0ZlZXZCRExobXJmVTVwWTRiNzdQQ2NmNXkyY29CX1AteGdlcmEta3p5UUFrR1NSalk?oc=5",
-      "age": "TUORE",
-      "id": "03"
     }
   ],
   "errors": [],
