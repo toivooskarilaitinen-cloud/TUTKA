@@ -1,32 +1,20 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T17:04:28.741120+00:00",
-  "updated": "17:04 UTC",
-  "rejected": 231,
+  "generated_at": "2026-09-15T21:25:42.568747+00:00",
+  "updated": "21:25 UTC",
+  "rejected": 238,
   "findings": [
-    {
-      "category": "TEKNOLOGIA",
-      "type": "ANOMALY",
-      "score": 83,
-      "title": "UN calls for 'urgent action' to rein in AI in face of 'unprecedented risks'",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "ABS-CBN",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbDc3U2VmSWhsZkdLMXNRVXc4bkpxWWR4X2hTVE16WHRFdUEtQ3NNX0U2X2U2TFR0UG1pOWFEMTI4Ny1WOWFLUkx0d1FyeG13cmcwR2hYTW82TExtUTFlanN5bmtFRjhKVE5VX2dmQnVuRDZadmJlVWNiSmtHUFZiSHNxelNKTGp3LVJuNlhsUlVRaGFmczhJb2dWS0Z2Y05zbVVXTnBTYUYtSmhWd1hURDByR290VUd0V3BPMGFyNGRROXkx?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
     {
       "category": "TALOUS",
       "type": "ANOMALY",
-      "score": 82,
+      "score": 78,
       "title": "India's August goods trade deficit narrows as gold imports plunge",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkcwU0xsUjlqM1lxdXhyNnJka3RvNXljQm04eFZfWHpjMUxyOXJHR29xSXU1UklDUFMyQjBtQVVOVkZoS0tnbHpSWnB4T1RLdHBSVnVUUlRUS0hnMEZLUVUwNlA0c20wTF8yZ3Y2eWgxRVprRHVhV2lTRWpyODFrV2NHODNSRWxMRVhzdmVfaW8xMGpIcUNfdGs2dHY5WXVKeVE?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "01"
     },
     {
       "category": "URHEILU",
@@ -38,7 +26,7 @@
       "source": "Canadian Running Magazine",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDVfR29CNVNxaWdzQkpUWVg5RWtBMTFlc3hWajlVazNfalRvaDd6VUh6bEoyZmppa0hSX2pqam5ESmZILWRfZS1Ja1hGMlhPSkp4STNHbGgzZG1kQUIxcHpzNmh5ZEU1ZEdxU0ZFNWExNzAzLVMzclg4NGpUamRlX0pnUFNGd1BzVEZvenh6ZGtTenlObUxXSzFnWk9fd0EyMUdocklYdw?oc=5",
       "age": "TUORE",
-      "id": "03"
+      "id": "02"
     }
   ],
   "errors": [],
