@@ -1,18 +1,18 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T04:54:56.451951+00:00",
-  "updated": "04:54 UTC",
-  "rejected": 241,
+  "generated_at": "2026-09-16T11:43:04.962513+00:00",
+  "updated": "11:43 UTC",
+  "rejected": 221,
   "findings": [
     {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 82,
-      "title": "Nairobi Wins Bid to Host 2029 World Athletics Championships – First Ever in Africa",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "ghettoradio.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeC1zdkNSdG5ScjlwRVFfSkd5Ti1hWldxOVA4dGRrbk9OMTE3eDV5ZTRnRFM2aEpZSXo1RmZRTy02YzBWbnNTU05QQ1RLQ19lZzZvWHQ2U1BMZkNZd1ZNNzZENFoyZFhQbmNPVjVGYlRfMTV0ZHAxa0FiMXFad3BNQkxVdkhIbkwwdDVGZUFnekRJU3AxOUQ3ZWpBcjhxMUpGb2NaR0w5ZGJua3kwTGc?oc=5",
+      "category": "TALOUS",
+      "type": "ANOMALY",
+      "score": 78,
+      "title": "India's August goods trade deficit narrows as gold imports plunge",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkcwU0xsUjlqM1lxdXhyNnJka3RvNXljQm04eFZfWHpjMUxyOXJHR29xSXU1UklDUFMyQjBtQVVOVkZoS0tnbHpSWnB4T1RLdHBSVnVUUlRUS0hnMEZLUVUwNlA0c20wTF8yZ3Y2eWgxRVprRHVhV2lTRWpyODFrV2NHODNSRWxMRVhzdmVfaW8xMGpIcUNfdGs2dHY5WXVKeVE?oc=5",
       "age": "TUORE",
       "id": "01"
     }
