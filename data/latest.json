@@ -1,20 +1,32 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T11:43:04.962513+00:00",
-  "updated": "11:43 UTC",
-  "rejected": 221,
+  "generated_at": "2026-09-16T17:04:37.348771+00:00",
+  "updated": "17:04 UTC",
+  "rejected": 215,
   "findings": [
     {
-      "category": "TALOUS",
-      "type": "ANOMALY",
-      "score": 78,
-      "title": "India's August goods trade deficit narrows as gold imports plunge",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkcwU0xsUjlqM1lxdXhyNnJka3RvNXljQm04eFZfWHpjMUxyOXJHR29xSXU1UklDUFMyQjBtQVVOVkZoS0tnbHpSWnB4T1RLdHBSVnVUUlRUS0hnMEZLUVUwNlA0c20wTF8yZ3Y2eWgxRVprRHVhV2lTRWpyODFrV2NHODNSRWxMRVhzdmVfaW8xMGpIcUNfdGs2dHY5WXVKeVE?oc=5",
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "'Spider-Man: Brand New Day' Passes 'Star Wars: The Force Awakens' for All-Time Domestic Box Office Record",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "TheWrap",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0tWS2R1NGxXYm9IOExyZHA5ajlsU0xWNWppblljZ2haQ3JQRUJVU0VNS2F6UUZ4U0RUSVRydnBrdlMyQlgxbnByVjlWUmpvR1h5Y0h1blh3cFAtTmxNQWptQWtUQkR3RHE1aUR4R09kaGNhNnViZnl1WlN6RnlKXzhhX1RJTC1UV2czTVdmcy1fRFdFRk9oR3hQekFvcE4weXpFNTJQN3JhV2FxRU40Zkp2WjdzSWNxZDRkR243RHJjZw?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "Japan’s Pork and Egg Prices Surge to Record Highs as Food Inflation Bites",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTltQnlMWkNBTmdZaEVKd2FlbzY1NDhqQ3JoNUVTOGhLbWZUUEN2WEtTd0luY1BWZUlERkJhdy16U2VtcW1RMWxBT2xpMFg1VTdhMHRxUnBGOEdhRElWTnhzZ0dJSldZeEI3WkhiOHVsdFI5T0xGbnhKNkI1LXVKTzVtakZiNnFNNV9rOGZyWF8xb0FUM2VaNlBnYjZtZVZ2Zmo4d3RIbGVaUQ?oc=5",
+      "age": "TUORE",
+      "id": "02"
     }
   ],
   "errors": [],
