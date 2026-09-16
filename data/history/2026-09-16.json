@@ -1,8 +1,8 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T17:04:37.348771+00:00",
-  "updated": "17:04 UTC",
-  "rejected": 215,
+  "generated_at": "2026-09-16T21:22:35.527561+00:00",
+  "updated": "21:22 UTC",
+  "rejected": 213,
   "findings": [
     {
       "category": "KULTTUURI",
@@ -27,6 +27,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTltQnlMWkNBTmdZaEVKd2FlbzY1NDhqQ3JoNUVTOGhLbWZUUEN2WEtTd0luY1BWZUlERkJhdy16U2VtcW1RMWxBT2xpMFg1VTdhMHRxUnBGOEdhRElWTnhzZ0dJSldZeEI3WkhiOHVsdFI5T0xGbnhKNkI1LXVKTzVtakZiNnFNNV9rOGZyWF8xb0FUM2VaNlBnYjZtZVZ2Zmo4d3RIbGVaUQ?oc=5",
       "age": "TUORE",
       "id": "02"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Oregon high school football team has 6th-longest win streak in state history",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUnd1dWNWRDBiaGFya2tmYmcySjRDREVXb3lRUjEyYndDZnJiVDhKWllSLUJmR2pKcFJXVHBMUzc4MzZvd1Jxa2p1WFdkdWdWTHU4dEV3bG9mQUFFZjZDdHJyc0RfX2pKRGhiYXJfOEtwdkxYN1FFVWFUS2k4d05OOHpsTTY1UnhrWUFGSlZsbUZlQV9icExqaHh5MG9YVTlYX19BWVFmUHp5YzZ6dHIyRFMwVG9UMDBoVkRjTU5Ua2o4UTR5MnVrRFlJSVhlQQ?oc=5",
+      "age": "TUORE",
+      "id": "03"
     }
   ],
   "errors": [],
