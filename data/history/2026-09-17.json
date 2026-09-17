@@ -1,21 +1,9 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T11:48:23.699136+00:00",
-  "updated": "11:48 UTC",
-  "rejected": 220,
+  "generated_at": "2026-09-17T17:04:58.079137+00:00",
+  "updated": "17:04 UTC",
+  "rejected": 228,
   "findings": [
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Oregon high school football team has 6th-longest win streak in state history",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "OregonLive.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUnd1dWNWRDBiaGFya2tmYmcySjRDREVXb3lRUjEyYndDZnJiVDhKWllSLUJmR2pKcFJXVHBMUzc4MzZvd1Jxa2p1WFdkdWdWTHU4dEV3bG9mQUFFZjZDdHJyc0RfX2pKRGhiYXJfOEtwdkxYN1FFVWFUS2k4d05OOHpsTTY1UnhrWUFGSlZsbUZlQV9icExqaHh5MG9YVTlYX19BWVFmUHp5YzZ6dHIyRFMwVG9UMDBoVkRjTU5Ua2o4UTR5MnVrRFlJSVhlQQ?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
@@ -23,22 +11,10 @@
       "title": "Singapore’s Record AI Boom Unlikely to Move MAS, Analysts Say",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVRxTm5CZ2l4OVRzelNRXzlSUnJoN0xnT0hORl82MElrMnp4ZmVxNVNIb3hmNmtUR0dzR2xVYzNpUmZZRTJhNFdKZEVjUndQUV9vQnFQMTZoRG9xTWlJbzlpVk9uV1pjZjJEM1NvWVhWNmNpM2JjR1BnU05IV2FtRC1xX0JQMjBNQlUzY2c0WHlUMEtBbWlmeGFrQ2J4VWhiYWU3S2s0N0hJbktJT0FZTw?oc=5",
       "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 75,
-      "title": "🏈 College football upset picks: Week 3",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "sportsbookreview.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXNHMTBuZ2dIUF9kakJkandrQ3JpNlFVMFdFbEhZbDNMMk4tY2wtRXFrYlE1NmtzcmtlU3FmalhoeWR3ZnVwam12M3loRzBwQkIyUVNQSGdvQVR2czdoOTJoc0d2eDRlVEx2akx6c0Vpc3J2Q2ZRaXNqcENiX0haRWNOLXEwb2RldWx2QXZyRUNOVkZ3Q0hVVnlNMWptdWwtdkJyN3VsMjZoSlZYLWc?oc=5",
-      "age": "TUORE",
-      "id": "03"
+      "id": "01"
     }
   ],
   "errors": [],
