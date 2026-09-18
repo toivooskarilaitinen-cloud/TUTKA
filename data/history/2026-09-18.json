@@ -1,33 +1,9 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T04:49:56.495479+00:00",
-  "updated": "04:49 UTC",
-  "rejected": 193,
+  "generated_at": "2026-09-18T11:22:38.768893+00:00",
+  "updated": "11:22 UTC",
+  "rejected": 197,
   "findings": [
-    {
-      "category": "TEKNOLOGIA",
-      "type": "SIGNAL",
-      "score": 76,
-      "title": "OpenAI: six new cases of unexpected or concerning behaviour in AI models",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Il Sole 24 ORE",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1FqVzhMYmVrSUR0aHMyRGQyOGdDYXRJX3RpU3VpUzRzWmc4UXluYWFCOGxjU0RCdWZqOEFzbDFBclJHZGs4Y3VINFB0djh1UUJlSnVZa1Zfb0g4clNMNUhQZlJBUzEzQS1ncnBQeF9uTmZuTXBJZWZWcVh2VXVSZUJjdnV4ZU9sTWZuMDhXZUVVQVhSSF84a09SMEZSZTlneERaSmtnNU85Yy1V?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Singapore’s Record AI Boom Unlikely to Move MAS, Analysts Say",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVRxTm5CZ2l4OVRzelNRXzlSUnJoN0xnT0hORl82MElrMnp4ZmVxNVNIb3hmNmtUR0dzR2xVYzNpUmZZRTJhNFdKZEVjUndQUV9vQnFQMTZoRG9xTWlJbzlpVk9uV1pjZjJEM1NvWVhWNmNpM2JjR1BnU05IV2FtRC1xX0JQMjBNQlUzY2c0WHlUMEtBbWlmeGFrQ2J4VWhiYWU3S2s0N0hJbktJT0FZTw?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
     {
       "category": "TALOUS",
       "type": "RECORD WATCH",
@@ -38,7 +14,7 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGltbnJEV1l0NXJDNFMxbFBtMUpYQkJWSGFlU2FRaHpNZ0xzNHhDSVJDbWt2Zy13YUNwZEJySUZUWHFEQi1XczZHWlI2dmZNMHZUTHVrR2tJUWpIanZtUFlXVTJEaXFIZTdGWDdQandreldIUm1URGRFZGxuVXhYX1FRcm8teGdSRmpGR1I4QnJ4SGJ6bF9UaGFGdXRadGZlY3o0TDItMm1ac0M4RTZsY2dkY3BQUUgzbzdycktRbmpjTDJy?oc=5",
       "age": "TUORE",
-      "id": "03"
+      "id": "01"
     }
   ],
   "errors": [],
