@@ -1,8 +1,8 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T11:06:16.886688+00:00",
-  "updated": "11:06 UTC",
-  "rejected": 198,
+  "generated_at": "2026-09-19T15:56:29.851211+00:00",
+  "updated": "15:56 UTC",
+  "rejected": 188,
   "findings": [
     {
       "category": "TEKNOLOGIA",
@@ -10,8 +10,8 @@
       "score": 86,
       "title": "US Treasury's Bessent to discuss AI, rare earths with China's He, source says",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "reuters.com",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXgxcUNDSEx5a2VvaTV1MTNfVXZsOTBWaGZleGUtNE81bjhUVWhRUHZKOTFBZHNhYW5OWmlGV1llT0NFc3BpZUIwY0d6aHdVZUVFMU5kMUJTOEMwLVBKTWhkU3dQN1Fsdk1TaVR3WmVKWjFkLWZKOTlRLS1wVTZHUDJERUpyajZabGxrQ01iRDYzdzB1ME5SV1BUS1B1Um5Ea1VkTEVaV0NGUkFndTZsOGt1Um1oX1lWM3RmWEN4d1VEZw?oc=5",
       "age": "TUORE",
       "id": "01"
@@ -27,18 +27,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdU41eVZHbzhtbGJhdm9YbVJrTjBVaFNmSkRPNDhfRDc2eFh6dXJ6dk16UFJ5MDg4U2E5M1R5cjNOblZ4MHZpSG13Yk5MX01vSXI5dm1pcm0ycEZ6Y1duNTVBUkZ5b2JvYTRDb3l1TEVDeXFOdW94RzA4VGwxcTdVZDVUamVBd2cwNDFR?oc=5",
       "age": "TUORE",
       "id": "02"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Mississippi employment reaches record high as unemployment rate falls, governor says",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "wlbt.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajVtOXZPOFNyMUU5ZnROUUJ1Zk15MjhCakZxcU5XQ29XTDdyeFdxY3czdFVjMVc5aWZWUF82M0U2d3J5WS1Vel9qNUZvOG5BNWMxM0t4TWVyRFY5UVo1TG9WMUpGT1ZaX0ZSNkJ1bEl1eTlQVGx6RDBwR3FwWW5XRlNBalU4UW5yOHNIYURZeVlhdzVlYXNxdS11SUM3c3FxeGVCUmg1dlhTS01BQmdpU2V4YXBCQXl4bWFF?oc=5",
-      "age": "TUORE",
-      "id": "03"
     }
   ],
   "errors": [],
