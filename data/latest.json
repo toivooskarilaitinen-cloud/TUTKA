@@ -1,16 +1,16 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T04:58:41.828625+00:00",
-  "updated": "04:58 UTC",
-  "rejected": 217,
+  "generated_at": "2026-09-20T11:31:09.340389+00:00",
+  "updated": "11:31 UTC",
+  "rejected": 202,
   "findings": [
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 95,
+      "score": 90,
       "title": "Jeremiah Smith breaks Ohio State all-time receiving yards record",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "The Columbus Dispatch",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWjFHbVpXODFKbml0WVZQOS1nVk9CWVZDTXBJQ0FIblptRXd4Um5yQ0hWV0p3czR5cWJ0Y04zdmlxSDlHdFhXTGphZ3JTbTdkb201NWFoa3hjM09hbzZ0RWY3SFJETE8yTHpkcklvYk91VTFrVmtTR1diWDdUU183XzRQQnF1cVBZcWVfRkF4aWZBbTBabXlaYVJaSjR5c25LOUhNZFRHVk5JUDJFTDJjd0NiWldfQXgzcE9HMUJVMVBreDVOTmhPUXhuZURKVFM3ODVKZ0x4MC1fZTA?oc=5",
       "age": "TUORE",
@@ -18,13 +18,13 @@
     },
     {
       "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 75,
-      "title": "No. 12 USC football holds off Rutgers’ upset bid",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "FLASH: Ngetich breaks women-only world half marathon record at World Road Running Championships in Copenhagen",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "San Bernardino Sun",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjQ3Z2E3UXNBb1NGekhPX20tVFRfVVRMQkI1aktTZEw0YzFGalV2THZDOTRZOUpfVnBMak45ZXVfZmZlSThsNllTSW95em54eHJEX0ZfaUlEQ2l2c0pCbWl6Y1pya2tuaFVuYkg0ZVZWcGZCMGM0T2szaHcyYkwyUWNJN3JiOVk?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "worldathletics.org",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ21waGVuNk16b3FIVktNUmhlYkRqMnBzODRVSVF5bjI1MGFQTHBFb3V6Q2pxeHZ1ZEpmZGJWb09BSkFyZ3VZX1FaeXNXYmdLN0pTY2tYSk1sUmNwaFJveUtZU011aGt3aVpZSkU3Zlg5WmgyMjU5eFhvWmdnSVM1c0F0ZVgwNk1yZFJ2QkdqdURsR2NVUnoxSENsSlllaVFfcTBSWnJOV0k1YS02RTZRYlAzczVTdGM5N0lhemxzRXU2REM5Q2FINnNGR0xhV19sUGJzMmFicXFuTTJzcDlyY2dGYXg4TDJieHc?oc=5",
       "age": "TUORE",
       "id": "02"
     }
