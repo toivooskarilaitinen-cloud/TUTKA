@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T11:31:09.340389+00:00",
-  "updated": "11:31 UTC",
-  "rejected": 202,
+  "generated_at": "2026-09-20T16:12:23.424338+00:00",
+  "updated": "16:12 UTC",
+  "rejected": 252,
   "findings": [
     {
       "category": "URHEILU",
@@ -19,21 +19,21 @@
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 77,
-      "title": "FLASH: Ngetich breaks women-only world half marathon record at World Road Running Championships in Copenhagen",
+      "score": 84,
+      "title": "Athletics - Agnes Ngetich breaks half marathon world record",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "worldathletics.org",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ21waGVuNk16b3FIVktNUmhlYkRqMnBzODRVSVF5bjI1MGFQTHBFb3V6Q2pxeHZ1ZEpmZGJWb09BSkFyZ3VZX1FaeXNXYmdLN0pTY2tYSk1sUmNwaFJveUtZU011aGt3aVpZSkU3Zlg5WmgyMjU5eFhvWmdnSVM1c0F0ZVgwNk1yZFJ2QkdqdURsR2NVUnoxSENsSlllaVFfcTBSWnJOV0k1YS02RTZRYlAzczVTdGM5N0lhemxzRXU2REM5Q2FINnNGR0xhV19sUGJzMmFicXFuTTJzcDlyY2dGYXg4TDJieHc?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 8 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMLTJBNlc2V1k4Rm1DZnUyQnd3N2daR0pCSW9FaFFaVnh3d1JicnZHZHdsdEpsd3pUeUNETlh6X3V0ZWY3YUFHN0JPTG5fMXdwVXR0SUNyRTdyUUR0UXVBOFdCV1BmWlVONEE?oc=5",
       "age": "TUORE",
       "id": "02"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
