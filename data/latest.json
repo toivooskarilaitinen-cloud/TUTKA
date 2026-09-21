@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T05:03:30.629755+00:00",
-  "updated": "05:03 UTC",
-  "rejected": 245,
+  "generated_at": "2026-09-21T12:55:38.511657+00:00",
+  "updated": "12:55 UTC",
+  "rejected": 211,
   "findings": [
     {
       "category": "URHEILU",
@@ -10,7 +10,7 @@
       "score": 84,
       "title": "Athletics - Agnes Ngetich breaks half marathon world record",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 11 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uUVpJUEQxT2JxZzJiNXBaaEdLWFlPcmZ2cGFleVpHR2xaa05mSThfTDVmN2F2emx5VG9tWTBVcXIxWmpsVGpmSkJ2YWJsM0FROGFselNVNGg5eVZ2MGhidThNYmJfSFU?oc=5",
       "age": "TUORE",
@@ -19,21 +19,57 @@
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 80,
-      "title": "Athletics - Andreas Almgren breaks European half marathon record",
+      "score": 82,
+      "title": "Agnes Ng’etich who inspired her before historic half-marathon world record break",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05NmdhY0o0MDlWTnhvaWYzX3hhYkMtSm1rUTBHREZ0SlFaQlR4ZkMtYS1PdGMta2NpZGJuRXFjcW5HOUpyZnBXNzBnT0dVQlBXNjByUmZnMTZxRFF3bGN5TnBGOTRNX2hOUkE?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "k24.digital",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmdsZUFOVDVsMk5CVGVoNV82UVhmRmI4MHJXTkZCWWVzY1ljRU9IeXN5Zk9hWi1fRkF1eGZGWEZXSXZQckdtRWxqdEhrVndyaW8ya0d4QUNvQTY2VlBhYWNydjhjdWNFZk92dktKRUN5d0ZyUkhDby1HcTJMeEw5V0NKMEFsWGFpc0dTTXhYejNzVHRXV2FQd3NLUWpQdW9JZm9EYTdnamw4aWdDaVZmUGUzMVJpUEE?oc=5",
       "age": "TUORE",
       "id": "02"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Zach Cregger revives Resident Evil franchise with record-breaking opening weekend -",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "happymag.tv",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pTEplRmtJY0JpUHZ6emRjU3RHMTIyUEdvTXdxWUJQSS1xcjQwdFFOX1psUzZuNWItNUFLdDJ4aWZvM1h1UGNhbVd3aDRjbTJyU2VGWWt1b2NWOXhCVDFEeEhqd3RfTVJrRzNlX2tpM09Qb1lORW1fejVR?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Zach Cregger's 'Resident Evil' sets new record with $60M debut",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkVwY3JobEVKMEFpckdacnEzQk9ZZThXNzJBUmpwYkRObW0zVUN5dHlQTm5NdE15NXFOUTV4bGhBWFZqY0JSUDc4UC1tZUVfajdXVE1tQmhFRUNhTjVmTFFJZV9GeVdITGxZUGJER3hyQUlvLUExWFh4ZkJTNlZmMEFOOHlmUFNkbWluZno4cDVkT2lDdE1MX2VvUVo2ak9jc2F6bA?oc=5",
+      "age": "TUORE",
+      "id": "04"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "South Korea semiconductor exports hit fresh record high in September - report",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdGd3OWRnQ0J2RklWZlRpVGdZVjkwNW9LRFFPNmU4VC1NakhRT3I3eE9mTlVsVnc0Uk41c2labmpITTRwMmJaUnA4TXZSUXducHNVVWVQSDQ4QWJRLWxLT3VnT24wU0k2OXlpVkV5M3UwZTdNU09jM21pY0V4RDFIQm5qYmMtXzV0NjdhV2VHZUxYdU40TXMwaFU2YU03aS1FUkFpWUVQd0VFeXVZV3I3TzhNUE5qVEVYS3FIZUJ2X1Nob3pKVnJhUVhkV2RSbGVJV2N3Rg?oc=5",
+      "age": "TUORE",
+      "id": "05"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
