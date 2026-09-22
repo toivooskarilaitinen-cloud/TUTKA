@@ -1,45 +1,9 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T11:45:27.695651+00:00",
-  "updated": "11:45 UTC",
-  "rejected": 207,
+  "generated_at": "2026-09-22T17:01:37.481270+00:00",
+  "updated": "17:01 UTC",
+  "rejected": 192,
   "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 95,
-      "title": "Raaka’s 37 mystery revealed: Allu Arjun’s film sets a Guinness World Record",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "123telugu.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1hFTnRySzdUUmJvT0Q0LVpMUkFuSS1haGJKcVpNRndpN2E3Ny1QbU5rcm5qbWNja1k4ODdYR3IzT2lnTmFlYzg0Y0J6aUNJaGFBQUtfWVdYNWdJck40WTJNUDhpZDhRb005bzBrM3lZZHlWamNOdmVNUEZQbWx4a3JTbFhVcFZsVzBGRlMzTUIxc1NJTUJnUjZDR0lGbWswV1ZzNXpTMGx4V21DejUxZl9wSQ?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 91,
-      "title": "Raaka 37 mystery solved: It sets a new Guinness Record",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "TeluguOne",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZW9zdWFMWFJhYUxPbTNOSl85Q1JUR0JFdlZZSlIwaGRaUVFjRGhMTFhlRzFOUnd6S0QzMXg5MzNna2cyaFhLRE9pelcyMEJvY1pOblpxa1ZnSk9LbnFhUzlIalljcVh1NTR4VlN2UEl5MDBITDdXM2RsZkF5SEpIYW9QMDdZN2hncVU5bkZWbFBuSmNyNko3djFtdVdaOG1QVjJ0ZA?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 91,
-      "title": "West Virginia Tourism Economy Reaches Historic Milestone, Soars to Record $9.4 Billion Economic Impact",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Lootpress",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0dUTUNtdEZrTGFRN252X1lsdW5fTEJ6c0pEcWRnZldMMjlyb05Kd1UycXpoZnpST2FkQnVOLWRLWnNrdVB6VUd1UUtHc2owU1E5WUE2MjhzVmhPZng5Nm9Ccy0wWE5LZWtHaGE5ckpRWWNhWjViQldMdXdsUER5eWticU5fZ0plTHV2dWlsVmdGYURxM1hjLTJnMWhvdDJwSVVBTmdBMHlieU9Bb281TXY2UnB1Nmk4UVVqR0pJNWw0ZVJmQUE?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    },
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
@@ -50,17 +14,53 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanBVVkJHMG0xejlnN3pmNnY0WG1ORkRCM0tnRF9BNmZkVDhYNjJnblFQU3FnU1NEMG03cUowWlNFbkhIZERZc3plUVNvRklNcnRaQlJzTWpmejdBV0l4bFJTQXZJcU9DQ2M5ZkpJallIZVJBV2pRMVhjaUdJUFhXV255Y0hXTGE3MUlfQXJR?oc=5",
       "age": "TUORE",
-      "id": "04"
+      "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 82,
+      "title": "West Virginia Tourism Economy Reaches Historic Milestone, Soars to Record $9.4 Billion Economic Impact",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "dominionpost.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGN0TWZXMl9kX0lsSm9nZHQ4QTR1RHEzYkF5dnFCRTczTXNRN3RIWlo4VHloRzJTTjljY0kzMTZ6bmE5MDlwMjBpUTlNNnhyNEc3b21QUjlyMHJKalJabl9ESVI2LU5qOGpuUHRyQzEwT0lfdWVpSHBpcDRTSzNlbUJQMVl2T0EyTEV2aGhEVFJrY2k4alNnTThXOE9xb3p6VnYzcF82MzdBanF0emY3enVoUG5IY1ozeWxRS3ZGMlhHQU03bjZENThPdlduZTFXekhvcFpzTUM?oc=5",
+      "age": "TUORE",
+      "id": "02"
     },
     {
       "category": "TALOUS",
       "type": "SIGNAL",
-      "score": 79,
-      "title": "Live Q&A: How Germany's Far-Right Surge Is Shaking Europe's Largest Economy",
+      "score": 82,
+      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2tuZHdsdjFfWW5aT1cyUldlU1BNRTd2c0lUTVV6WmxwejFkODRXWEo1RlFBbGNnaVZpdldqNWVJOExLb240c0dlaWgzdlYxRlhWOTVGMktXdHBmc1F2OXBmOUdsVmRUbEZwQ0hTQWtXMkRsbUNEc1Utc0VLcmhRNFZDSVZrTGlfSDJNbWdyMFF4Yi01eUNTcDBucWhyb3FhaE1LLWxLUGRXdGppT1l4QVJBRjE2dEFmU3pWekJxSGJyZw?oc=5",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oZ2g2eTVSclg4MWxjRGFFSk1kWWJnUmNZSnZJYVRSMWQ5cU5XWEJVWU1GVTB0amd6cVNMQmYxaHVQZUZ5OXdvWlBUakU2RExJbkZjUzJRcWFnZ0F0WFE?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "'Raaka': Allu Arjun-Atlee film sets Guinness World Record before release",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "udayavani.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVUdVTWtzUmRRMXBCRm94QUYxQjBsZUdPZjJTTTdja2dTWTZid2c0aEZlS2JrU21ZRWJ3VWNIY1p1dGtkV1Vwc3Njc2pxdHA3YlN1YkVYM250SlJZdFNlSGNIemowQjg1VlczTEVCUGtfRVJWYVU1X0FGd2FOLXNaWlE0RzI0ZkI3dHQ0NjVDa3gwRE8xbWstYkJabDNiZ2FyczdtZ1VSLUJKbmdvSzlJVXJwT1hMUHUwS2RTTg?oc=5",
+      "age": "TUORE",
+      "id": "04"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "SeaWitch Tiki Bar hosting farewell celebration for iconic ‘Record Weekend’ mural",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "WIBW",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXhjTWNnblNTeldXTkxxZENNOVZDZ25mbWN2MnBWYUNHeHZ0aHF1RERQNWo4cm1WRC00SnNLZEJiWTVHM3dvU0hEYUtEbG95SjI1VkxkTHFCd1FPRVBhaWVRZHlsdFhuT3daYzFXWk45YWVpOEVfZG9iWkQ5THc4aEY3R196OTF1REVwRk9IdWtKeU5jUVlZX0JCdjJua2NTdWtiM3ZIUk94NkM2VFlEN2dCMA?oc=5",
       "age": "TUORE",
       "id": "05"
     }
