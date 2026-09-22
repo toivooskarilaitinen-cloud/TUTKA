@@ -1,9 +1,21 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T17:01:37.481270+00:00",
-  "updated": "17:01 UTC",
-  "rejected": 192,
+  "generated_at": "2026-09-22T21:23:46.989509+00:00",
+  "updated": "21:23 UTC",
+  "rejected": 197,
   "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "Ella Langley’s ‘Choosin’ Texas’ Finally Breaks Mariah Carey’s All-Time Record for Weeks at No. 1, Eclipsing ‘All I Want for Christmas Is You’",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Variety",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU51eVFxTjgwNTc0azQxZnc2ckFfMFFoOUt3VndDUlpqeDRZeWdoQy04OXNfMmtGeFpwZVZ4X29ndF9DZDVCcmVrOTVWQ2NQOHItZWtPX0FjZEdLb1dLb3dGNXZiVHhYTkg1S0trNEx5dTc3Nk5HQlBTLS1ZdGdFcXV1T3hhbm0tejlwSXhfdEFoM3BEcnFQbi1EdVRmNnBQUWkweGJyNUVlQVE?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
@@ -13,18 +25,6 @@
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanBVVkJHMG0xejlnN3pmNnY0WG1ORkRCM0tnRF9BNmZkVDhYNjJnblFQU3FnU1NEMG03cUowWlNFbkhIZERZc3plUVNvRklNcnRaQlJzTWpmejdBV0l4bFJTQXZJcU9DQ2M5ZkpJallIZVJBV2pRMVhjaUdJUFhXV255Y0hXTGE3MUlfQXJR?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 82,
-      "title": "West Virginia Tourism Economy Reaches Historic Milestone, Soars to Record $9.4 Billion Economic Impact",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "dominionpost.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGN0TWZXMl9kX0lsSm9nZHQ4QTR1RHEzYkF5dnFCRTczTXNRN3RIWlo4VHloRzJTTjljY0kzMTZ6bmE5MDlwMjBpUTlNNnhyNEc3b21QUjlyMHJKalJabl9ESVI2LU5qOGpuUHRyQzEwT0lfdWVpSHBpcDRTSzNlbUJQMVl2T0EyTEV2aGhEVFJrY2k4alNnTThXOE9xb3p6VnYzcF82MzdBanF0emY3enVoUG5IY1ozeWxRS3ZGMlhHQU03bjZENThPdlduZTFXekhvcFpzTUM?oc=5",
       "age": "TUORE",
       "id": "02"
     },
@@ -41,14 +41,14 @@
       "id": "03"
     },
     {
-      "category": "KULTTUURI",
+      "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 77,
-      "title": "'Raaka': Allu Arjun-Atlee film sets Guinness World Record before release",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "udayavani.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVUdVTWtzUmRRMXBCRm94QUYxQjBsZUdPZjJTTTdja2dTWTZid2c0aEZlS2JrU21ZRWJ3VWNIY1p1dGtkV1Vwc3Njc2pxdHA3YlN1YkVYM250SlJZdFNlSGNIemowQjg1VlczTEVCUGtfRVJWYVU1X0FGd2FOLXNaWlE0RzI0ZkI3dHQ0NjVDa3gwRE8xbWstYkJabDNiZ2FyczdtZ1VSLUJKbmdvSzlJVXJwT1hMUHUwS2RTTg?oc=5",
+      "score": 80,
+      "title": "European Athletics Championships to have £3m record prize fund in 2028",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rQ095UjNpME1IMlNYYklPZGlwX1AxOTl0NW94UXNHM0ZLZ1JtNXVPOTM3TmJVUGdPQTUweDlsMXg4TVZyS0NxX0JPWW83SU1EM2ptUWZtUWg2NW9XcUNPTHFJWUg3YjVWTFE?oc=5",
       "age": "TUORE",
       "id": "04"
     },
@@ -56,13 +56,25 @@
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "SeaWitch Tiki Bar hosting farewell celebration for iconic ‘Record Weekend’ mural",
+      "title": "Allu Arjun and Atlee's Raaka sets Guinness World Record",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "WIBW",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXhjTWNnblNTeldXTkxxZENNOVZDZ25mbWN2MnBWYUNHeHZ0aHF1RERQNWo4cm1WRC00SnNLZEJiWTVHM3dvU0hEYUtEbG95SjI1VkxkTHFCd1FPRVBhaWVRZHlsdFhuT3daYzFXWk45YWVpOEVfZG9iWkQ5THc4aEY3R196OTF1REVwRk9IdWtKeU5jUVlZX0JCdjJua2NTdWtiM3ZIUk94NkM2VFlEN2dCMA?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "DT Next",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNalNCd21GOFp0RkVOQTRCMXpfa0NsVVZ4T2xiTkVBbko5VmlTcjNiVE5tSWdpWFhxMm5hX05lWnRhaURLSV9tWGg4X2VZRGpHVDVRT3ViQk1tSU5iU3MyNWMyNXpQdFFhaGtPdW5jLTlyZnVpeFcwa1lCRWtwY2RfU2VYUkpPdVNfdUN1NnRYN3VxZ3NWdFpXbEVJWm9FMHJEUVdYRFNjZ3VKQ0Fla2RNdGZtRkxfaldjbjJIS01pX29JTzZid0NUMTFka0hIOXdudVpCYWJDLTZRaTDSAasBQVVfeXFMTjZCdnpxQ3NYVHB0M3VsTkVfcjFVVXg2MXFGTG9GdXNvMkJyLTJtUnFaODd0X24zZXZKTFVpaXVUazVqOXA1ZXFVR0NpWkhmajNCcWhNajZCeU9MUnh4TlhnYzN5V19paGgzUXVTd0pmQnluemtQUzFqNUVsdlBHeVZfUWpZWnJyOF9uQnVMOV96bE9wMlFRcVVKaTk5TDJBaVZRbDd3cUh0aDFB?oc=5",
       "age": "TUORE",
       "id": "05"
+    },
+    {
+      "category": "TALOUS",
+      "type": "ODDITY",
+      "score": 75,
+      "title": "Trade, rare earths, AI top Xi-Trump meet agenda",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1NQMlMtRUgzWDJ4QktpWHpYaFFlak5DQXhwUjE4SFJrTHcya2w1WE5fYy1DeXN1VG5vdnVpWXlCb05WLXhVY3B4LWF3VU4zVE9wNEZ4MzJZZzNnZnpoVXh1TjQ5YWE2ZzI3QmJvTWxHYy1NT2t5NVk4aXpQUXZvai1HQmpyYXFxczdOdnRXTW1MeG52Q2ItbXJoTzh1alhiZkZPWFNVSnQ3cFVMV2swWXB4Wk5LVjdWcGVKRjZISGxoanRQRGljaU1kb0c?oc=5",
+      "age": "TUORE",
+      "id": "06"
     }
   ],
   "errors": [],
