@@ -1,16 +1,16 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T17:08:26.377724+00:00",
-  "updated": "17:08 UTC",
-  "rejected": 230,
+  "generated_at": "2026-09-23T21:33:43.049727+00:00",
+  "updated": "21:33 UTC",
+  "rejected": 224,
   "findings": [
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 92,
+      "score": 83,
       "title": "Ella Langley Breaks Mariah Carey’s Billboard Record As ‘Choosin’ Texas’ Becomes Longest-Running Number One Song",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "The Sunday Guardian",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQW1iYTVCWmpJbjRSZkdxc2g3S1R0ZkMtcVgzYnl6MmZKNlV0b1hUdk9uQXNyYkh3cnVoVzRfZzA0eE9yM2hCYjF5MjBjQTdFSmJlQWkwX0hrU2JvVFo0RklicVA4ekQ4cXl1eGdTT0l2NEdkay11T3JEc1hUWnZQdEl5YTVuQi1WYjl3enhoZS1FOHJwMHdKZ0dSaTRuMEpIYTcza0h1MWlSaVhnR2hmSEZTVkZwVVFzcmtwMlIzb1hSYWVDa1FmZDQ2aGNKdVFUbzEyU1BNeTNZVmowTWhWYWNoRWE3NjB0TnpoWHV0RnpKREhGUkZWR9IB_gFBVV95cUxPSXNBUFE1RXFEZWJfOWV4d0xqbnplTVFuSU5VTGt1am82S0tjR2pkeHl4UVZ0ZkdoVnQyNGh3cWx2dElRYlh4ZmttaHhHUVkydHhORk1FY2dxZ05YaU4xOFBTU19jb2cxMTRUSUN1VGIyT0M2cUZaRi1LOGttTUNuTzdaend2R1RPZ0Z5VE9NaHREYzVpUTR2dUZGdnNfMEhEb0VNdjlZQnBqNjc1bzdNeUw2QVlLVGZjUGhxaG5DS0RSVktIamViV3BXT09sUFhZbjBFS1lSX0dsY0FEVnBVc3M5Q1pNRXFibE9CWFk5azhzc3ZSbi1BVEJSOTVLQQ?oc=5",
       "age": "TUORE",
@@ -22,7 +22,7 @@
       "score": 82,
       "title": "Asian Games 2026: Jay Meena battles pain to win India’s first-ever medal in soft tennis",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 20 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 19 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "olympics.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDBKWUVsZkp3TXNYamRtOUtJZTE2Ynk3N01aTk8xMEhzSjdmNl8wMDBTUHZEa0dEamJXdlJzc1hWQ0Q4WGY5VGROZUtVc3VDYVRFWnU0TmJock5ZU0dlSWlpbzUtVENHa3laV0tHZ0lnVTlLQWRpZHYwcHEyNFIybGh1MFBBX0xGc2ZmOWtwNEdZY0pB?oc=5",
       "age": "TUORE",
@@ -39,18 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdW1OR2NSTTdmd0pxS1VfeTdjT0Rod1pFZTBfbFFBQUc0bmpFS2xXLTJSMzhRRHRkdlFRNklxMmJNbG5XNk80aXFweUhacmRZR01mQXlHeDlOcVFaOTBMTVZHTndxY3JWLS1RQUs1LWpxSVlEaEVhb1ljNm9fWldrSHB6YjJiYjVWZE85NUN3SjRmdG9QbFdXdm9vVjJIMFVlbGtZV0xQd19UMWMwWTUyRFIxbVdEa1k1LWw0MlplXzQ4NS13VTlMamd5U1Nlb2dCM3RFVXQxWUFnVGJRSFRTcUtRUnAwUThUQ2NscHRBTWdwZXlCZkkzbnhwZ3lCc1JJR2dxeGZUblRNZ0ZlRFE?oc=5",
       "age": "TUORE",
       "id": "03"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQblBGUC11R2xqZnlQZklfcW1DUFV6VlNQRnFmVWt5QnZ1WjdXUVBhVzBRd2YxejJoSEk3eVhzVnE0WTZSOW1Edi1mNHlXQmt0RnpoNC1xSHo3eUp3bDhvTWtBVXlHdDZodVN6czBrRVd5VFhMVFpFSF9TNU14ZDdjZThZaFo?oc=5",
-      "age": "TUORE",
-      "id": "04"
     }
   ],
   "errors": [],
