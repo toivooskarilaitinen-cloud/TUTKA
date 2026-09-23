@@ -1,16 +1,16 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T04:50:50.950645+00:00",
-  "updated": "04:50 UTC",
-  "rejected": 225,
+  "generated_at": "2026-09-23T11:44:29.761882+00:00",
+  "updated": "11:44 UTC",
+  "rejected": 223,
   "findings": [
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 95,
+      "score": 99,
       "title": "Ella Langley’s ‘Choosin’ Texas’ Finally Breaks Mariah Carey’s All-Time Record for Weeks at No. 1, Eclipsing ‘All I Want for Christmas Is You’",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Variety",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU51eVFxTjgwNTc0azQxZnc2ckFfMFFoOUt3VndDUlpqeDRZeWdoQy04OXNfMmtGeFpwZVZ4X29ndF9DZDVCcmVrOTVWQ2NQOHItZWtPX0FjZEdLb1dLb3dGNXZiVHhYTkg1S0trNEx5dTc3Nk5HQlBTLS1ZdGdFcXV1T3hhbm0tejlwSXhfdEFoM3BEcnFQbi1EdVRmNnBQUWkweGJyNUVlQVE?oc=5",
       "age": "TUORE",
@@ -20,23 +20,23 @@
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
       "score": 92,
-      "title": "Ella Langley Breaks Mariah Carey's Billboard Record As 'Choosin' Texas' Becomes Longest-Running Number One Song",
+      "title": "Ella Langley’s ‘Choosin’ Texas’ Breaks Record for Longest-Running No. 1 Hit of All Time",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQW1iYTVCWmpJbjRSZkdxc2g3S1R0ZkMtcVgzYnl6MmZKNlV0b1hUdk9uQXNyYkh3cnVoVzRfZzA0eE9yM2hCYjF5MjBjQTdFSmJlQWkwX0hrU2JvVFo0RklicVA4ekQ4cXl1eGdTT0l2NEdkay11T3JEc1hUWnZQdEl5YTVuQi1WYjl3enhoZS1FOHJwMHdKZ0dSaTRuMEpIYTcza0h1MWlSaVhnR2hmSEZTVkZwVVFzcmtwMlIzb1hSYWVDa1FmZDQ2aGNKdVFUbzEyU1BNeTNZVmowTWhWYWNoRWE3NjB0TnpoWHV0RnpKREhGUkZWRw?oc=5",
+      "source": "Our Culture Mag",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHlPcjF4c1ZFSDh4MWtKOV81VER6M2pxRzZlSnVHa3BFRTlyZ3NYTHR1LTY0cTlUVDlqaE9zSTZvREluOXNKalFoYV9YUW1JYU1CMmhneS1RQ1VpT2VSOF9YbWtQb1dxSmlXSmlUUEFZazNlQklxNVgxbi1vZjUtTENlbG1uVmluaURoTDUxU3MySDNzYk9CdS1TeldhbVNaR0hnRVQwUzFXWlNSWXVtczl0QUtIUG1NOTNBbA?oc=5",
       "age": "TUORE",
       "id": "02"
     },
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 78,
-      "title": "Jay Meena assures India’s first-ever Asian Games soft tennis medal",
+      "score": 82,
+      "title": "Asian Games 2026: Jay Meena wins India’s first-ever medal in soft tennis",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQel9BNDhSc1lMaTN4MnEtOWJBQXNSckEzdTJTOXlxTEUzWmp2Sk9mVTU2NkRJVWhMVnRBNVJnWjV4MU8xcmpldVRjLW91TEQtblVlT3hRMVdub0tON2dqd2FvMXA4bHIweGdoQ3QxUWN5MHVhcEJlVXlmX2IxS3B5X3hiX0J0RXBmaTc0ZWRqT19paDJKejhmbVItX0E1N3NqaDc5MVhvdjNvaUc2Y0JYeUtwZFh2MkFndVA4TFBlX2haVEdSTnQ40gHUAUFVX3lxTFB5Qno0dU1lX2xZZTFmVVBDVWk3WFNnOWpNNWFZQlhuQThWUFByaFhVc2JRNXBUbHdLZU4yY2pCWlVvMEZ4UldhX2h2Tm1PdWtEaGZpd0NUX1c2S01XUjlOWVBEMDlFRjVmcG80ZHJmQXpfTl95bm9mMVFEcVJGV2QzWTRhcEc3cHFxTmlGMWlxcl9vSjNkV196SDlRMGk1c1ZlSFNnQzg3S2JZRHVTcjM4X2Y2WkdKdzBmcGxpN3RCLUE5QzJtM25IN3VPWktubC1BU0xY?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 16 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "olympics.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDBKWUVsZkp3TXNYamRtOUtJZTE2Ynk3N01aTk8xMEhzSjdmNl8wMDBTUHZEa0dEamJXdlJzc1hWQ0Q4WGY5VGROZUtVc3VDYVRFWnU0TmJock5ZU0dlSWlpbzUtVENHa3laV0tHZ0lnVTlLQWRpZHYwcHEyNFIybGh1MFBBX0xGc2ZmOWtwNEdZY0pB?oc=5",
       "age": "TUORE",
       "id": "03"
     }
@@ -45,7 +45,7 @@
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
