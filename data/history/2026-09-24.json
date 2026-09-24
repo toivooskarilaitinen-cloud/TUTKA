@@ -1,64 +1,15 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T11:53:24.263572+00:00",
-  "updated": "11:53 UTC",
-  "rejected": 245,
-  "findings": [
-    {
-      "category": "TALOUS",
-      "type": "ODDITY",
-      "score": 86,
-      "title": "Watch Trump Gives Xi Rare Welcome as US-China Trade Truce Is Extended",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3MF9LRXh5ODJFaUk3ZllrSmFxVXBkT3lpcUU5bTktTWNVajhucFZnbEZSM25FYUlleXAwSFZjeG5sRGtLdWZJWlhaTC1lVkllb0UzQ2VLekdtaGlzd2VMbEpRLTk2VE91VVZtQ0kwcHlvOHRTeVNoeWk4NzFjUDQ?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "ODDITY",
-      "score": 84,
-      "title": "Trump’s Rare Airport Welcome for Xi Marks Historic Shift as High-Stakes US-China Trade and Security Talks Begin",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckJIc1h1YjhJSUJOZWs4bWIxVk9sZ0RXYXJXNm5BeENZa3R6YV93VW1qS2o5Wnlkd1JINWczODRGcVVTNnQxLUZoMjl3M3dRX2hyQ3hwaWhCNmc1OE0zUWI0RExvVHlReG5zMDBjQzdnMGh3TmNiRTJOY0Q5eUxReFhJOG1fQUNKelZOMGdRU2FJOU9ja28ycjVlVlc5N0IycVdGWEZuT1BoNGlDZ09zd3M3ZHladw?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 80,
-      "title": "Today in Sports, Sept. 24, 1994 — Washington ends Miami’s NCAA College Football-record home winning streak at 58",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Cumberland Times-News",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMXV4V25jYnBYcVg1S3U1VkVGdmVVaGpLSG85WnhKUEl3d2w0aTFPOFBVUklHMl96U2pRQjJxckNra1ctUlJYNEk1c1dDOENnekhfSzJFQV93VHFOTlJETGgtVFlIZnFFRHlqTU5aR21NenFTSUZ2M0djMFB2REV0UjF5Yjd3YmtpcU8xSUR1RE96UGZFb2xPcmVMSFJjMExSeGRSeHNObTVqSGZYc3h0amtPX1RaV3RkeHJFR1lBMWRoTTJEcWhkeU5CaHY0VUpUWE1tYms3RDl5aXBTTi1MbU81TFZYQ0staGx6YU9zWUpMdlF6ZEVxSGtwZkg3SDA?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    },
-    {
-      "category": "TALOUS",
-      "type": "ODDITY",
-      "score": 77,
-      "title": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXJiRGRJVWpENUxMLW52eTlhdm5WMTREUnhMcFY1aG5nTElLM3lxZTV4cGRpa1FaS2x1MFNuUVdDVmFIQk5uTkpIU1F5Q1hnTDVRQTRpOEV5UlkteE5NYzhLcnh1MzVjeUZjQWUtaTdHQzBXclc3c1R6Y3pCd1hIelVneHZJbmRxM0RuUnd3?oc=5",
-      "age": "TUORE",
-      "id": "04"
-    }
+  "generated_at": "2026-09-24T17:17:01.303822+00:00",
+  "updated": "17:17 UTC",
+  "rejected": 0,
+  "findings": [],
+  "errors": [
+    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
+    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
+    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
+    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
   ],
-  "errors": [],
-  "providers": {
-    "KULTTUURI": "GDELT",
-    "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
-    "URHEILU": "Google News"
-  },
+  "providers": {},
   "method_version": "v0.3"
 }
