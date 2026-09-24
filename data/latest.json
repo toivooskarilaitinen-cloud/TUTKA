@@ -1,15 +1,40 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T17:17:01.303822+00:00",
-  "updated": "17:17 UTC",
-  "rejected": 0,
-  "findings": [],
-  "errors": [
-    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
-    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
-    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
-    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
+  "generated_at": "2026-09-24T21:34:42.829722+00:00",
+  "updated": "21:34 UTC",
+  "rejected": 242,
+  "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "Ella Langley Breaks Mariah Carey's All-Time Hot 100 Record With 'Choosin' Texas'",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "ARTVOICE",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnZuUXZjT203WGpsZmpsUDUzSXFYV3lWOVh2amNIOFhJVmNJcHAyMUtJZTZmdW9ZcVdNdWhCWXNLM2tkRkVobXc2ZFVodFQ1ZUZXcHgtZVd1LXJBbU1KM2c3T2pWZktnMThTckdFTk5tR25VdkczdXNuTW5OU0NKTTFxWndrMWpDRGg3VENVcklyNDE5YmY3N1RXOXJsQkk?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "ODDITY",
+      "score": 84,
+      "title": "Trump’s Rare Airport Welcome for Xi Marks Historic Shift as High-Stakes US-China Trade and Security Talks Begin",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckJIc1h1YjhJSUJOZWs4bWIxVk9sZ0RXYXJXNm5BeENZa3R6YV93VW1qS2o5Wnlkd1JINWczODRGcVVTNnQxLUZoMjl3M3dRX2hyQ3hwaWhCNmc1OE0zUWI0RExvVHlReG5zMDBjQzdnMGh3TmNiRTJOY0Q5eUxReFhJOG1fQUNKelZOMGdRU2FJOU9ja28ycjVlVlc5N0IycVdGWEZuT1BoNGlDZ09zd3M3ZHladw?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
   ],
-  "providers": {},
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "GDELT",
+    "URHEILU": "Google News"
+  },
   "method_version": "v0.3"
 }
