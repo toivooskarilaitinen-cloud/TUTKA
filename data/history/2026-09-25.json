@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T05:03:08.361742+00:00",
-  "updated": "05:03 UTC",
-  "rejected": 213,
+  "generated_at": "2026-09-25T11:56:20.161776+00:00",
+  "updated": "11:56 UTC",
+  "rejected": 184,
   "findings": [
     {
       "category": "URHEILU",
@@ -17,6 +17,18 @@
       "id": "01"
     },
     {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 78,
+      "title": "Jay Meena wins India’s first ever soft tennis bronze medal at Asian Games",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "DD India",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbm5ieHAyMUF0dXZnanpyXzRGZERGdWZKbzczWmpVTExmVXBsQjVwZHpUT21SbENxcEJYR2tldlAxZy0ycDRNYlZXLWVCdHlPUUVJZzMzY0dEcGFtMFBNT0pEMFd6Ul9RY2xEZzFTNDg4VHRYWDZYeHpuRk1UWXlDS0V6ai0xa28tX25HZGxpY3Vpd3B3REh6alVNcGN1TGZfUWhoYW9B?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
       "category": "TALOUS",
       "type": "RECORD WATCH",
       "score": 75,
@@ -26,7 +38,7 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbEZoeG5LRFVsWlpIVC1BVHNrR1dMdThqeVZOVUM0ak1BYk9WbmZLcVRteE5RZ0NCQnZITGFmUlhNX2drRzZ3UF9sRGo3Nm1zY2YybFFNSUpvVGwxd3l6MnZwY2x5Q1dDa1kzMXN2bmtYaFByb0htUEkxNkloQmRjTm5udVVyZkxyUWNYOF9yQXo0MWRQOG5qRkJvRTVfaUdPZmUwWWp0TjRCRXBUUWFmbnJ3?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "03"
     }
   ],
   "errors": [],
