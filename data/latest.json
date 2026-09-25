@@ -1,49 +1,37 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T11:56:20.161776+00:00",
-  "updated": "11:56 UTC",
-  "rejected": 184,
+  "generated_at": "2026-09-25T17:17:00.038007+00:00",
+  "updated": "17:17 UTC",
+  "rejected": 239,
   "findings": [
-    {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 80,
-      "title": "Prozorova Stuns No. 3 Seed Alex Eala in Singapore Tennis Open Upset",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VZnlCRVBqNnd2YV9DNjU2RWs2NTNPN0UtRHNJQURXbGFoaGhYOFZUcjMtd0NOb2dValN2eHNwdVA1NGJiUXJaeWwxTDQwdjFQcE81OVNmUWFlUU54UmpyTGJoN1BmdjlvNmhKaWdYMmZkQQ?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
       "score": 78,
-      "title": "Jay Meena wins India’s first ever soft tennis bronze medal at Asian Games",
+      "title": "South Korea Wins First-Ever Gold Medal in Men's 3x3 Basketball at Asian Games",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "DD India",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbm5ieHAyMUF0dXZnanpyXzRGZERGdWZKbzczWmpVTExmVXBsQjVwZHpUT21SbENxcEJYR2tldlAxZy0ycDRNYlZXLWVCdHlPUUVJZzMzY0dEcGFtMFBNT0pEMFd6Ul9RY2xEZzFTNDg4VHRYWDZYeHpuRk1UWXlDS0V6ai0xa28tX25HZGxpY3Vpd3B3REh6alVNcGN1TGZfUWhoYW9B?oc=5",
+      "source": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wd25OY0NvR2M1OWQ2Ynh5Qm53MHZvMDVTa3lVT1dhdEhrZGx6NnV3YndsRE5jLWc5NER6U18ySmZ2Q0tpenhJV3dSb1I0bWdET1RhUVp3cG5rNklvaWc1bDRhM05BQQ?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "01"
     },
     {
-      "category": "TALOUS",
+      "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Rhine Sinks to Record Low in Further Blow for Shipping",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbEZoeG5LRFVsWlpIVC1BVHNrR1dMdThqeVZOVUM0ak1BYk9WbmZLcVRteE5RZ0NCQnZITGFmUlhNX2drRzZ3UF9sRGo3Nm1zY2YybFFNSUpvVGwxd3l6MnZwY2x5Q1dDa1kzMXN2bmtYaFByb0htUEkxNkloQmRjTm5udVVyZkxyUWNYOF9yQXo0MWRQOG5qRkJvRTVfaUdPZmUwWWp0TjRCRXBUUWFmbnJ3?oc=5",
+      "score": 77,
+      "title": "KPop Demon Hunters Closes In on a Major Soundtrack Chart Record",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "wzpl.com",
+      "url": "https://www.wzpl.com/2026/09/25/kpop-demon-hunters-closes-in-on-a-major-soundtrack-chart-record-2/",
       "age": "TUORE",
-      "id": "03"
+      "id": "02"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
