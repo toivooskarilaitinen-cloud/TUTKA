@@ -1,37 +1,37 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T17:17:00.038007+00:00",
-  "updated": "17:17 UTC",
-  "rejected": 239,
+  "generated_at": "2026-09-25T21:38:55.467036+00:00",
+  "updated": "21:38 UTC",
+  "rejected": 174,
   "findings": [
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 78,
+      "score": 82,
       "title": "South Korea Wins First-Ever Gold Medal in Men's 3x3 Basketball at Asian Games",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "news.sbs.co.kr",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wd25OY0NvR2M1OWQ2Ynh5Qm53MHZvMDVTa3lVT1dhdEhrZGx6NnV3YndsRE5jLWc5NER6U18ySmZ2Q0tpenhJV3dSb1I0bWdET1RhUVp3cG5rNklvaWc1bDRhM05BQQ?oc=5",
       "age": "TUORE",
       "id": "01"
     },
     {
-      "category": "KULTTUURI",
+      "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 77,
-      "title": "KPop Demon Hunters Closes In on a Major Soundtrack Chart Record",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "wzpl.com",
-      "url": "https://www.wzpl.com/2026/09/25/kpop-demon-hunters-closes-in-on-a-major-soundtrack-chart-record-2/",
+      "score": 78,
+      "title": "[Nagoya AG] South Korean Men's 3x3 Basketball Wins First-Ever Gold, Defeats Qatar 19-10",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVDQ4WFUxVnFleFZCVHp0eDhHWmVwVUFPbHhBdjl3NW9EQUVNT0k4d296cWF6RG13alNlSlpxaFgtYUo1Z05DcFVZVUkyY0JjRnpPYkNPQ3FMSUpDN2ZwWUZKdnQ?oc=5",
       "age": "TUORE",
       "id": "02"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
