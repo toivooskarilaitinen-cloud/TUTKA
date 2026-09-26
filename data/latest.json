@@ -1,15 +1,15 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T05:06:23.692993+00:00",
-  "updated": "05:06 UTC",
-  "rejected": 0,
+  "generated_at": "2026-09-26T11:31:05.344819+00:00",
+  "updated": "11:31 UTC",
+  "rejected": 203,
   "findings": [],
-  "errors": [
-    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
-    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
-    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
-    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
-  ],
-  "providers": {},
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
   "method_version": "v0.3"
 }
