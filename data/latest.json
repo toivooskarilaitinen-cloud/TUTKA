@@ -1,9 +1,58 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T11:31:05.344819+00:00",
-  "updated": "11:31 UTC",
-  "rejected": 203,
-  "findings": [],
+  "generated_at": "2026-09-26T16:28:06.828642+00:00",
+  "updated": "16:28 UTC",
+  "rejected": 188,
+  "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 84,
+      "title": "US jury says Apple owes record $5.7 billion in haptic technology patent case",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXduWFl4SXl1dlNpaDVMVUdxbENVSGFqV3hFYnl2ZE8yTTRNZVAxZFpwTERQZzExTmg1ZG5IdHFtRjg5cUtGaU1pNndEa0UzMzg1YWJWc203ZnVOajF3MUM2RGhQTllJTXRub05McENSTExBQVhQUm1aYlZIN3RyR2RfN1V4cjZ1bktEVjV4bk5WdFowdVZENlhWOE0wU1Y0T25LRk8tbjBFendGaVhNdlp5aUZNWFM4YUhKdzhNNFFLUQ?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 80,
+      "title": "Aledo football's record district win streak ends against Arlington Martin",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "WFAA",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ1E3MkZjNWI2N25UYmtKcjZfMjlGZV9LU0c3UjRaSDIzRXRQSGFLVG1DZTUwZGE1UkhuWHBQanIwU1RNTzJ4SU9lR3hreWtFUWQ3dWZQSTZ2cWc5eER1UVZNTk1yTXoxUTA5M1NNdnRRSzZ2UmxuZmswU2lmMzlvOGtPQWxyeVp3b1lwUzRjXzkzNXg3SktzUG5NWXZlMjdjOGFSRkVpZHlfcVUzaU8xMVQ2MTFyNFd0akhBb3pHb0VKZXRhSFRENDhnTDlKRjY0R2UxeTRYTzZ3dU1JUUhzSzY0aXNVM05ZRXlrM0JOdHFnd1BLaF9j?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Apple faces record $5.7 billion patent verdict over haptic technology: Here’s why",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The News International",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFhCcXFCWEQwQU1jdEd6NkJMR3oxd1pUeDNUQW9XT0hJdF9PQmJZSldhXzdwQ2I2SkFFcV9yNllnTHRZNy14VmlVendZV0U0by1CWWdQdUM4cDgzWnN0N2MtV21PclJXT3ZaSW5WRmVYZ0QwRnhicjAtQnRfeGp3UEdpRlVtVlBEQ0FOdnFrdGFVcEgtU1dwUXdIR2tacmhOcXlJb2lvX2d1VnNIVFkwc1pvaUFYcTlSdVUw0gG3AUFVX3lxTE5Td3BiLUdTcUQ3T0hDZDg2OEhwaFVrZFR4Q2o1YU9JeGllaWNtQ0NaVjEzenNoVTlpNkZBMTROcVU5Mzlva2h4aEZqbmVJd2N1Z2ZxcmtqMHdWRGFHZG5maldJV2QxT2ZGM3VaRnRQRVJ3YThVMDhpRkJfWjRqR3lDVGh6T25oNEphVV9NX2d6ZVZfT1J0QzA3M0xmZUdsVlJSSGJhd0dRblhtLW9KN3p4TzV4V0dIcw?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    },
+    {
+      "category": "TALOUS",
+      "type": "SIGNAL",
+      "score": 75,
+      "title": "Fed's Hammack says bond yield surge not about lost inflation confidence",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjhLcGd6RE8wdTJ6VTJSMktnNVFUeHliWGtEVFo2UU5vbVZBbElLU3FVMUhqTnYtSXpCN2Q0aU1mLVVjeFF2T1NuYVpHaGZfbnl4bEhJenFqdlJyN1EyeDFoSmpVSWZGajVodWRRUVV1WWhPQ1FKYmNYN0hOMllnMVBmd1FoVUdVX0pabVhXWHdFVUt6SEtkMUE4R1NQeHhpNmdObG4wVlJFc1JkaU1ESG1tcXZNMXJD?oc=5",
+      "age": "TUORE",
+      "id": "04"
+    }
+  ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
