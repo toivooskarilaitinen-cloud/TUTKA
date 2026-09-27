@@ -1,8 +1,8 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T17:02:03.378219+00:00",
-  "updated": "17:02 UTC",
-  "rejected": 211,
+  "generated_at": "2026-09-27T21:24:28.907525+00:00",
+  "updated": "21:24 UTC",
+  "rejected": 208,
   "findings": [
     {
       "category": "KULTTUURI",
@@ -10,9 +10,9 @@
       "score": 91,
       "title": "'Black Market' Sets Guinness World Record For Largest Film Screening Attendance",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 8 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Nigerian Voice",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnpmMlRMc3gyUWY2b3FHTk83SDQwMVlGYWNLSkk2S0pWWVJqZUJXdmhMMFBtbGxUMUl4Q00tMm5rTU16VEtlcEZsYzRTUGl6bUxackFLYlpMTDB6aWJ1SzhVZUtLbUZIVTgyRmRiOFgwRDRxanZUWjJPc21XRWdLV1dhQTYxanIyWk9iRXdoS1pVaGkxeVhqQWE0a1BtRkVhRW54V2YxWnU2Mi000gGzAUFVX3lxTFBtRDh3T2pXNTItSDlpMW92WWhrUlZnRDdlWkhoSHMxLURBb3pvSXNGS3B5dHNIU2NWLVBFNzVoNkdNNXJIN01EeVlmRmNjRm83LXM1QjBFX1A2TFNRX0RybUx1akxmbGFtWVRjNjBUczZWN1FQWndxMVpUcjdjVnh1R3ExdXpWNUpqYkRoa3ZvMkVJOG9fTzFQUlJZNkhWR0JuS3RER2lVWUphc0dtUWtsdmtj?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 9 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "modernghana.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcndWWHRjbzJ0NHNYS1pscXJyUURDQVZEM2VlRXJBbHk4ckxGQTQta2xjRWdyZHNNdXRLVVItOTNJYmVaelRkSVVXRFJNT29hN0hfdG5vU0J6dVljRnRkQzZfZXUtazR1enNLOGxCVHNfeGhqdmhscWo1ZDY5N3FuRDlKYVVOQkU1eThnQWptcjhGamFlRTZJT1pDUTFGQdIBnAFBVV95cUxOVEhMZGRXTVgycjFmbVRueVJLQWcyeWY2d1piRVZES3JrSUc2SjhKS1d4N1hmUkdWcDdFYjhCVnpIZ2lIa2wyQkc4Z2tkamVGcWw5aXpOUERxbGpVRGZDUkxYMEg4SVFpb181dGF3MUtIMWE4bVBOZ2tPSlJYNlBjUEVhSDBYU3dZbzhaeGN0N3B1NTdacmFNNHphQ3Q?oc=5",
       "age": "TUORE",
       "id": "01"
     },
@@ -20,11 +20,11 @@
       "category": "URHEILU",
       "type": "RECORD WATCH",
       "score": 88,
-      "title": "Rare Bugatti Veyron 16.4 Grand Sport Vitesse ‘Jean-Pierre Wimille’ Sells For Record $5.44M",
+      "title": "Rare Bugatti Veyron Grand Sport Vitesse sells for record $5.44 million",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "AUTOJOSH",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbk1qSmxhTjNTVnFtUU1RaUM2T0k2WEZQM0ZPS2Zndl9Rb1MwLWo2LVB4d3E2WVdIQXBmMERndTFUNnVPVDB6UXREZGpWR1B0VWV3Q0xRREFZQUR6OHluTGx1eXhBVFVvYnRBMWRVdkpMNnJUV2EyZjZhaTl6V3cxQUFFTXFqMVVfX0E2YnlHSWREVWI3aXJRSGgxUWN3d3NWOGc?oc=5",
+      "source": "The Supercar Blog",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzVIWU1XZ2RTTlEtSXVVWm1KM185WEhYYUlmVmlIOXV0UmpSaDhmdWlrenFpZ05ma2NpQWNFRElJRFdLNGdfQTNBYS1RMjZPNmJXTXJ1aGY1SHlsX21WOGh3dXBMS2w0NUpkRUZZdURDaXFYX0JWMUt2dmhEUHBHR0xSanNFZENHZEtsZWd0QmxoQ3l3UEtwU0VMaFJUNWk2aDJHRA?oc=5",
       "age": "TUORE",
       "id": "02"
     },
@@ -34,7 +34,7 @@
       "score": 77,
       "title": "Nollywood breaks Guinness World Record as over 51,000 watch ‘Black Market’",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 13 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 16 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1UzY1Y2VWFKLUMtaU8zNFVRaVo5bnFxbmtXZkpld2ZaTnB1dHJKVFI1dzZ3cGRpQjBHdk9NdXJpWXVBY1phWUVDSElTS2w0LWF1LTRzMmdwdDBlSmpUcU5iSjNlWGFhX2Zab3VkMVdTNGtlTFhLREN5NXBoMVlMOXNfd29BY0RyWHZYQkRONG1ZR1N6SlJDaXB3Rlo5Zw?oc=5",
       "age": "TUORE",
@@ -46,23 +46,11 @@
       "score": 77,
       "title": "US jury says Apple owes record $5.7 billion in haptic technology patent case By Reuters",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNE80YUZqQ0dScnZWX3hDUG9Fc0VSd2hLUEU2aTJPV2FLeXVNZ2o1ZENpRHJBM2taRXhCRHB5SmtEQ0ZTV2RDNl9CTENfdnNOdUdYY1hPUEkzbUJrRkVsa1hkTmlSazhTXzZ3bHBpLXJOeTdZWDlQTWVWWTdGb2NWNWlqUFV1SGRxZk9hakNCMUc1NmJSOFd5cndhYVA2dXd6ZzJxOE1aUl9Ka3ZkS056YWdydDUwR1BpaG9XblN4bFl4MlZud3Jlc3BPYw?oc=5",
       "age": "TUORE",
       "id": "04"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Apple ordered to pay record $5.7B in patent lawsuit",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "NewsBytes",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPclhBNFJUSUVYZlRueGU3R0I3MDZGYldzUmR3bTNab1VreTE5VVR6Y20tWkFIcjhRNi1KanpnRFJzV1diM2xLX2pwTW9GQ05jM29sVk1fWkZhU0ttRm92V3J5UjFUemo5aHFTSVMwaEp4Wjh1cDlOSkd1U2ZURlpfeDVMRjhOd3NIdGpvbURYZzBVbWtGR193V190d0FVNmRj?oc=5",
-      "age": "TUORE",
-      "id": "05"
     }
   ],
   "errors": [],
