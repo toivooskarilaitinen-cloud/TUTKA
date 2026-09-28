@@ -1,8 +1,8 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T14:03:56.209039+00:00",
-  "updated": "14:03 UTC",
-  "rejected": 164,
+  "generated_at": "2026-09-28T23:20:20.696042+00:00",
+  "updated": "23:20 UTC",
+  "rejected": 188,
   "findings": [
     {
       "category": "KULTTUURI",
@@ -19,12 +19,12 @@
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 87,
-      "title": "'Black Market' Sets Guinness World Record For Largest Film Screening Attendance",
+      "score": 84,
+      "title": "Taylor Swift breaks record for most MTV VMAs as Madonna also wins",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "modernghana.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcndWWHRjbzJ0NHNYS1pscXJyUURDQVZEM2VlRXJBbHk4ckxGQTQta2xjRWdyZHNNdXRLVVItOTNJYmVaelRkSVVXRFJNT29hN0hfdG5vU0J6dVljRnRkQzZfZXUtazR1enNLOGxCVHNfeGhqdmhscWo1ZDY5N3FuRDlKYVVOQkU1eThnQWptcjhGamFlRTZJT1pDUTFGQdIBnAFBVV95cUxOVEhMZGRXTVgycjFmbVRueVJLQWcyeWY2d1piRVZES3JrSUc2SjhKS1d4N1hmUkdWcDdFYjhCVnpIZ2lIa2wyQkc4Z2tkamVGcWw5aXpOUERxbGpVRGZDUkxYMEg4SVFpb181dGF3MUtIMWE4bVBOZ2tPSlJYNlBjUEVhSDBYU3dZbzhaeGN0N3B1NTdacmFNNHphQ3Q?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxZnRmTWhDSHRCUnZXM01FSnNNem5wU2d1MnVCeklKTFNGai12bDk4LXRod3VJVHBEMlFDV3lraFBoRXJ4bnFmYko1NjBEOTNXVFJIeEEwVlMxUk5wN2c?oc=5",
       "age": "TUORE",
       "id": "02"
     }
