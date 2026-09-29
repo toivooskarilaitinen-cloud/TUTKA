@@ -1,20 +1,32 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T05:49:16.024394+00:00",
-  "updated": "05:49 UTC",
-  "rejected": 211,
+  "generated_at": "2026-09-29T12:59:47.789173+00:00",
+  "updated": "12:59 UTC",
+  "rejected": 191,
   "findings": [
     {
-      "category": "TEKNOLOGIA",
+      "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 80,
-      "title": "Nvidia Boosts Share Buyback by a Record $150 Billion",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZG4xM0QyUVlMd3dIRDdUckxlWkdOeUZ5QmthS0lQc3pPNjUyOEJqeWpNQU02UnZvTlcyYnllZ2plRXBHeTFkTVpLNWR0S3lzb3BtcUVfdXN5ME1nNkZpaXhkVlVPUlNyU2hGNEN3em41YUNLVm14OEFLNUpGZWFRSXNwZGZWUTFaN1VBSnA5UVhnZm1sRTl0ZVN6LTRCeG1Eb2VHWW14eEMwVE51NThZT0JadDc1aDg?oc=5",
+      "score": 77,
+      "title": "Tinubu Celebrates ‘Black Market’ Filmmakers After Guinness World Record",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "HipTV",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYk1EUjdXMDJhMXJnRGRjVnhLT2x1THRmUjFwb3lxQWlfOWtQc2tFY1ZPV3ZMaVlrWnlocktfSHNldVRmelpTTGNQT2hrY1RidDZITXVkczZtbG1LR2xCQVhxcUYyanhVWklwVERFdEpxSDIxXzUzRkNBUktpT3k5dXJCMmstNHdweVY0N2FXMkQ?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Tinubu hails Nigerian filmmakers as ‘Black Market’ draws 51,000, sets Guinness record",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblhSTWZFeVlMWTE4Uk51Y2dsa21mMzR0clNjQ1RSSzRQNm1GQ01iSHBGTnFHT2l3VHFhdzdIdTlNWF94SzNXOTdoYmJVOGp6LXF3SUNSMGZFcnN4TF90QXJVazBnS2dnR1R3T1BQaXc5SkVWWllEa2huQi1hd01NS211U21UNmVpMXVKVXZPNUJwZEZCTGY3a2tOMHdoZWJBWnc?oc=5",
+      "age": "TUORE",
+      "id": "02"
     },
     {
       "category": "TEKNOLOGIA",
@@ -26,12 +38,24 @@
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBeHhEc2NwaERzYjQyMDBZNGctS1Jpa202SjZaRXhfbk5TV3ExQVU3X2lMQkRCX2lOUGQ2T21ZUkVoaVhoOGRXSEx0ZnJpaGZxcW5TWnVPaC1nS0E?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "03"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Nvidia Boosts Share Buyback by a Record $150 Billion",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZG4xM0QyUVlMd3dIRDdUckxlWkdOeUZ5QmthS0lQc3pPNjUyOEJqeWpNQU02UnZvTlcyYnllZ2plRXBHeTFkTVpLNWR0S3lzb3BtcUVfdXN5ME1nNkZpaXhkVlVPUlNyU2hGNEN3em41YUNLVm14OEFLNUpGZWFRSXNwZGZWUTFaN1VBSnA5UVhnZm1sRTl0ZVN6LTRCeG1Eb2VHWW14eEMwVE51NThZT0JadDc1aDg?oc=5",
+      "age": "TUORE",
+      "id": "04"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
