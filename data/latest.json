@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T05:38:55.625929+00:00",
-  "updated": "05:38 UTC",
-  "rejected": 227,
+  "generated_at": "2026-09-30T12:42:10.962050+00:00",
+  "updated": "12:42 UTC",
+  "rejected": 208,
   "findings": [
     {
       "category": "URHEILU",
@@ -11,7 +11,7 @@
       "title": "Nation’s longest high school football winning streak ends after historic run",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "MARCA",
+      "source": "marca.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQm1hd3FFWE94OWxNc0NGWGdVc3NkNTZZaGpuQ1pkNHlrdm9Jb0Y5YWNmTlMySXNYWVA0enhWSVJhRWNHZ01TVFVtdTNBN2Z6OWx5dHlqUnVhTjl4QUdfWnVsWEFrQnNlbEV3MmV4QXVoMlN1NGtPYmJpOGt1VVF4dEZoUVlXaVNFX213aG8tYV9DMVd0Tzh3LTRRTHVKMnRLYnRMZnlGdkdxS00zSlIyQk5ab18zTTJ5QU45MlZVc9IBvwFBVV95cUxQQm1hd3FFWE94OWxNc0NGWGdVc3NkNTZZaGpuQ1pkNHlrdm9Jb0Y5YWNmTlMySXNYWVA0enhWSVJhRWNHZ01TVFVtdTNBN2Z6OWx5dHlqUnVhTjl4QUdfWnVsWEFrQnNlbEV3MmV4QXVoMlN1NGtPYmJpOGt1VVF4dEZoUVlXaVNFX213aG8tYV9DMVd0Tzh3LTRRTHVKMnRLYnRMZnlGdkdxS00zSlIyQk5ab18zTTJ5QU45MlZVcw?oc=5",
       "age": "TUORE",
       "id": "01"
@@ -19,21 +19,33 @@
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 75,
+      "score": 80,
       "title": "South Korea Tax Revenue to Hit Fresh Record on Global Chip Boom",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEpTWTFYV25uU1Jsc1c3aS1IZFpXODVWV2ZWUVRGbWhGbXhNMDdLSVdCTWEwaEVSU0NVR3VyU1hmMWlYSnJwV0wza1lYN2VRT2kyRXVwSzlNMXdoVDZVZlBtNzhQY0JHQTRzQkRaLTc0NW1yUzBjRTdXUmhQTDJVM1VIUXpCRUZ5OGxyTExEbndlUlF6SGt6YkR2ckF0UnJHTm9hMXlKaVc0eUZnU0lURFhoUGg?oc=5",
       "age": "TUORE",
       "id": "02"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "ODDITY",
+      "score": 75,
+      "title": "Lady A singer Charles Kelley reveals he's been diagnosed with rare blood cancer",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "firstcoastnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUkFUVHV6VThjemw4aFY1Tkx6RnBWbkJPNC1UblFWVnRMSXc4eFZkZ3ZwdklibXo0dW9fSHhKOEZBekF5S09uVS1VSU9POWNaSG1Sb01QQlJ6WHR1ZEF4YTdMQlNYVElRTW9tWXJXQ2syV2d5cjVwbWFBNm1RMm05b3hSVi14dEdVSFY2bW1Qd0J2dXg5S1lsaXFaNmxjX2s4VjIyRzJodkR3c1MwTVlmeDRNamtWWHp1UUxaLVpaUWZYMFB1OExtYXhOZWdmSklpRXc?oc=5",
+      "age": "TUORE",
+      "id": "03"
     }
   ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
