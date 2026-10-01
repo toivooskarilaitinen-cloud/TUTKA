@@ -1,8 +1,8 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T06:03:19.198621+00:00",
-  "updated": "06:03 UTC",
-  "rejected": 211,
+  "generated_at": "2026-10-01T13:26:08.659588+00:00",
+  "updated": "13:26 UTC",
+  "rejected": 240,
   "findings": [
     {
       "category": "TEKNOLOGIA",
@@ -10,8 +10,8 @@
       "score": 90,
       "title": "South Korea Exports Surge 83.5% In September To Record High",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "businesstoday.com.my",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BusinessToday Malaysia",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1Ed0x5OFVFNHBsQjRaTEJPMzhtbHJ1eFNEM0pwRzB6UXBrZDh1Ml8tZFQ2a2MtUTBnU0MyNjhhaTlxLS1pdVdDc0piMlN3bEIzYm82N0VERk54MFlpWW4wbzJlUHMza1RXaENVT1BkOWcwVmFIYkFvQnVKSnkzY0xaeDFiRldlZGVwQVR4WjJ3ekpZZnpYNUNFa0VObWtXUTI5MXJn?oc=5",
       "age": "TUORE",
       "id": "01"
@@ -22,23 +22,11 @@
       "score": 84,
       "title": "South Korea’s Monthly Exports Hit Record as Chip Boom Rolls on",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUlRNmZsd18xdW1FM3YyblM4ek9QaFVYWFNvWTZhUVdOalNEYnhTbnVySkJfSGtIR1Foa24yVzZFV2lMUDNWMTlySE1SdXdIM2xVNlZQMmplMzZOaGI5eUNZS0puRTB3SjBmVHQ5Z014NmJpdnQyR2hWS1ZLY0lBejFrdEpaRGdnU0JZV2pHTjAtd2V2TFh3bHN0OEJOZ0FpMGZ0c1l1ajJVREF4ZlNmc1daMWc?oc=5",
       "age": "TUORE",
       "id": "02"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 82,
-      "title": "Historic Deal Positions FIA World Endurance Championship for Record Decade of Growth as the Sport Enters its Golden Age",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVklza2laSlBQbE5FVzNscktxMTIwVU90dkVsb21MeEZCMlgyUHQyRzdwcUk4ZkY1VWN4UlpiZFk5NS1laGJRYjh0VDRmeUVmWHpIeVBGSWhWNUVPNEhZOWV4YzlqZnQ2RUJONVRUcl9mTWlQRmFvdHcweTVyckluVHE3WnRyaFRnczNCeXdfbi16TURkMXU2NDVBWl9oT0prTXpaVDNNUThJTURQbzJrVVhBMjNJOTJWTmZtR2N5S3ZFSjJvVUd2S0J2cXJkMTI3V3lHaXg2TTg1N1ZLb19LWWFnOTJFUUI4VXpnOEt3bUt0LS10Tl9JR1p0dFFERkkwQ0pLc3AzTQ?oc=5",
-      "age": "TUORE",
-      "id": "03"
     },
     {
       "category": "TALOUS",
@@ -46,9 +34,21 @@
       "score": 77,
       "title": "Inflation settles while consumer confidence hits record lows",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 15 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 22 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "WXYZ 7 News Detroit",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelR6Nkp6Q09meU5nVEh6SkRrdW5EeGVJT1lhMHgxMWRwQkdhSE5UR2R4LXgyYzZXUGs0QXF2bmxYc2VYZFF5RlNHT1NWM1VROUFtRUJvV3JvUERmTlpqRFdJcW5zYUVOYWNMOFZheHUxNGtnRDhsYkwtMEhRcHpRQ2JIQlFMeDZ6Q1dMLW5xcjBxSDF2YjBxTUMzMHNYTU51elRNeg?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "This Date in Baseball - Ichiro Suzuki sets MLB record for hits in a season, ends season with 262",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmFtamVid1JiRDVUbC1Lako5cnM3c0RzVl9LX0JuTXhmTnhUUFlJQ2FxVFpwREZUeGFFRk1IVm1WVzAtb1hhVVFpenQzb3ZDUEF5bUUyZWd4dDQxalc2TkRfWnpMTlNKYmFXR0JXc0lEZVBMeVNSWnNvbDZDbVh3VW1FeFJSUkpBZTB3bUdiTW1KaVVTdjdxNnZzVkp0YzdNWDJGOEh3WVhOclBiSmhJbzMtQmVEQlJlbk53Vk9ORU5oY2RmVVFvXzExSQ?oc=5",
       "age": "TUORE",
       "id": "04"
     }
