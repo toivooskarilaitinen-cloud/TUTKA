@@ -1,34 +1,9 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T05:46:05.433272+00:00",
-  "updated": "05:46 UTC",
-  "rejected": 220,
-  "findings": [
-    {
-      "category": "TEKNOLOGIA",
-      "type": "ANOMALY",
-      "score": 76,
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jekIyVGhDLUN1QUxVODg3LW4wV3NqTmFTeERJWDAzWjl4ZDloLWpGZUdRUEFMY0U1dnFScGlIU1g5RkhmRGN1N2YybW9UUVRlR3ZYa09qbmdZamxyN1E?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "ODDITY",
-      "score": 75,
-      "title": "VIVIFY Technology and Evolution Metals & Technologies Sign Letter of Intent for Behind-the-Meter Hydrogen Power for EM&T's Planned U.S. Rare Earth Magnet Campus",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQSkNPU3Z6TFN1WmxGNkNaZFNNb3FXOVhQTVZHZThmQldTNGlZOWVGNTliSWF3X1hlTjYwdm9BeU5rdkExd2NqaldoMTNpVUJ5MTBOVXUwc0JabTVhc0RxY0xtQkx2QVJ1ZUNuSGhoTWx4cWxILTdGSkg4RFhoT2lLbzVOVmNkb042WmhMQUpUeTNjTUxkQzhCWjY4YjdGQjVVUU8zTWIwVmdrbC0wYkF6OHFrVUxreHZ3T05jd3lNX3JuVlhXY3FJOVlqYzQ5N2lYZFM5UWIxMUQ2MDdUcmZJdUxjM3RHR1B6d2puUEVTbEhuXy1QRG5Mbm5GN0Y2Q2RidmNzLWdTcldhM3NOaWRNMFJLc0EwcEpZWWxfMXNmWEpPNFpnUFZ1cUhjN09SZG9sSFlIQXNVREZzTUZy?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    }
-  ],
+  "generated_at": "2026-10-02T12:43:37.684538+00:00",
+  "updated": "12:43 UTC",
+  "rejected": 227,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "GDELT",
