@@ -1,12 +1,37 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T12:43:37.684538+00:00",
-  "updated": "12:43 UTC",
-  "rejected": 227,
-  "findings": [],
+  "generated_at": "2026-10-02T22:18:38.215757+00:00",
+  "updated": "22:18 UTC",
+  "rejected": 203,
+  "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "First-ever fall East-West Asheville Artwalk brings art in unexpected spots",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "WLOS",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYjdab25Pb3p6bDUwNEpJTmxoU0dyeXhxRWNWS3JCQVllOWFXaVFFcDU3d2tjQUtiUkRfdWs1S0g1QzR1cnJzYmxyenREeWdNYmdUZXBFbjFlOFRpT0FUb3VybEtnTkljR2o0Y3VIMWpONWFqYmFlUDh5TnphZkRpOUN3TURUaDRLc0hzc3Q3QTRrNXNsb2RUQTFHT2ZIOFpmMTNHUkpRbHNvT3AxRXlEWWI5bnkyUHVNZ3lzTmpNc293QkxIMHIxdlRsQ0tpSG5WX3pBSkRnQU9jRGo3V3VJUFZOOWpDZ0RiSEZQRnl0OXFndWloSklXUWVMNjlmclM5UTUwZTI5eU1LNnlOb1V2ckhCRVpBWFdBdXc?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "US stocks rise near their record after the latest jobs report eases worries about inflation",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "pressenterprise.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOTFpTWotZWNIakl5c24xckJhRzBHcU5tMkNpR1p4UTB1WG5CTkZXbzdiUTBjNTlVdEdFSkExVGY4dGxLZDRveldRT05acEtIUXVJN0hUUVJpUnJPRkJOTnpuV1BscEdyeC1QVzBKQTBKMmZTc3Zvb0VTR2hPRVd2SA?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
+  ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
