@@ -1,46 +1,9 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T16:26:52.845756+00:00",
-  "updated": "16:26 UTC",
-  "rejected": 206,
-  "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 90,
-      "title": "First-ever fall East-West Asheville Artwalk brings art in unexpected spots",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "WLOS",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYjdab25Pb3p6bDUwNEpJTmxoU0dyeXhxRWNWS3JCQVllOWFXaVFFcDU3d2tjQUtiUkRfdWs1S0g1QzR1cnJzYmxyenREeWdNYmdUZXBFbjFlOFRpT0FUb3VybEtnTkljR2o0Y3VIMWpONWFqYmFlUDh5TnphZkRpOUN3TURUaDRLc0hzc3Q3QTRrNXNsb2RUQTFHT2ZIOFpmMTNHUkpRbHNvT3AxRXlEWWI5bnkyUHVNZ3lzTmpNc293QkxIMHIxdlRsQ0tpSG5WX3pBSkRnQU9jRGo3V3VJUFZOOWpDZ0RiSEZQRnl0OXFndWloSklXUWVMNjlmclM5UTUwZTI5eU1LNnlOb1V2ckhCRVpBWFdBdXc?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "U.S. stocks rise near their record after the latest jobs report eases worries about inflation",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckE2Y1Rsa3lOWFdfbm5PdGFvTHN3UTJaNG43dkFDdXZRX09zeW1ITUNrYnFybDJ0a2xKMTNXd01TQ3VWeExEZGhBLS1yNlhrWDBJWVFNaEhOMHJoSHNaUGF4YUsyOS1pbVFTdUNkZTZ3bzJLTTFDVHR3ZFZFRWpyZjkyTUlxQ21xU0ZfdGVlNUdqa1VGQ2plUHdXSFllbnM0b2VtZDQyVjczVGJHdFNuZ2J3?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Nvidia Hits First Record Since May as Value Nears $6 Trillion",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVFEeTNlUDR6Mjl2VEFvVjVrdi1HRjdSNTZwNDdjRlZOQTE2NXNKeHNOWnRxdW1fYm9mbnJfanRKRUdrb3diRTBkTF9vVUtkTGNLYjAzblR5Y3ZHUzRjN0NqYnN5aWFMTXlmTElPVXVvTjNtOFd4Y2pqMXZ1ckU4Q0pjRlhoNmhYV19BRk1iU2NhOVV0TlRyUlgtckd6eXFNeUFpOXVSTS1BVUNQX3BkZw?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    }
-  ],
+  "generated_at": "2026-10-03T21:22:30.430192+00:00",
+  "updated": "21:22 UTC",
+  "rejected": 210,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
