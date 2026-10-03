@@ -1,8 +1,8 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T05:23:59.538650+00:00",
-  "updated": "05:23 UTC",
-  "rejected": 213,
+  "generated_at": "2026-10-03T11:44:49.119720+00:00",
+  "updated": "11:44 UTC",
+  "rejected": 211,
   "findings": [
     {
       "category": "KULTTUURI",
@@ -11,7 +11,7 @@
       "title": "First-ever fall East-West Asheville Artwalk brings art in unexpected spots",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "wlos.com",
+      "source": "WLOS",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYjdab25Pb3p6bDUwNEpJTmxoU0dyeXhxRWNWS3JCQVllOWFXaVFFcDU3d2tjQUtiUkRfdWs1S0g1QzR1cnJzYmxyenREeWdNYmdUZXBFbjFlOFRpT0FUb3VybEtnTkljR2o0Y3VIMWpONWFqYmFlUDh5TnphZkRpOUN3TURUaDRLc0hzc3Q3QTRrNXNsb2RUQTFHT2ZIOFpmMTNHUkpRbHNvT3AxRXlEWWI5bnkyUHVNZ3lzTmpNc293QkxIMHIxdlRsQ0tpSG5WX3pBSkRnQU9jRGo3V3VJUFZOOWpDZ0RiSEZQRnl0OXFndWloSklXUWVMNjlmclM5UTUwZTI5eU1LNnlOb1V2ckhCRVpBWFdBdXc?oc=5",
       "age": "TUORE",
       "id": "01"
@@ -22,9 +22,9 @@
       "score": 77,
       "title": "US stocks rise near their record after the latest jobs report eases worries about inflation",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "indianagazette.com",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOT3V0aTZPWjJuODBjVThlWWNTR2R1V1hKanpOdHpYemRGbHJ1Q1M1VklFb1U4QkI2aUxfeXBWaVM5R0NmZWFaYlEzR3R1bmFQeVBNQ2NEUTlvUVZNcTVjZV9uR3VWSlg4bk9DS254V2hkMzd6YkN0bmxkS1pSUFBTU2N0OHo5SFZMMElXM0JpdmppSTNkekFjbEhPR0ZMUXNvSE1zVENjWXJybXJMcmJVbE5yaXJmVGlYUG1ZWkgwRHc0YVZuU3I0clFiNGp6Z3J4cFB1dVRNWDlab2cwbEFZSzVKSTlSbndoamROM2VUUUdydHdoYWx3aTY0aGpiOHRkNnlHejlhUlpkdGxVYkpMdEdn?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOLU5mRndpbVV4Z0dDaWpsajBZUTA1R1JMQlB6b0lFZm9KcGpkOXVNREVkc1dpV0g5ZjU0MUtpWWhRU3RwRGNETDV5LXpOWWJHcW9FanZMWG91V2x1aWtzYXdnSzlZSk16bmVKQ0FfRFVNYzlQQUdJWFZZRTBFUDdEZTVFZWdwcXItZVM1LVN2YjUyQ2U2QzJwY2REalNvLTZPekFWNWUzelNtRjZXRldZbHgzc19WM1pPdm1FZE9lX2pIVWlBZmJDTFFHR3JsRVVFbDVrX1Y5SlgyVFFRMEtwNmxqZ2RsTzBfLUFSbjlxdTNCRV9seHZ5anRCRUQ0dVk4cDBJ?oc=5",
       "age": "TUORE",
       "id": "02"
     },
@@ -39,6 +39,18 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBETENRQ184UzBxM3NxVklRUXN0RG5ydGdIM1puTnVxWm11Y2lCaEVLYUd5UFFDVUhMUGh0Z2p0M3RLbVQxM2FxajBVanF0SGI0RGtTc3pveEhuOFE?oc=5",
       "age": "TUORE",
       "id": "03"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Nvidia Hits First Record Since May as Value Nears $6 Trillion",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVFEeTNlUDR6Mjl2VEFvVjVrdi1HRjdSNTZwNDdjRlZOQTE2NXNKeHNOWnRxdW1fYm9mbnJfanRKRUdrb3diRTBkTF9vVUtkTGNLYjAzblR5Y3ZHUzRjN0NqYnN5aWFMTXlmTElPVXVvTjNtOFd4Y2pqMXZ1ckU4Q0pjRlhoNmhYV19BRk1iU2NhOVV0TlRyUlgtckd6eXFNeUFpOXVSTS1BVUNQX3BkZw?oc=5",
+      "age": "TUORE",
+      "id": "04"
     }
   ],
   "errors": [],
