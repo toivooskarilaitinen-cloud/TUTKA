@@ -1,8 +1,8 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T05:59:53.678232+00:00",
-  "updated": "05:59 UTC",
-  "rejected": 213,
+  "generated_at": "2026-10-04T12:27:49.235334+00:00",
+  "updated": "12:27 UTC",
+  "rejected": 220,
   "findings": [
     {
       "category": "URHEILU",
@@ -11,7 +11,7 @@
       "title": "Jeremiah Smith breaks Ohio State all-time receptions record",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Columbus Dispatch",
+      "source": "dispatch.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRk9aNklUd2tTYXhJeUgtNDhETGExYjhYMmFRMTJXOENJeGNLVnVWcGRCYV9KUFgyTVRZUlpSRVJVZG5JaXpwaUpEX0VGQjlzZV9GZy03bjlxWUtzcHZYUWZwOTZJUFRiaVNMS3NxQWhhd08wLVlSdTIwNERnZE9CZ1l1VE1rbEZERFJ5cWdLMUxnRWQ1UHBEeXQyekxsV1d6YU9QQzNodHNDUnVNZzFsNmJYckU1bUNxR2RRMF9PQlBjQlFhUTNtMWM4NVU0dTdJQWlZM3JhNTA?oc=5",
       "age": "TUORE",
       "id": "01"
@@ -29,16 +29,28 @@
       "id": "02"
     },
     {
+      "category": "TEKNOLOGIA",
+      "type": "ODDITY",
+      "score": 77,
+      "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1JRSmhzTS0wZVI4ZmlyRnFJNExQS2RtUzRrX1V0aXl5THFMWldJWlk2bmpCNEprdFdQNG1EN0t6SlZHSjFaSVU3X2d4V2huNU9BM04xRVl5MTBPUVh1bTJlTzEtWVF5UGpuUmlTc1pGNmhNVUphU21tYjlmekhncHZ4WG8wcE9rQUxqRkREbmk1T3NaN2Q1RnNwZjB3cGx2SWMzUXRVVkltR1VlQjN2VWZGaw?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    },
+    {
       "category": "URHEILU",
       "type": "RECORD WATCH",
       "score": 77,
       "title": "Jeremiah Smith's record day, Bo Jackson runs key to Ohio State win at Iowa",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Columbus Dispatch",
+      "source": "dispatch.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQk9zZWd3X3dPaWVKS3AzYXpnV0VHYTJyaGV0N3hmdlZXby1DNGt2OHo1V0FLbEU1b2N1MmJHWVJEOVJrSDg2V0dPbjVteUc3TVBkdnBIYWRkYUFfcEQyOHBzcG5SUkR0U2FnaEJTNnpyYTU0SUdKYTZRVDhtN3NXVk9TbWoxOHBoODk4Tmd5aVJKNXo0SDduUUR0cmt0ZGFZN0pfTTBGbkd2UDJyaGgxaVlMUm5EOGpkTWMzQkpNWXM2aVRCU2tNWWdVdV9Fc3JFUENZ?oc=5",
       "age": "TUORE",
-      "id": "03"
+      "id": "04"
     }
   ],
   "errors": [],
