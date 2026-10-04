@@ -1,20 +1,44 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T12:27:49.235334+00:00",
-  "updated": "12:27 UTC",
+  "generated_at": "2026-10-04T21:33:29.139180+00:00",
+  "updated": "21:33 UTC",
   "rejected": 220,
   "findings": [
     {
-      "category": "URHEILU",
+      "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 95,
-      "title": "Jeremiah Smith breaks Ohio State all-time receptions record",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "dispatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRk9aNklUd2tTYXhJeUgtNDhETGExYjhYMmFRMTJXOENJeGNLVnVWcGRCYV9KUFgyTVRZUlpSRVJVZG5JaXpwaUpEX0VGQjlzZV9GZy03bjlxWUtzcHZYUWZwOTZJUFRiaVNMS3NxQWhhd08wLVlSdTIwNERnZE9CZ1l1VE1rbEZERFJ5cWdLMUxnRWQ1UHBEeXQyekxsV1d6YU9QQzNodHNDUnVNZzFsNmJYckU1bUNxR2RRMF9PQlBjQlFhUTNtMWM4NVU0dTdJQWlZM3JhNTA?oc=5",
+      "score": 99,
+      "title": "‘Avengers: Endgame’ Surpasses ‘Avatar’ to Reclaim All-Time Box Office Record",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Walt Disney Company",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ia3A0aWQ1ajQtUjVWNmRiNDdsTnRvbTFRYVlfbVUwaGZXTHB0c05RQS1iQUN1SlJzQ0FhdjFQUzJXQU1rcnVubjI3VnE3UEZycktJa3dRR2owbmJuXzJjMFF2bGhJazZ4NzJvYWp6dHdncDM3QVhPa1RTZlJSQQ?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 99,
+      "title": "Jeremiah Smith breaks Ohio State all-time receiving TDs record",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Columbus Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTUdvZ29xZGI3eVBkVjRWV1Q5b0xRVkxrbDdfU0xWdTBEdjU1ZzlRM1MteWpkRmJBMEY0dENmWjZ2WXRCVFdpY0htTGp0WVNUV1hkbWJNa0hra1drZDNia1NHY2d0MmE0ZlM1eEpEcWFsLUNuaEF2aGVkT0h2MjN1NHVXbXBMdnFTQjBtOHhqZ0JLSzZzcFd3UFVJWVkwbERvdjllc3JKcVIxR0NTOXVvUkVqQ3VfMTk3SGxPSFFvbEh5Q0xOOEdENFYzX3hyWmJ1TmwxQ2JCV3g?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 95,
+      "title": "'Avengers: Endgame' Takes Back the All-Time Box Office Record From 'Avatar' After 'Encore' Reissue",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "TheWrap",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGJrVWt0czc1UnpXRXdQMFRhNDBSQThDWEZPQ3NWY1lIRkRHT0djajNWdDIwRERMZGhKWlh2VUQxREZQWjJLRDhVazFCRTZ3YXl2YXYxc0FKaEFrYk9GWWRKR01GcjNaS2NtcGF2Z1dSWmpKVHNRS1ROWmU1eUJLbmdYUmNkRV94UEJR?oc=5",
+      "age": "TUORE",
+      "id": "03"
     },
     {
       "category": "TEKNOLOGIA",
@@ -22,11 +46,23 @@
       "score": 84,
       "title": "AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDlyc283Wk8zZ3RubnFCdWI5UTdiRFFiamxqYUVlcXNLeG9PcGJEX1pXMmVvVkFsZk5FZ1RYcjdjZ1RxNkw5aFFVTGtqYXhNT3V2YmgxZ3p6WEZCRG1vV0d4MU5WOEN0M1JUQTdHTVlwX3Nhc0FFZkZPNnl6VV95WGY0dzdQVnBzS21YOGdkM0l4bnVDMlEyZ1o0TS1ZbTFDRzI3ck40WEFJZldRQjEyXw?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "04"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 80,
+      "title": "Jepkosgei sets Cardiff Half Marathon course record",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TVVB2aXk4Wnl3dWJGVnZVQUhqcHlLb0p3b1RCa1Vxeng2NWNZOHZ1X0k5cUpXbmF6RnBTWTVHRFVlQ0s2TTE3TDJObXpNa01UWncxZWRPclF6SThEb3VmbW82eWszX0pXd3c?oc=5",
+      "age": "TUORE",
+      "id": "05"
     },
     {
       "category": "TEKNOLOGIA",
@@ -38,19 +74,7 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1JRSmhzTS0wZVI4ZmlyRnFJNExQS2RtUzRrX1V0aXl5THFMWldJWlk2bmpCNEprdFdQNG1EN0t6SlZHSjFaSVU3X2d4V2huNU9BM04xRVl5MTBPUVh1bTJlTzEtWVF5UGpuUmlTc1pGNmhNVUphU21tYjlmekhncHZ4WG8wcE9rQUxqRkREbmk1T3NaN2Q1RnNwZjB3cGx2SWMzUXRVVkltR1VlQjN2VWZGaw?oc=5",
       "age": "TUORE",
-      "id": "03"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Jeremiah Smith's record day, Bo Jackson runs key to Ohio State win at Iowa",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "dispatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQk9zZWd3X3dPaWVKS3AzYXpnV0VHYTJyaGV0N3hmdlZXby1DNGt2OHo1V0FLbEU1b2N1MmJHWVJEOVJrSDg2V0dPbjVteUc3TVBkdnBIYWRkYUFfcEQyOHBzcG5SUkR0U2FnaEJTNnpyYTU0SUdKYTZRVDhtN3NXVk9TbWoxOHBoODk4Tmd5aVJKNXo0SDduUUR0cmt0ZGFZN0pfTTBGbkd2UDJyaGgxaVlMUm5EOGpkTWMzQkpNWXM2aVRCU2tNWWdVdV9Fc3JFUENZ?oc=5",
-      "age": "TUORE",
-      "id": "04"
+      "id": "06"
     }
   ],
   "errors": [],
