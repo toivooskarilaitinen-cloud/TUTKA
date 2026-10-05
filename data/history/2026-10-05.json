@@ -1,16 +1,16 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T05:48:33.913088+00:00",
-  "updated": "05:48 UTC",
-  "rejected": 206,
+  "generated_at": "2026-10-05T14:49:34.707679+00:00",
+  "updated": "14:49 UTC",
+  "rejected": 203,
   "findings": [
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 99,
+      "score": 90,
       "title": "‘Avengers: Endgame’ Surpasses ‘Avatar’ to Reclaim All-Time Box Office Record",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "The Walt Disney Company",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ia3A0aWQ1ajQtUjVWNmRiNDdsTnRvbTFRYVlfbVUwaGZXTHB0c05RQS1iQUN1SlJzQ0FhdjFQUzJXQU1rcnVubjI3VnE3UEZycktJa3dRR2owbmJuXzJjMFF2bGhJazZ4NzJvYWp6dHdncDM3QVhPa1RTZlJSQQ?oc=5",
       "age": "TUORE",
@@ -19,14 +19,26 @@
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 95,
+      "score": 90,
       "title": "'Avengers: Endgame' Takes Back the All-Time Box Office Record From 'Avatar' After 'Encore' Reissue",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "TheWrap",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGJrVWt0czc1UnpXRXdQMFRhNDBSQThDWEZPQ3NWY1lIRkRHT0djajNWdDIwRERMZGhKWlh2VUQxREZQWjJLRDhVazFCRTZ3YXl2YXYxc0FKaEFrYk9GWWRKR01GcjNaS2NtcGF2Z1dSWmpKVHNRS1ROWmU1eUJLbmdYUmNkRV94UEJR?oc=5",
       "age": "TUORE",
       "id": "02"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 83,
+      "title": "Malaysian Palm Oil Stockpiles Balloon to Record on Output Surge",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUlRd2ROcFEzY3YxRUdRTFJzYnVwdUtSRnNHNDE2cFFScGJmajdDNUk2UXhnOUppN2dMZzFpYTNMZm1JRjJzX0tiTk5wZ2gweXVBRURQM3BkUXpJQmdjUlYwV1JfVFpWbUlqVkVVdUk0M3dCRTRXUEVQemNwVlRnUWo5S1hZYkJVbVB3Z2h3bXpDUVhqV1dXUG9yXzRxenBxSHlodFR1N3ROdHlJR3g0Y3dnTlo?oc=5",
+      "age": "TUORE",
+      "id": "03"
     },
     {
       "category": "TEKNOLOGIA",
@@ -35,20 +47,8 @@
       "title": "AI Deal Surge Drives Hong Kong Fundraising to a Record Summer",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "JournalArta",
+      "source": "journalarta.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3ZjWTQzT09KTm5paVNTZ3o0Q2twU0V1U2YwNTdrSjQzQU9YcWlkNDJiYVdEd0U4dXNPRzlqNmk5My1tXzB3b0dXcUU2OUZxVXNLR3VtbGlia1JMSDhDaFNvalZNMFZfS2dvUGJmaXFiWEVoUVM3bnMxZGxLNXZVbnQxTFhCRk82NDRDUnJoSWtLRm50bjFYR1c4QnFoOFFPWnc?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "ODDITY",
-      "score": 77,
-      "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1JRSmhzTS0wZVI4ZmlyRnFJNExQS2RtUzRrX1V0aXl5THFMWldJWlk2bmpCNEprdFdQNG1EN0t6SlZHSjFaSVU3X2d4V2huNU9BM04xRVl5MTBPUVh1bTJlTzEtWVF5UGpuUmlTc1pGNmhNVUphU21tYjlmekhncHZ4WG8wcE9rQUxqRkREbmk1T3NaN2Q1RnNwZjB3cGx2SWMzUXRVVkltR1VlQjN2VWZGaw?oc=5",
       "age": "TUORE",
       "id": "04"
     }
