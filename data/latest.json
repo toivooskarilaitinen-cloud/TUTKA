@@ -1,8 +1,8 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T00:07:09.298353+00:00",
-  "updated": "00:07 UTC",
-  "rejected": 204,
+  "generated_at": "2026-10-06T06:28:04.143090+00:00",
+  "updated": "06:28 UTC",
+  "rejected": 206,
   "findings": [
     {
       "category": "KULTTUURI",
@@ -20,11 +20,11 @@
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "Shakira Adds One Final Concert to Madrid Residency After Breaking Amazon Music Livestream Record",
+      "title": "Shakira’s Madrid Concert Sets an Amazon Music Livestreaming Record",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Consequence of Sound",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVg1eGw0SWotVU5jX0lCb1V3em9FYjhQYUJOZktCWTl2THZiaHdNSG5vQ2NJN1VpRjZtNWczREI0eE9xYUdYRFlaWWsxa1ZfY2JGcnRxazM2UFlxaGR2anZ6TDg5SFJyYTlHd0QwV1FBbWpIX0tDOExSQXZWT1M2NjZGMUxaV0N4V2UxVVNfXzNKMy1DSHJYSU96NA?oc=5",
+      "source": "Billboard",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFRBTXRUN1B4eUJOVW5JZ05GTlNfZ3V2V1h2dVhqc3VXX29mRFdlVWl1Wl84NGVEaEF0cXdtb2RNc1VEVjY5TG9hdUtJdXhoczVDSk1EaS1RcUsyTFVKQWNoYjZGQjNfYmdzeVNudm5EWmpjNXI5LVdZQUZJSC03aUhlc3hydVRzVEo2UXY5amxBVXd5TVpRdjVSQklqdThtcFAySEt3?oc=5",
       "age": "TUORE",
       "id": "02"
     }
