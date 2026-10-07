@@ -1,32 +1,20 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T13:32:00.240632+00:00",
-  "updated": "13:32 UTC",
-  "rejected": 243,
+  "generated_at": "2026-10-07T23:09:08.562997+00:00",
+  "updated": "23:09 UTC",
+  "rejected": 227,
   "findings": [
     {
       "category": "TALOUS",
       "type": "RECORD WATCH",
-      "score": 83,
-      "title": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
+      "score": 75,
+      "title": "Shell expects record refining margins as Iran war boosts fuel markets",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmNydTJJRjhlaHZkMm1FYXBxeTNkcXRnLTA1S2YtNWhicmVhc2txU3pfb0p4NmFfVzRRQUdaRVhaUXROMy15a2VSOWZVV3oyTTF3TWZ4MEg3dkJOcTRBUzBIdEJJcXZMeWdBR0FsMHY1UldtTnV5bVRuWDBhQU16WXlkbmtpVzdCWDl3?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamVwY1BTVUJKQmdkWDFBXzA2aFBOVlJYUGVqTHB1cXFYY2ZQdFJ4NHVIT25iQXYwaFVSYTkwVWJnc18xVXBNeHNjQXVxU2pPalpGTWVaM1h2MnRlRGlXZnBTOTItUi03OGxMRlROUnRFQnBGZ0RZNnExUm9VMi1vdzdvY3ExaGtuTjBtb0REbVM?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Record Store Day Black Friday 2026 Lineup Revealed With 180 Releases",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "94.5 The Buzz",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYVZXRkhhSnkwcFU2TlZ1ZzNkelJmdnhWYktUaG1lN0M4VTcyeFpsWWFTaXJ5WmxXckY2NkZ6LTRVSFpGUmtxeE9pYUtWLXlYRm9OYXVnNmxyeW1VY0hyV2t4WGlnOUR3T1RzcGdEWllydDRMMXNCMmpoOTRhRlB6Z1A2TmhrQlZKNU40dGtGZDlyQXBEbkJXblgwRkhzRGtmSzJsOEtnbTJwempScTNmajY4dDIySzJVWUlsN0VpOUVhdEhmMGfSAcYBQVVfeXFMUGFWV0ZIYUp5MHBVNk5WdWczZHpSZnZ4VmJLVGhtZTdDOFU3MnhabFlhU2lyeVpsV3JGNjZGei00VUhaRlJrcXhPaWFLVi15WEZvTmF1ZzZscnltVWNIcldreFhpZzlEd09Uc3BnRFpZcnQ0TDFzQjJqaDk0YUZQemdQNk5oa0JWSjVONHRrRmQ5ckFwRG5CV25YMEZIc0RrZksybDhLZ20ycHpqUnEzZmo2OHQyMksyVVlJbDdFaTlFYXRIZjBn?oc=5",
-      "age": "TUORE",
-      "id": "02"
     }
   ],
   "errors": [],
