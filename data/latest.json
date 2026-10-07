@@ -1,21 +1,9 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T06:06:52.692984+00:00",
-  "updated": "06:06 UTC",
-  "rejected": 237,
+  "generated_at": "2026-10-07T13:32:00.240632+00:00",
+  "updated": "13:32 UTC",
+  "rejected": 243,
   "findings": [
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 90,
-      "title": "Harry Kane closing in on England’s all-time appearances record",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bavarian Football Works",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZWJ4WXhqMDR6Y2dtNFdKRzI1ZE1NSUUzdlZ2R3dsQzNXQkFqU1BCLWNrMWJObFhqaWF3cTlTb2hHTkM2bHN2LVU0a0l4ejc3c0NqYW05eEM5bHJPTS1Ya1h6eTBDVGlpYVNUWmJhaVlfR2VyNHpNM1ktOU5scTJUX3FlemtmenhBclhMbUkyeFhBR3pqTmFZWl9tVVR3MW8yVC1Yd1hTOC1QbEZRSWpvTG00eVRlUTUxYlZhVno4YXNmWWZvUkp5UXcwVW5iM2pD?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
     {
       "category": "TALOUS",
       "type": "RECORD WATCH",
@@ -25,6 +13,18 @@
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmNydTJJRjhlaHZkMm1FYXBxeTNkcXRnLTA1S2YtNWhicmVhc2txU3pfb0p4NmFfVzRRQUdaRVhaUXROMy15a2VSOWZVV3oyTTF3TWZ4MEg3dkJOcTRBUzBIdEJJcXZMeWdBR0FsMHY1UldtTnV5bVRuWDBhQU16WXlkbmtpVzdCWDl3?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Record Store Day Black Friday 2026 Lineup Revealed With 180 Releases",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "94.5 The Buzz",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYVZXRkhhSnkwcFU2TlZ1ZzNkelJmdnhWYktUaG1lN0M4VTcyeFpsWWFTaXJ5WmxXckY2NkZ6LTRVSFpGUmtxeE9pYUtWLXlYRm9OYXVnNmxyeW1VY0hyV2t4WGlnOUR3T1RzcGdEWllydDRMMXNCMmpoOTRhRlB6Z1A2TmhrQlZKNU40dGtGZDlyQXBEbkJXblgwRkhzRGtmSzJsOEtnbTJwempScTNmajY4dDIySzJVWUlsN0VpOUVhdEhmMGfSAcYBQVVfeXFMUGFWV0ZIYUp5MHBVNk5WdWczZHpSZnZ4VmJLVGhtZTdDOFU3MnhabFlhU2lyeVpsV3JGNjZGei00VUhaRlJrcXhPaWFLVi15WEZvTmF1ZzZscnltVWNIcldreFhpZzlEd09Uc3BnRFpZcnQ0TDFzQjJqaDk0YUZQemdQNk5oa0JWSjVONHRrRmQ5ckFwRG5CV25YMEZIc0RrZksybDhLZ20ycHpqUnEzZmo2OHQyMksyVVlJbDdFaTlFYXRIZjBn?oc=5",
       "age": "TUORE",
       "id": "02"
     }
