@@ -1,9 +1,21 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T13:37:39.311667+00:00",
-  "updated": "13:37 UTC",
-  "rejected": 167,
+  "generated_at": "2026-10-08T23:24:42.074753+00:00",
+  "updated": "23:24 UTC",
+  "rejected": 170,
   "findings": [
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 89,
+      "title": "A’ja Wilson stands alone with record fifth WNBA MVP award after historic three-peat",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWRQTThHcUVDakhvR0RTMmI1OHZXemp3a2Fla0FBdXB1ZXI3d1BJakFsYloxbGJueFoxaVVGbkdfNnhBREJZbXIyMmxaYngyVGgyNDVsYWRfNjk0RGVpU094SWZ4U05yXzROSlJibDhFakZnUkpvNjVITWlsU215bXlrVlFoRDZqT2RmYzdLcnd1TWRYZ3NqY25UQk1lTG54?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
@@ -14,7 +26,7 @@
       "source": "The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjN3WUZQQTNCbDlLajZObEFwc2Fkd3FEZEptR3B4UnJfdFpaRXJCWWVFRXVBelR1ZFdNdHVNaDBncWk1bG5KNjUwQVFLSHNvNUtJQXF0M2g1eTJVMEZlenRXVDhDc3JJYVlCeHpua1dSOHktVjdEN1RMQ1VxZDNmTWtjbmlKRG5k?oc=5",
       "age": "TUORE",
-      "id": "01"
+      "id": "02"
     },
     {
       "category": "TEKNOLOGIA",
@@ -26,24 +38,12 @@
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05aEdONFFUeGlUVDdmNGJaUHNnVFpJYmhpYzdNQUd5aFhDaW9rdElwb0M4R0hPTjg3dEtBMmFudmFBRGU2QlQ5alpOc3NlR2pOQXhCa2k1OFdUc1dBZ2c?oc=5",
       "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "TALOUS",
-      "type": "SIGNAL",
-      "score": 75,
-      "title": "Wall St futures decline as oil surge, high yields stoke inflation worries",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
-      "age": "TUORE",
       "id": "03"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
