@@ -1,8 +1,8 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T06:12:36.544735+00:00",
-  "updated": "06:12 UTC",
-  "rejected": 212,
+  "generated_at": "2026-10-08T13:37:39.311667+00:00",
+  "updated": "13:37 UTC",
+  "rejected": 167,
   "findings": [
     {
       "category": "TEKNOLOGIA",
@@ -19,19 +19,31 @@
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 75,
+      "score": 84,
       "title": "AI chip boom pushes Samsung profits to record $80bn",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05aEdONFFUeGlUVDdmNGJaUHNnVFpJYmhpYzdNQUd5aFhDaW9rdElwb0M4R0hPTjg3dEtBMmFudmFBRGU2QlQ5alpOc3NlR2pOQXhCa2k1OFdUc1dBZ2c?oc=5",
       "age": "TUORE",
       "id": "02"
+    },
+    {
+      "category": "TALOUS",
+      "type": "SIGNAL",
+      "score": 75,
+      "title": "Wall St futures decline as oil surge, high yields stoke inflation worries",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
+      "age": "TUORE",
+      "id": "03"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
