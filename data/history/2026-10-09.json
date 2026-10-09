@@ -1,8 +1,8 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T13:27:50.107431+00:00",
-  "updated": "13:27 UTC",
-  "rejected": 186,
+  "generated_at": "2026-10-09T22:42:53.196829+00:00",
+  "updated": "22:42 UTC",
+  "rejected": 215,
   "findings": [
     {
       "category": "URHEILU",
@@ -10,7 +10,7 @@
       "score": 75,
       "title": "Texas, Tennessee on upset alert in college football bold predictions for Week 6 schedule",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 10 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 17 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "USA Today",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEkzNWdBZjhWb05JVVJ1b2UyU2JQclU5TWp4QmFMbU1IQkdjZ0xJVDVVQ2l1SHFlM0hJRVFXa2xQVmFDRDZaamFCcWE3QTBGS2daZENiRWg2Z0xucWY0S1FpX1ZyRmVKU2p3c29GTk1BYWpoeEs0S2JQQzRSTDIwLW9FNVlNTnNIWlY2bjF6TDZ2SEV5dGhDSFQ5QnZzbkdRd01LblR3aE9tNHRxRGp1OUJlTjMtVU52bVlYdA?oc=5",
       "age": "TUORE",
