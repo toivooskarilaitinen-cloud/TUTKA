@@ -1,15 +1,28 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T06:16:29.858782+00:00",
-  "updated": "06:16 UTC",
-  "rejected": 0,
-  "findings": [],
-  "errors": [
-    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
-    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
-    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
-    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
+  "generated_at": "2026-10-09T13:27:50.107431+00:00",
+  "updated": "13:27 UTC",
+  "rejected": 186,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 75,
+      "title": "Texas, Tennessee on upset alert in college football bold predictions for Week 6 schedule",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 10 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEkzNWdBZjhWb05JVVJ1b2UyU2JQclU5TWp4QmFMbU1IQkdjZ0xJVDVVQ2l1SHFlM0hJRVFXa2xQVmFDRDZaamFCcWE3QTBGS2daZENiRWg2Z0xucWY0S1FpX1ZyRmVKU2p3c29GTk1BYWpoeEs0S2JQQzRSTDIwLW9FNVlNTnNIWlY2bjF6TDZ2SEV5dGhDSFQ5QnZzbkdRd01LblR3aE9tNHRxRGp1OUJlTjMtVU52bVlYdA?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
   ],
-  "providers": {},
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
   "method_version": "v0.3"
 }
