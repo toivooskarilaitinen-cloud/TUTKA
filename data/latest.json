@@ -1,37 +1,25 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T05:59:02.135014+00:00",
-  "updated": "05:59 UTC",
-  "rejected": 214,
+  "generated_at": "2026-10-10T12:38:40.633129+00:00",
+  "updated": "12:38 UTC",
+  "rejected": 152,
   "findings": [
     {
       "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "US consumer sentiment near record low as frustration over economy mounts",
+      "type": "ODDITY",
+      "score": 94,
+      "title": "Hybrid cars, rare earths, tariffs: Brussels and Beijing reach unprecedented trade deal",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5",
+      "source": "entrevue.fr",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3ZNUXhKREFWdEVfbnJObEFMUk42bElIOGVoWi1qZlVpbHB4Tzc5am1GejhMRDRlM2wwZ0hjb1lIYUtWM3NIZkNYbHpnRUU4STZ1clVBbTZYdGVLTVhhVHoyZ280Q1ZrcG83eWwwaGx4b0p0cm9FOWdJN2VMZlRPd3M2eWY4T3JHMmlXQ25IMW5PenExc0tCNmJnNXBTUQ?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 75,
-      "title": "Texas, Tennessee on upset alert in college football bold predictions for Week 6 schedule",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 25 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEkzNWdBZjhWb05JVVJ1b2UyU2JQclU5TWp4QmFMbU1IQkdjZ0xJVDVVQ2l1SHFlM0hJRVFXa2xQVmFDRDZaamFCcWE3QTBGS2daZENiRWg2Z0xucWY0S1FpX1ZyRmVKU2p3c29GTk1BYWpoeEs0S2JQQzRSTDIwLW9FNVlNTnNIWlY2bjF6TDZ2SEV5dGhDSFQ5QnZzbkdRd01LblR3aE9tNHRxRGp1OUJlTjMtVU52bVlYdA?oc=5",
-      "age": "TUORE",
-      "id": "02"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
