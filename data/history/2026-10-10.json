@@ -1,28 +1,15 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T12:38:40.633129+00:00",
-  "updated": "12:38 UTC",
-  "rejected": 152,
-  "findings": [
-    {
-      "category": "TALOUS",
-      "type": "ODDITY",
-      "score": 94,
-      "title": "Hybrid cars, rare earths, tariffs: Brussels and Beijing reach unprecedented trade deal",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "entrevue.fr",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3ZNUXhKREFWdEVfbnJObEFMUk42bElIOGVoWi1qZlVpbHB4Tzc5am1GejhMRDRlM2wwZ0hjb1lIYUtWM3NIZkNYbHpnRUU4STZ1clVBbTZYdGVLTVhhVHoyZ280Q1ZrcG83eWwwaGx4b0p0cm9FOWdJN2VMZlRPd3M2eWY4T3JHMmlXQ25IMW5PenExc0tCNmJnNXBTUQ?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
+  "generated_at": "2026-10-10T21:49:26.280237+00:00",
+  "updated": "21:49 UTC",
+  "rejected": 0,
+  "findings": [],
+  "errors": [
+    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
+    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
+    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
+    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
   ],
-  "errors": [],
-  "providers": {
-    "KULTTUURI": "GDELT",
-    "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
-    "URHEILU": "Google News"
-  },
+  "providers": {},
   "method_version": "v0.3"
 }
