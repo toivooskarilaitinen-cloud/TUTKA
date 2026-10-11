@@ -1,8 +1,8 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T12:57:36.667562+00:00",
-  "updated": "12:57 UTC",
-  "rejected": 230,
+  "generated_at": "2026-10-11T22:03:03.474850+00:00",
+  "updated": "22:03 UTC",
+  "rejected": 223,
   "findings": [
     {
       "category": "URHEILU",
@@ -12,7 +12,7 @@
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YU1pna1drRkxxdmdFcEV3REY5YzNNTXNibk5McWJFNENwd0p1Ukc2RlN2dzd1UENvblVQeXF0dFJCNEloYVo5ejd0QzNsN3c4eUNFeWpqc28tbHJRXzB3ZGlfdzBjV3UyZ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsMGNDWUlScWxJMFU3dTQxUHd1WXhKSFNRM0M2ZTV3VjJtbFRPdU5qc2ZKU0J2VmVzNUdtRTJkWldsS0hjZUEtSk9lY3dqbWNGV0JtNDRyaWhGZ2toVk1ZX3poeUJHelQ3UWV6eA?oc=5",
       "age": "TUORE",
       "id": "01"
     }
