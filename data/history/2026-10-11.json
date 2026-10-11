@@ -1,9 +1,22 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T05:54:02.444237+00:00",
-  "updated": "05:54 UTC",
-  "rejected": 218,
-  "findings": [],
+  "generated_at": "2026-10-11T12:57:36.667562+00:00",
+  "updated": "12:57 UTC",
+  "rejected": 230,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Eliud Kipchoge, 41, breaks course record at Melbourne Marathon",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YU1pna1drRkxxdmdFcEV3REY5YzNNTXNibk5McWJFNENwd0p1Ukc2RlN2dzd1UENvblVQeXF0dFJCNEloYVo5ejd0QzNsN3c4eUNFeWpqc28tbHJRXzB3ZGlfdzBjV3UyZ1E?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
