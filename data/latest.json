@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T22:03:03.474850+00:00",
-  "updated": "22:03 UTC",
-  "rejected": 223,
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T06:05:31.742240+00:00",
+  "updated": "06:05 UTC",
+  "rejected": 200,
   "findings": [
     {
       "category": "URHEILU",
