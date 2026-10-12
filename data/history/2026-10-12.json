@@ -1,20 +1,44 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T06:05:31.742240+00:00",
-  "updated": "06:05 UTC",
-  "rejected": 200,
+  "generated_at": "2026-10-12T15:35:35.901264+00:00",
+  "updated": "15:35 UTC",
+  "rejected": 217,
   "findings": [
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Eliud Kipchoge, 41, breaks course record at Melbourne Marathon",
+      "score": 84,
+      "title": "Michael Jordan jersey sets $14 million record for basketball memorabilia, auction house says",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsMGNDWUlScWxJMFU3dTQxUHd1WXhKSFNRM0M2ZTV3VjJtbFRPdU5qc2ZKU0J2VmVzNUdtRTJkWldsS0hjZUEtSk9lY3dqbWNGV0JtNDRyaWhGZ2toVk1ZX3poeUJHelQ3UWV6eA?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUNGLTlEVDkxSVR5U1VDMlZ0Y0NxSkJQM0lHWGpTek5nOWRabldsYkV1TDIwbG42UUdmdkFtaUpMenlVbk5TZjNmMldsMm1WakZCMjNHUFhSZ2lXUy1mZ1dhRi1JVEZ2TEtacDN2ekFYMmZONTVXSXVZOURWbXotRUtmQ0pkSU0zMGhBUTktbmhrX0tEdmVYOQ?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Shakira sets Amazon Music record in Madrid with most-watched live stream by a female artist",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Inbox.lv",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXpyUW5iTF9kXzQwbDh3cFR5QjZSZmw4cWJFMzJBZWlXbmtMWHc3S0tOcmY3VG9DYURrdElMalplZWVJQ0Q5N0ZMQkRlUVlyMEVmME9ZbWoxZWVEWVVXWDRGSnZCQmZrS1dDVXdTRG5EcnhaQlN1Q3lYT1N5UjZMSjBrMnlKWXludlF6V0x3Q1hUb0VMejBETjAzc3FtWUh1X3ZicW5YUDdHTWpScGlQUmdPcHlvb1IyQmdzVGpVZmtMWWJFdFFKZFZGTjR2Zw?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Ankita breaks 11-year-old steeplechase meet record at National Open Athletics Championships",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHN3bndMT25sNTk4MHN2cG1Tdm5qZ2U2LWJpSTlES3ZTckxZYU01Zlc3ZFZ0enVCcEd6MFdrQXJkWm1OcUpwSHdXTTM1cl9HQjlBa1ZBenVoa0JSYWVLellGak94cUFuTUFvTnpnUmNzZTIteGNNRWFJaGZhZU5YZ0M4a1pBOThYeG9SWHBvQ0dheXRQRG5Mdk1xZ0ZzS0lGTElXS2l2aFBpQ3kzMFlhNlVJbzZtVkx3Y1JzSUQ0NTVKbWt2alNjX0Z4UGN1YTJoOHRpddIB2gFBVV95cUxNN1FxVnRSOHFoNHdYWXhrRUhRQ041YXhlVm9xNlJLZnhOZ0psWkl4NUZXX0Uwa0N4UzdfRXE3cERjR250R1VPSlc4clBucUxSU0sxbi1qbUNjZHVIUWNCckktamIyOWlReHhXUmNKZGUyd2s2VzFWcWVHZjBYLVBFUXpMOHZuRVdIV2Ywd2pXdTVXdC1NTF9OM0V1aXRfZEdJcGhLelpjVmVySi1KM1pJdkRYUUhSSTdjMGs5bUZsUGs4MnEtTWs4ZDhtNXpUZ0FiaVNtb2NvRkpVdw?oc=5",
+      "age": "TUORE",
+      "id": "03"
     }
   ],
   "errors": [],
