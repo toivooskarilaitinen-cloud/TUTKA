@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T00:46:41.984237+00:00",
+  "updated": "00:46 UTC",
+  "rejected": 240,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Michael Jordan jersey sets $14M US record for basketball memorabilia, auction house says",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 8 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa29BMWMtSThpeGNmaEtkZjhYeUxOek9JZ0k5UkRjMXhydmVDMkQwNWJPVW5fRFNwSzhfMU1wYW1ULWNSeDZ3bnNSOTlHUi1wMW43dUZlY0dWQTV1MzF4RFJEZjVDVUgwVHRjLS15dGxPclhPVk1JMks0SXdMSXBYTEtuMEgyQjNlY3dxVWxvS08tX3hBcnR2eG5fWQ?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
