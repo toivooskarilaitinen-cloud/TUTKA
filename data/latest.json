@@ -1,8 +1,8 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T14:18:27.582105+00:00",
-  "updated": "14:18 UTC",
-  "rejected": 233,
+  "generated_at": "2026-10-13T22:50:27.954394+00:00",
+  "updated": "22:50 UTC",
+  "rejected": 217,
   "findings": [
     {
       "category": "URHEILU",
@@ -29,14 +29,14 @@
       "id": "02"
     },
     {
-      "category": "TALOUS",
+      "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "OPEC: Energy Shipping and Insurance Costs Hit Record Levels...",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "title": "28 Miles and Counting: NASA’s Perseverance Rover Sets a Mars Driving Record",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Jordan News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzBISUViUkhNNy12eFlvUENsOGg5SUJ5LWFnZzVYMW9JOXl2T2hIckdnU0NONUo3S0JZU2lvRkpaRWJ0Q2ZkZnJlN212VWVjOGZ4NTQ5VmNuZjJvTkJEYXotOW9VSEg4U0h4MGNacHFvYzdTYmVwZXNQRWVqTU9qTzkxNTNvUlJWbU5KcWZrTm1fVktQMUVsTTVYNjZkeXBCalpsQ1FUc1pyaVJ6cnpF?oc=5",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01eHJSMzQzcy1pRDFwRWdCellUMnUxUl9fMncxcXdwX0FGOEZVSnEzRmNldnZoem9oYVRGb3RvUWw4Vi1QZ2R4VlFrTG5PZWQyNVVaRFg3NmZhM19nSkM0NjVqNHJJUGtCaFNiMXhiek5UbXFGOUN2Q1RR?oc=5",
       "age": "TUORE",
       "id": "03"
     },
@@ -44,11 +44,11 @@
       "category": "URHEILU",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "Michael Jordan jersey sets $14 million record for basketball memorabilia, auction house says",
+      "title": "Michael Jordan’s 1998 NBA Finals jersey sells for $14 million, setting basketball memorabilia record",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 8 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Columbia Missourian",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSERmdmJnNWxSQ1ZMbFM0LTl3c3pSVHdnRC1FMzV1OGZVcXBKMWs1VlZ4NVh5QkhWcnA3MjljU3ZqWW9Hdlo3dTBPdXdXNjMwUnRSbENsYklRaWc5dUUyWm9wdzVSbDVsUWotWFF4RVg4elVlS0VGT2ZuSjBCdnpKU1JzZ2dLQnhzdWIxMWtYQVFvdEh5a2NwbTloZXoxdmY3NFBVVFU0YWpBVlVKUEdlR0FPai1mbTdEZVVXa2xPTmtCTDBvUDNiam41Q1pWMVlCNmp3bkdTS3M4SHlQZjJyM2Q4eS14TWRJWHNvNThEOFBvOTVZTFpYYkpjbVdjUkFWVzE4NWVvbHpZeThNcGpF?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "TheGrio",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWR1T05abUstN3ltc3Y1WXRCNVBfNE5pRUxCYUlGNGxZWUpxQmNpQk5uV0J1LVZ6QmdiU05BSVdJbGo4eE9KcGJiR2FuWEN6c2pYeHFQaE5sckYtVDJybWtrYmt3eTFBWjlhN214WFJETWNHU01BVVdCdFg4LU9RdkE5UTFJRkF0?oc=5",
       "age": "TUORE",
       "id": "04"
     }
