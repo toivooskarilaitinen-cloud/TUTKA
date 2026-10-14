@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T22:50:27.954394+00:00",
-  "updated": "22:50 UTC",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T04:59:45.926489+00:00",
+  "updated": "04:59 UTC",
   "rejected": 217,
   "findings": [
     {
@@ -32,11 +32,11 @@
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "28 Miles and Counting: NASA’s Perseverance Rover Sets a Mars Driving Record",
+      "title": "Nasa’s Perseverance rover sets distance record on Mars",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01eHJSMzQzcy1pRDFwRWdCellUMnUxUl9fMncxcXdwX0FGOEZVSnEzRmNldnZoem9oYVRGb3RvUWw4Vi1QZ2R4VlFrTG5PZWQyNVVaRFg3NmZhM19nSkM0NjVqNHJJUGtCaFNiMXhiek5UbXFGOUN2Q1RR?oc=5",
+      "source": "Engineering and Technology Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0xZN1JkZXdGMjd1Q1lHMGR6alZqX2tRR0dqcmlxa25GamdCYURuSkFHVkNrX0VWdWhvcVpZZjJ3TGUwOTVJRVAwUjRmX1d6dmVTWGFwNUtVVFNhQ3ZJMEVtX2V6dUg4OEpXT21xQzB2SmJxd3dQVm9udng0czFqWEdjeGxUMkxtamZrdDg3Qzg?oc=5",
       "age": "TUORE",
       "id": "03"
     },
@@ -46,7 +46,7 @@
       "score": 77,
       "title": "Michael Jordan’s 1998 NBA Finals jersey sells for $14 million, setting basketball memorabilia record",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "TheGrio",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWR1T05abUstN3ltc3Y1WXRCNVBfNE5pRUxCYUlGNGxZWUpxQmNpQk5uV0J1LVZ6QmdiU05BSVdJbGo4eE9KcGJiR2FuWEN6c2pYeHFQaE5sckYtVDJybWtrYmt3eTFBWjlhN214WFJETWNHU01BVVdCdFg4LU9RdkE5UTFJRkF0?oc=5",
       "age": "TUORE",

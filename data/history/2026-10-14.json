@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T04:59:45.926489+00:00",
+  "updated": "04:59 UTC",
+  "rejected": 217,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 80,
+      "title": "Athletics wishes it could scrub the women’s marathon world record – what can be done? | Sean Ingle",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjBOX1F6TFRDRGdIZjJ0bllXcHdtTkt3bjI2WGJnc1gySzRCdnhMRnhZejRDMUZ2T1RSaEtNaXJDcHFmZGkzVnI5OHAyNkFxSXpmMURnOXNObHB6NmY5WUhWTm5qSEtMam53X0lVNU9EempyS3g0SHVSdlItNGZMTzJ0OUZDRnE5Ymc0OER0N1dVOFNnRjVZODB2b1F3aWRwZ2hiSnNkWHU4bDg?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "SIGNAL",
+      "score": 78,
+      "title": "China’s CXMT Claims Memory Breakthrough Ahead of Samsung, Hynix",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW1wbkpCelJMOTd6YW8zcVo3X3VrYVRvLVNQalgtc2h1UlF2Q2RNYm1FSkJFVzF2SFptbGZiSzlZeF93QlZLU0Jjemh3UlktbWUwb3Z6WHBQQWh2ZlM5N0NrU2NhR1I0Z0VLLXkxczlZRkZzaWtQaUg5LVVyQ0pHRG9MRmNJdmpGR21KWmxYdlNpX2dyRG9GenFZNGFWQ3ZSQzlISWp3a0pMTlRKZDFRMUotNA?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Nasa’s Perseverance rover sets distance record on Mars",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Engineering and Technology Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0xZN1JkZXdGMjd1Q1lHMGR6alZqX2tRR0dqcmlxa25GamdCYURuSkFHVkNrX0VWdWhvcVpZZjJ3TGUwOTVJRVAwUjRmX1d6dmVTWGFwNUtVVFNhQ3ZJMEVtX2V6dUg4OEpXT21xQzB2SmJxd3dQVm9udng0czFqWEdjeGxUMkxtamZrdDg3Qzg?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Michael Jordan’s 1998 NBA Finals jersey sells for $14 million, setting basketball memorabilia record",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "TheGrio",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWR1T05abUstN3ltc3Y1WXRCNVBfNE5pRUxCYUlGNGxZWUpxQmNpQk5uV0J1LVZ6QmdiU05BSVdJbGo4eE9KcGJiR2FuWEN6c2pYeHFQaE5sckYtVDJybWtrYmt3eTFBWjlhN214WFJETWNHU01BVVdCdFg4LU9RdkE5UTFJRkF0?oc=5",
+      "age": "TUORE",
+      "id": "04"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
