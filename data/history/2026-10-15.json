@@ -1,8 +1,8 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T11:36:48.709437+00:00",
-  "updated": "11:36 UTC",
-  "rejected": 240,
+  "generated_at": "2026-10-15T17:06:06.806897+00:00",
+  "updated": "17:06 UTC",
+  "rejected": 227,
   "findings": [
     {
       "category": "TALOUS",
@@ -22,7 +22,7 @@
       "score": 77,
       "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ma2pzMWkya2t5N2Jvbk96dlBYZWtzMlpnSlpDdWFpbldxVEdFcjFkdWV6TGxpa09HU3dXSGNWVU5uZF9xdWJNZmlKTWNKQjNCeEFDQVE5aVI5V0VaWFIwS194VHp1N1pUZHVSNW8ySjJCT1R3OHNjQXJEemUtUdIBgwFBVV95cUxPeVg2MXNaS1g3NzQxQXV5WjFWazhxdXlTYm1IQWtVSUhLUDdDaG1xemFrdUZ6bF9LazJwSThpcGwwbEROWEVhZEkyZ0lGY1dabkJhRjVzSTd2XzB3Q05JQVFQSjdOWF9rUEtWa2s2MG1ueVdFMTdwVHpJVjJyenJDT3d2MA?oc=5",
       "age": "TUORE",
@@ -34,7 +34,7 @@
       "score": 77,
       "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVlVFUFFxT3RZVnZkSERRNWJtNmNlX01wcmY5M0xmZFlXWXUyNzV6ZVNnZEFLOFdCRHVzbGhYWGVBNTZoX2lJYmd4NUgyS0RWeDBEN0tWVTRkVEE2UUI5RXE3ZU9CaDI4TzF1RElZcHl2NmhBcUlvb3NhZW95Uk10eHBoeVpwNHljREp3M25oSUF6TDdmVWVVVWQ0MlM3RDQ1UHR6S0wtbWpHSmt6UUtKeGN0TXFOQmdVdDJ0LVNEMzFTTmRCcDQ3RTYzT3puMkNrVzNZRFJjdXBpWkZaWWZKLTMycGdKNkJyeDNqODg2SHBKX05ZNTBuMnR4LVN0cUpS0gGGAkFVX3lxTE9oNlZOa2xFQVhWVGhLc2FxdDVJcjRCVS1MNjdqYTRmZnpfdzAyZDVHTnpKSTdsYjN5eUppUC1TZUt1WEhuRkZVSEg4VU5DbkZMYWtaelNheFd4WHp3azNtZ2VLNk5SWjhFY2l1aEs5ZzgxTmNsb0JzblRuUDFNcWhpYTIzUUhMMkZndFpweGhqZEFfeEVLRU02ZF8yYXcyR1dZcXBYQjBFcHFJQkYxb3d6OWpQcWFWc1pXWkNaUkpsN3N6WWQ3bXdkd1VST3JFYkxkSEVrV1J4bXB2MXhKNmlYRTRLcS15RWxaM2lnYlJFTElfSEdwT3pKM3RKUVJMVlZod21XRVE?oc=5",
       "age": "TUORE",
