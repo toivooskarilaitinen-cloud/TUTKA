@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T04:48:05.270381+00:00",
+  "updated": "04:48 UTC",
+  "rejected": 227,
+  "findings": [
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "China heads for record trade surplus as exports surge",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkJzNHAxcUhpLUMxZVFqYVNIdVNreXA3TTlUbnd6RjFEVjlWMnhDLTkxbWdOQXpYZ3lrQVl5MjBYLTBhRXp3Y0tOTFVGclFVOVFNTlJwOEtWZUJWSVdNek9SN1FBaGlOdFdqRUhycDFyV2VoejJuQTNUU01KMzN5cDllaFN3ajNpMTBaaFItTldDdWxYN1VCZmFXODBIRk1iMTZvRTN2bFlMZmpmYjA0M2lLbmJ1UQ?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "China’s trade surplus nears record as pressure mounts from trading partners",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2g4eDBzLVBNREZCTFZsc0pOSUdMbUJUNHZWdnljUHhUQS1sM1JtTnItQjl1M1ZrYmE0Und0bVEyTVg2YkpkTk1CdHVsY2d2aGNjRkVtRTlEdm55WUlENjhyUHVNMmlRZ0tDdE8wcWkyZm1mdWVSTDJLSHIzbGFPTl9JRW14Z3hBeDVfbDZWSGlZYnl6U2Z4ZkR4ZUg5QUxsdEFEU3VKcWMtNVJrellNQks2bW93OTFsLXc?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWE9HY3JEZl96LXVuQmdXM1I4VVBoUUI4d09uNk9qYUdDSXpBTE8zYnJsNUwxUEljLXJ2aTYxYW5rcnFza0duNVNVRnFCWVAzd19MSXVzUTc2cnhnZkxfaVNXS3I2b25JNlJHZnlpMmpiTkQ1NXF5cWNVTG5sRTk3TE9fZExqRExHcjRUa3EybXEzZ1JRNjJPYlZUTWVaMk5hdWJta0g0UWtHZ251dE5BLTk5bk9nYm5vTDh5alo5c05QT054QVE?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
