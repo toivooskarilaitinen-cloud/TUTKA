@@ -1,8 +1,8 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T04:48:05.270381+00:00",
-  "updated": "04:48 UTC",
-  "rejected": 227,
+  "generated_at": "2026-10-15T11:36:48.709437+00:00",
+  "updated": "11:36 UTC",
+  "rejected": 240,
   "findings": [
     {
       "category": "TALOUS",
@@ -12,31 +12,31 @@
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkJzNHAxcUhpLUMxZVFqYVNIdVNreXA3TTlUbnd6RjFEVjlWMnhDLTkxbWdOQXpYZ3lrQVl5MjBYLTBhRXp3Y0tOTFVGclFVOVFNTlJwOEtWZUJWSVdNek9SN1FBaGlOdFdqRUhycDFyV2VoejJuQTNUU01KMzN5cDllaFN3ajNpMTBaaFItTldDdWxYN1VCZmFXODBIRk1iMTZvRTN2bFlMZmpmYjA0M2lLbmJ1UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ3FHNTFOd3R1alcwWVhUWXlQVWVRdkdpUzdVRFo3VEluRkh5cXc5V21YZGxCLS1rZVgzNk9TNXpWMEtyaHpwLW94ZzRkYWw5T19GTFIxZW0wY1ZvejdObDRySkpna2Z5THlxWVM1ek05NURJUVhHQTcxZEhFaXJ2cFNlNTdfdHdpeU9Cc3Rab05JVVU0ejNkTjlHeVIxdTVrUlNSaFJsRW8ySjdUZVQ3S3RXOG1QMGs?oc=5",
       "age": "TUORE",
       "id": "01"
     },
     {
-      "category": "TALOUS",
+      "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "China’s trade surplus nears record as pressure mounts from trading partners",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Washington Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2g4eDBzLVBNREZCTFZsc0pOSUdMbUJUNHZWdnljUHhUQS1sM1JtTnItQjl1M1ZrYmE0Und0bVEyTVg2YkpkTk1CdHVsY2d2aGNjRkVtRTlEdm55WUlENjhyUHVNMmlRZ0tDdE8wcWkyZm1mdWVSTDJLSHIzbGFPTl9JRW14Z3hBeDVfbDZWSGlZYnl6U2Z4ZkR4ZUg5QUxsdEFEU3VKcWMtNVJrellNQks2bW93OTFsLXc?oc=5",
+      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ma2pzMWkya2t5N2Jvbk96dlBYZWtzMlpnSlpDdWFpbldxVEdFcjFkdWV6TGxpa09HU3dXSGNWVU5uZF9xdWJNZmlKTWNKQjNCeEFDQVE5aVI5V0VaWFIwS194VHp1N1pUZHVSNW8ySjJCT1R3OHNjQXJEemUtUdIBgwFBVV95cUxPeVg2MXNaS1g3NzQxQXV5WjFWazhxdXlTYm1IQWtVSUhLUDdDaG1xemFrdUZ6bF9LazJwSThpcGwwbEROWEVhZEkyZ0lGY1dabkJhRjVzSTd2XzB3Q05JQVFQSjdOWF9rUEtWa2s2MG1ueVdFMTdwVHpJVjJyenJDT3d2MA?oc=5",
       "age": "TUORE",
       "id": "02"
     },
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 75,
-      "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+      "score": 77,
+      "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWE9HY3JEZl96LXVuQmdXM1I4VVBoUUI4d09uNk9qYUdDSXpBTE8zYnJsNUwxUEljLXJ2aTYxYW5rcnFza0duNVNVRnFCWVAzd19MSXVzUTc2cnhnZkxfaVNXS3I2b25JNlJHZnlpMmpiTkQ1NXF5cWNVTG5sRTk3TE9fZExqRExHcjRUa3EybXEzZ1JRNjJPYlZUTWVaMk5hdWJta0g0UWtHZ251dE5BLTk5bk9nYm5vTDh5alo5c05QT054QVE?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVlVFUFFxT3RZVnZkSERRNWJtNmNlX01wcmY5M0xmZFlXWXUyNzV6ZVNnZEFLOFdCRHVzbGhYWGVBNTZoX2lJYmd4NUgyS0RWeDBEN0tWVTRkVEE2UUI5RXE3ZU9CaDI4TzF1RElZcHl2NmhBcUlvb3NhZW95Uk10eHBoeVpwNHljREp3M25oSUF6TDdmVWVVVWQ0MlM3RDQ1UHR6S0wtbWpHSmt6UUtKeGN0TXFOQmdVdDJ0LVNEMzFTTmRCcDQ3RTYzT3puMkNrVzNZRFJjdXBpWkZaWWZKLTMycGdKNkJyeDNqODg2SHBKX05ZNTBuMnR4LVN0cUpS0gGGAkFVX3lxTE9oNlZOa2xFQVhWVGhLc2FxdDVJcjRCVS1MNjdqYTRmZnpfdzAyZDVHTnpKSTdsYjN5eUppUC1TZUt1WEhuRkZVSEg4VU5DbkZMYWtaelNheFd4WHp3azNtZ2VLNk5SWjhFY2l1aEs5ZzgxTmNsb0JzblRuUDFNcWhpYTIzUUhMMkZndFpweGhqZEFfeEVLRU02ZF8yYXcyR1dZcXBYQjBFcHFJQkYxb3d6OWpQcWFWc1pXWkNaUkpsN3N6WWQ3bXdkd1VST3JFYkxkSEVrV1J4bXB2MXhKNmlYRTRLcS15RWxaM2lnYlJFTElfSEdwT3pKM3RKUVJMVlZod21XRVE?oc=5",
       "age": "TUORE",
       "id": "03"
     }
