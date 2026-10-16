@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T21:28:18.932829+00:00",
-  "updated": "21:28 UTC",
-  "rejected": 230,
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T04:38:09.235755+00:00",
+  "updated": "04:38 UTC",
+  "rejected": 237,
   "findings": [
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+      "title": "Taiwan Semiconductor Posts Record Profit",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ma2pzMWkya2t5N2Jvbk96dlBYZWtzMlpnSlpDdWFpbldxVEdFcjFkdWV6TGxpa09HU3dXSGNWVU5uZF9xdWJNZmlKTWNKQjNCeEFDQVE5aVI5V0VaWFIwS194VHp1N1pUZHVSNW8ySjJCT1R3OHNjQXJEemUtUdIBgwFBVV95cUxPeVg2MXNaS1g3NzQxQXV5WjFWazhxdXlTYm1IQWtVSUhLUDdDaG1xemFrdUZ6bF9LazJwSThpcGwwbEROWEVhZEkyZ0lGY1dabkJhRjVzSTd2XzB3Q05JQVFQSjdOWF9rUEtWa2s2MG1ueVdFMTdwVHpJVjJyenJDT3d2MA?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Baystreet.ca",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbE85eGpRYm5sNHV4aUl2eWxtUmRuMnVEN1c2aWpIcDk4ZnRCRFVYUGdmV3pIQUlFaWRKNTVraUstd2RocUZNazZlQU1mZTE3emFKbF9icGJQNjJYNG0zdkZ0dFo0R0xlZzNsRFNCNngxbjRvaWpMb0FVaDRNaTZoQzN2RVJYOVliUkHSAXtBVV95cUxQdUEwMG5EWlNBRDdFemRYa0loTXNEbU1sYVBMVG1xdUt3UjA5ZHRVYXRuMlRKZjVlUGRraXNZR0dpdktqSlAwa0dqVmQxT3BnLTh2aUcxZl9aejAwMlhEcjJCYmpWd3daWWRTYUtYY0t3b0tkVXFkelp3eDg?oc=5",
       "age": "TUORE",
       "id": "01"
     },
@@ -20,11 +20,11 @@
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
+      "title": "TSMC Just Posted Record Profit for the Sixth Straight Quarter. Why Did the Stock Fall?",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVlVFUFFxT3RZVnZkSERRNWJtNmNlX01wcmY5M0xmZFlXWXUyNzV6ZVNnZEFLOFdCRHVzbGhYWGVBNTZoX2lJYmd4NUgyS0RWeDBEN0tWVTRkVEE2UUI5RXE3ZU9CaDI4TzF1RElZcHl2NmhBcUlvb3NhZW95Uk10eHBoeVpwNHljREp3M25oSUF6TDdmVWVVVWQ0MlM3RDQ1UHR6S0wtbWpHSmt6UUtKeGN0TXFOQmdVdDJ0LVNEMzFTTmRCcDQ3RTYzT3puMkNrVzNZRFJjdXBpWkZaWWZKLTMycGdKNkJyeDNqODg2SHBKX05ZNTBuMnR4LVN0cUpS0gGGAkFVX3lxTE9oNlZOa2xFQVhWVGhLc2FxdDVJcjRCVS1MNjdqYTRmZnpfdzAyZDVHTnpKSTdsYjN5eUppUC1TZUt1WEhuRkZVSEg4VU5DbkZMYWtaelNheFd4WHp3azNtZ2VLNk5SWjhFY2l1aEs5ZzgxTmNsb0JzblRuUDFNcWhpYTIzUUhMMkZndFpweGhqZEFfeEVLRU02ZF8yYXcyR1dZcXBYQjBFcHFJQkYxb3d6OWpQcWFWc1pXWkNaUkpsN3N6WWQ3bXdkd1VST3JFYkxkSEVrV1J4bXB2MXhKNmlYRTRLcS15RWxaM2lnYlJFTElfSEdwT3pKM3RKUVJMVlZod21XRVE?oc=5",
+      "source": "The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWV0RHZ2SktEQ2Z5VUo1bTBwTUhTYlpHbTI4VF9WV2F4SGk2T1hmbjNYVy1YdTZCd3VjVmtDOHM2cmJPS1F2TEVJU0NUVXJHaDZMR09fWDVkd3BTUmhDZGdONnVuUlBDU0ZzNDVsbV9LanpwbEg4OUZhS2R0aUo1U2V2UVVLV0FDb2E3dm40OEdoak1HTlZRUFNJOHVCSXBINFE0ZFBXUWpxcFBHQmZOcnJ3bWpydVdHWVF4bTNlT0JJNnBPWkE?oc=5",
       "age": "TUORE",
       "id": "02"
     }
@@ -33,7 +33,7 @@
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
