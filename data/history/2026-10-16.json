@@ -1,34 +1,9 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T04:38:09.235755+00:00",
-  "updated": "04:38 UTC",
-  "rejected": 237,
-  "findings": [
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Taiwan Semiconductor Posts Record Profit",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Baystreet.ca",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbE85eGpRYm5sNHV4aUl2eWxtUmRuMnVEN1c2aWpIcDk4ZnRCRFVYUGdmV3pIQUlFaWRKNTVraUstd2RocUZNazZlQU1mZTE3emFKbF9icGJQNjJYNG0zdkZ0dFo0R0xlZzNsRFNCNngxbjRvaWpMb0FVaDRNaTZoQzN2RVJYOVliUkHSAXtBVV95cUxQdUEwMG5EWlNBRDdFemRYa0loTXNEbU1sYVBMVG1xdUt3UjA5ZHRVYXRuMlRKZjVlUGRraXNZR0dpdktqSlAwa0dqVmQxT3BnLTh2aUcxZl9aejAwMlhEcjJCYmpWd3daWWRTYUtYY0t3b0tkVXFkelp3eDg?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "TSMC Just Posted Record Profit for the Sixth Straight Quarter. Why Did the Stock Fall?",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWV0RHZ2SktEQ2Z5VUo1bTBwTUhTYlpHbTI4VF9WV2F4SGk2T1hmbjNYVy1YdTZCd3VjVmtDOHM2cmJPS1F2TEVJU0NUVXJHaDZMR09fWDVkd3BTUmhDZGdONnVuUlBDU0ZzNDVsbV9LanpwbEg4OUZhS2R0aUo1U2V2UVVLV0FDb2E3dm40OEdoak1HTlZRUFNJOHVCSXBINFE0ZFBXUWpxcFBHQmZOcnJ3bWpydVdHWVF4bTNlT0JJNnBPWkE?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    }
-  ],
+  "generated_at": "2026-10-16T11:31:30.704960+00:00",
+  "updated": "11:31 UTC",
+  "rejected": 223,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
