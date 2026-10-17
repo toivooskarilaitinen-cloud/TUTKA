@@ -1,28 +1,16 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T15:40:11.026705+00:00",
-  "updated": "15:40 UTC",
-  "rejected": 237,
-  "findings": [
-    {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 75,
-      "title": "College Football Predictions, Upset Picks Today: Oklahoma, Alabama on Upset Alert?",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "PrizePicks",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejhrSnRCUTB5WlNUdmNGZjc1SWpiR2h2b3piU1ZuaTEwdEFuX00teUJPNkZHYU92Q0tnLU0zNE5nVVJMZkpoVlFLM2VBT2ZtcVlnOHBEbm9hdUxqZU1aWFFrTXRScGJ6UmdQT01WeFA2S3UwZjYzYmxPZDl5Z2N2ZjF4UlJDSTBVeXQtUi1RVi16X0FSRXlKSURDSm5rNnVNbDUwNmlGcUtNQmNtSnZqRVBQXzdSZ3lNOVh3?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
+  "generated_at": "2026-10-17T20:41:01.767794+00:00",
+  "updated": "20:41 UTC",
+  "rejected": 75,
+  "findings": [],
+  "errors": [
+    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
+    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
+    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
   ],
-  "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
-    "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
-    "URHEILU": "Google News"
+    "TALOUS": "GDELT"
   },
   "method_version": "v0.3"
 }
