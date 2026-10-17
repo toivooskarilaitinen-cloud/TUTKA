@@ -1,25 +1,12 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T21:16:38.984272+00:00",
-  "updated": "21:16 UTC",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T04:34:55.495688+00:00",
+  "updated": "04:34 UTC",
   "rejected": 215,
-  "findings": [
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 80,
-      "title": "Flyers’ late loss extends team-record winless streak to nine",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Flying Fish Hockey",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVHpXZzRtSzVxd0RCblJuRURQVXRGcXJhLXVHM1p0SmVlU2VqdWp5VndOVFlTeC1pUkFZRm44bjdUT3haaUJrWnY4OWtYU3NBS0dnbkFQRjdyY1Q5bDNlVDZkbWdRY0lmSzE1Tm9FbGJEb0Z5RVhCWkpxbzhLOGtUWGhUOFNwZ1ZzandyeHU2c0xxTi1nY19EUFk0cXR0QjJVd0E?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
-  ],
+  "findings": [],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
