@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T04:40:46.036739+00:00",
+  "updated": "04:40 UTC",
+  "rejected": 224,
+  "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "DIVERGENCE",
+      "score": 76,
+      "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREtWM3dzNTRIb29DY2pnS3JHYmJpLVRURzBlT1RQX0FSZGMzWkFuS0w0dXVhXzlSQTR3MVhZdm9nTm90S21JWWp1UjhLTjdPamxGSUMxVFd1ekZVWGp4bXBsTlFyVDJLRWpvalFqMlpldURMUXpPbFR5MlY0RWNMc3dTdW9BaFFEemc5bEJIbnBseEJkN3hlbGhMTEpaenVzMGJpa052RmZKbzU4bTF3cGpIQQ?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 75,
+      "title": "Hear Gainesville Sun Reporter Andrew Abadie's thoughts on Florida football's upset win over Texas",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTHNMcXhUNHg4SUxGV1BaOFBia3pCTFNLLVo0cTQwaUJQeVVwQmtMaF93RHk4bllYcl9FRWNyNThXZ0lOYm1xcjUxeXY2ZFFSb1Z4YU5oUWxpc2RCS3hUbGUzZl9LQ3l0ejY5Q3dYNFctZ1BHdURLUXZrVjQtZXpNWVh2VjBWLUNsM01icHlEdVZ6MF9PTFlxLWVnVW5pTWtOOERydy1ESmNpeFc0Qk1sVGtJUkN3SFAweEY0N2lSaVZoeDdBTC14MDFKWk9MT2xwQWV5UkFmTWRnZkxEUllzcXpaMWF4TUp2UjUzOUVlcEI0cHRVd0xnQ0FJMmxRRjFJWGVz?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 75,
+      "title": "Hear Florida football coach Jon Sumrall give his thoughts on the Gators upset win over Texas",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWTlna3ZnZkhZcHBhVER0ampBeXItczJwdmVxQTFKNHRKaXU4TGoyVGNaX2xzR0Y4M2VtZjJyRFBHZjd1LXRxeDJYc1dwZE0yeUcxV2Q4NFBZUnA0bmR6aG0xZVVLaVhYRHBPSkN6N1FDUVNwUWgxRERjM3lLclJQaXFWRkhhNlIyVURvTktUUlFCNWl0czM5QktmQW9vSWRqM3ZCN0wxNlJzVEFMX2ZfX1dnbnlaQ05vOGNlQ1haYUVWMmFBc3RBN1piWUh3SEVEeFcyN1ZWbTM4OHpkOThHaTBKMVk1ZVhYX2M4LTAzenRtOS1ac2lHbVMxcmF5SWM?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
