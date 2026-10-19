@@ -1,8 +1,8 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T13:26:45.216694+00:00",
-  "updated": "13:26 UTC",
-  "rejected": 228,
+  "generated_at": "2026-10-19T22:24:52.042306+00:00",
+  "updated": "22:24 UTC",
+  "rejected": 275,
   "findings": [
     {
       "category": "URHEILU",
@@ -15,25 +15,13 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFFCWHFvVTIwbFREd1JTOTRWR3Z3cllPZ2xjSzJxbWx0Uk9jZUxDWjJhRFpRYTE2eWQyWDhXNmxjd3l1cmNiMVJWM1VIMXRvZHpQVW5KY05GRmhjczVaMGVsVmxNVXR5QW5Zdm12TVdLSHdzRTQ5eXd5ZjVkeFVzcWxkN2RCV1p5ZGUtM3BzZ2NXSVNxb2lOVlNZOFpxOEdtWDB3amNJaE9pZzRCSU0xblNKRnZDWEdhNGZr?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "DIVERGENCE",
-      "score": 81,
-      "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREtWM3dzNTRIb29DY2pnS3JHYmJpLVRURzBlT1RQX0FSZGMzWkFuS0w0dXVhXzlSQTR3MVhZdm9nTm90S21JWWp1UjhLTjdPamxGSUMxVFd1ekZVWGp4bXBsTlFyVDJLRWpvalFqMlpldURMUXpPbFR5MlY0RWNMc3dTdW9BaFFEemc5bEJIbnBseEJkN3hlbGhMTEpaenVzMGJpa052RmZKbzU4bTF3cGpIQQ?oc=5",
-      "age": "TUORE",
-      "id": "02"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
