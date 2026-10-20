@@ -1,27 +1,14 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T22:24:52.042306+00:00",
-  "updated": "22:24 UTC",
-  "rejected": 275,
-  "findings": [
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 82,
-      "title": "‘Very difficult to break!’ Bursaspor coach reacts to Iheanacho’s historic Turkish football record",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Sports247 Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFFCWHFvVTIwbFREd1JTOTRWR3Z3cllPZ2xjSzJxbWx0Uk9jZUxDWjJhRFpRYTE2eWQyWDhXNmxjd3l1cmNiMVJWM1VIMXRvZHpQVW5KY05GRmhjczVaMGVsVmxNVXR5QW5Zdm12TVdLSHdzRTQ5eXd5ZjVkeFVzcWxkN2RCV1p5ZGUtM3BzZ2NXSVNxb2lOVlNZOFpxOEdtWDB3amNJaE9pZzRCSU0xblNKRnZDWEdhNGZr?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
-  ],
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T04:57:11.292747+00:00",
+  "updated": "04:57 UTC",
+  "rejected": 229,
+  "findings": [],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
