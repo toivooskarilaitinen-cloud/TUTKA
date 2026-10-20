@@ -1,21 +1,9 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T17:14:44.118670+00:00",
-  "updated": "17:14 UTC",
-  "rejected": 212,
+  "generated_at": "2026-10-20T21:41:37.793222+00:00",
+  "updated": "21:41 UTC",
+  "rejected": 207,
   "findings": [
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Shane Lowry: Irish golfer links up with Rory McIlroy in first ever TGL trade",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pMDJ5b3hneDRSc1FXMUlTMFYyTUNUckFpVDlnRVo0NVhqV0k4SmQxbFVST1lsSGQyXzVUZHltVjQzZ3hjWWRicVJQaGRGTHZJRUttVWxBYk9IdWZRS1hxX1Y3bw?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
     {
       "category": "URHEILU",
       "type": "ODDITY",
@@ -26,7 +14,7 @@
       "source": "CP24",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0c5MnFXd014RmFuMFJrUmxKNVV4SnF2Vm5md2pqelRCY0hUWGpRcG5aU2tiSTdxWDgwQVVabFRzTy1hZUhkWk9lek53aWVNZHV5UVZBM3dROHNxV3JqZE9fN0hFbXlTQ3RIWlgyanJVa2ZONmswZVdPUV9qN2lzMndLZEdYNXFwV0N3enludmM4ajFDUFJOaGpYdUk2WEI3THktb1NDM1hxdUtxaE9DRA?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "01"
     }
   ],
   "errors": [],
