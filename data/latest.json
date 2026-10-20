@@ -1,9 +1,34 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T04:57:11.292747+00:00",
-  "updated": "04:57 UTC",
-  "rejected": 229,
-  "findings": [],
+  "generated_at": "2026-10-20T11:45:39.452945+00:00",
+  "updated": "11:45 UTC",
+  "rejected": 219,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "ODDITY",
+      "score": 79,
+      "title": "Rare Honus Wagner baseball card heads to auction for more than $3 million",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "CP24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0c5MnFXd014RmFuMFJrUmxKNVV4SnF2Vm5md2pqelRCY0hUWGpRcG5aU2tiSTdxWDgwQVVabFRzTy1hZUhkWk9lek53aWVNZHV5UVZBM3dROHNxV3JqZE9fN0hFbXlTQ3RIWlgyanJVa2ZONmswZVdPUV9qN2lzMndLZEdYNXFwV0N3enludmM4ajFDUFJOaGpYdUk2WEI3THktb1NDM1hxdUtxaE9DRA?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Shane Lowry: Irish golfer links up with Rory McIlroy in first ever TGL trade",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pMDJ5b3hneDRSc1FXMUlTMFYyTUNUckFpVDlnRVo0NVhqV0k4SmQxbFVST1lsSGQyXzVUZHltVjQzZ3hjWWRicVJQaGRGTHZJRUttVWxBYk9IdWZRS1hxX1Y3bw?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
+  ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
