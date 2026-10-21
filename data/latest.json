@@ -1,8 +1,8 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T17:17:23.843324+00:00",
-  "updated": "17:17 UTC",
-  "rejected": 220,
+  "generated_at": "2026-10-21T21:47:02.050467+00:00",
+  "updated": "21:47 UTC",
+  "rejected": 229,
   "findings": [
     {
       "category": "TEKNOLOGIA",
@@ -21,7 +21,7 @@
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
