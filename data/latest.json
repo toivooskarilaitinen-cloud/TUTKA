@@ -1,18 +1,18 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T11:57:29.250669+00:00",
-  "updated": "11:57 UTC",
-  "rejected": 227,
+  "generated_at": "2026-10-21T17:17:23.843324+00:00",
+  "updated": "17:17 UTC",
+  "rejected": 220,
   "findings": [
     {
-      "category": "KULTTUURI",
+      "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
-      "score": 88,
-      "title": "Ultra-Rare Pikachu Pokémon Card Officially Breaks Sales Record at Auctione",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "score": 81,
+      "title": "South Korea's Exports Surge to Record Daily Average of $4.7 Billion",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Polygon.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0tiZGVmSjdpdHlCVlhZYTdxS2pMZTRwYVpCRlBnZmZDdkRIYXNfTGQ2MVRoeldFcVFXVFhKb1A0VGFiUnhUVWtRX0JZMHVSQlFpR0s0RS04cnNpMUc0VmdDS3l1clFpTHo4eVR2aHZ4d2xvQWx1cGRwWlIzSE1KSUF1d29hUGhkTnc?oc=5",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMnF6UTN2WnRsQ3JMcDJqZzF4NXdBS3pORnJlQ2wtWWZaV1FWb01fSUVzamQ1azVJcmVURDMtSm1pZHJVSWVTSnczSW5PcDFLcGp0MVg1RnhONWhuTzNWQlItWGRZUVQ4Uld3WFJpSDdkWUxmeDhSNElaQTM0bkFhQllFd3dNZmRRdnpZdHpn?oc=5",
       "age": "TUORE",
       "id": "01"
     }
