@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T21:47:02.050467+00:00",
-  "updated": "21:47 UTC",
-  "rejected": 229,
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T04:56:34.938807+00:00",
+  "updated": "04:56 UTC",
+  "rejected": 217,
   "findings": [
     {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 81,
-      "title": "South Korea's Exports Surge to Record Daily Average of $4.7 Billion",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMnF6UTN2WnRsQ3JMcDJqZzF4NXdBS3pORnJlQ2wtWWZaV1FWb01fSUVzamQ1azVJcmVURDMtSm1pZHJVSWVTSnczSW5PcDFLcGp0MVg1RnhONWhuTzNWQlItWGRZUVQ4Uld3WFJpSDdkWUxmeDhSNElaQTM0bkFhQllFd3dNZmRRdnpZdHpn?oc=5",
+      "category": "KULTTUURI",
+      "type": "ODDITY",
+      "score": 77,
+      "title": "Aadi Rudrra — The next grand pan-India divine mystery thriller after Kantara",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "ANI News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnlrSDg4cmtkSXA5WXRjVnQ1Wk5JSHpkN0dUVGZkQXRKazgtcWZOYlI1M2lPXzItR3FSdmUyOVZfRGdXT2tGam5QaGx1MEJVaHdsN3hJUFM2WlZkM1FUU0VQWS1WRl8zSS1VSlJaanYxV09hd0tnUDBLVzJ3cDhDckpiM2ZTQWRUYzVGQ29kRTktajh5cWhUdmxlcUp6ekpjSFdkSFp5Vjk2NXA1TFFIdXJOYV8yX1FGSER6eVJhZG9aX1hDOHljNXh3?oc=5",
       "age": "TUORE",
       "id": "01"
     }
