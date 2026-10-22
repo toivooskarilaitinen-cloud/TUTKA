@@ -1,25 +1,12 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T04:56:34.938807+00:00",
-  "updated": "04:56 UTC",
-  "rejected": 217,
-  "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "ODDITY",
-      "score": 77,
-      "title": "Aadi Rudrra — The next grand pan-India divine mystery thriller after Kantara",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "ANI News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnlrSDg4cmtkSXA5WXRjVnQ1Wk5JSHpkN0dUVGZkQXRKazgtcWZOYlI1M2lPXzItR3FSdmUyOVZfRGdXT2tGam5QaGx1MEJVaHdsN3hJUFM2WlZkM1FUU0VQWS1WRl8zSS1VSlJaanYxV09hd0tnUDBLVzJ3cDhDckpiM2ZTQWRUYzVGQ29kRTktajh5cWhUdmxlcUp6ekpjSFdkSFp5Vjk2NXA1TFFIdXJOYV8yX1FGSER6eVJhZG9aX1hDOHljNXh3?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
-  ],
+  "generated_at": "2026-10-22T11:59:49.258598+00:00",
+  "updated": "11:59 UTC",
+  "rejected": 233,
+  "findings": [],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
