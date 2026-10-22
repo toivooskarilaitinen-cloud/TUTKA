@@ -1,9 +1,34 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T17:15:49.146962+00:00",
-  "updated": "17:15 UTC",
-  "rejected": 203,
-  "findings": [],
+  "generated_at": "2026-10-22T21:41:55.037480+00:00",
+  "updated": "21:41 UTC",
+  "rejected": 204,
+  "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 80,
+      "title": "Meta's credit risk indicator hits record high on increased AI spending plan",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Jailer 2 Box Office: Rajinikanth’s film sets first-week record in Tamil cinema",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Only Kollywood",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUm5XbnpzSGhPVnAzY1Z2T2Ztcy1oWEs2VlBMdHRqSmJpZXBiWlV3aWxOUFJteEVhX1FhQ0I4RlhyQVkzSjB4RFFPUTd1VFBCTXl1WnJrdm0xdVQtTi1qLWZ0NW8ya3NlTGpNVnk5RmVVZXA5dFplQWEwc1FJVG9SMXpIdlV6MXluWjd2UG9LazNIcHptVG50dG1sZ0ZqSUZaTFRkUEU3cnozZUE1WWpYNNIBsAFBVV95cUxQUm5XbnpzSGhPVnAzY1Z2T2Ztcy1oWEs2VlBMdHRqSmJpZXBiWlV3aWxOUFJteEVhX1FhQ0I4RlhyQVkzSjB4RFFPUTd1VFBCTXl1WnJrdm0xdVQtTi1qLWZ0NW8ya3NlTGpNVnk5RmVVZXA5dFplQWEwc1FJVG9SMXpIdlV6MXluWjd2UG9LazNIcHptVG50dG1sZ0ZqSUZaTFRkUEU3cnozZUE1WWpYNA?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
+  ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
