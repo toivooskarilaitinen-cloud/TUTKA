@@ -1,37 +1,25 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T17:13:42.743289+00:00",
-  "updated": "17:13 UTC",
-  "rejected": 241,
+  "generated_at": "2026-10-23T21:28:22.771799+00:00",
+  "updated": "21:28 UTC",
+  "rejected": 191,
   "findings": [
     {
       "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 80,
-      "title": "Thunder star and NBA MVP Shai Gilgeous-Alexander's record 20-point streak ends at 141 games",
+      "type": "SIGNAL",
+      "score": 76,
+      "title": "Shai Gilgeous-Alexander Explains How Ending Historic 20-Point Streak Was About Respecting Basketball",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdXpPczU1VnFqZFRyZTM4cW5ieEtpSEg3MjRtZFZhZ05HaDU2eDFtQUl1Njdja1VGM0JIenUwem9ESEJWajEycEx4MFAzWnVzb3I1MC11VFctd2gwQVBROUgxV0lTcF9fM2xweTFzeW9qLV9fWWtyQ2RLU3YwaE9vUlhtWno0Z2FSYThJODhfYWh4OFZYZjNkVDJZbmVobDRIYnd1ZDZxQzlFRmRxUlFSZnNXNXdya2toR2FfdnU5T3dVajRMM3VwMG1SbTNrMDNEekNISjhxQnV3YWZPSlRnZWxKTmFxRWNQZVFVTHFiS2NBcDZkcDdpM196OUliTHlGU3NJZVhkU1ZjQWVlLUFQcWN3?oc=5",
+      "source": "Fadeaway World",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLWNKLVI3Ykx5c2kycjloSENEX3JlcFBYQWdCUlRrWUJEQXYwNjNqRFJ0eGltX1BxX1ZNY0hzUU56eXVoNGVseWduWVg4cTV2Qm0zM1hHMDdUWmYtWFA5ZTRNdXRkaElMcmgtMkJncFB3S2VLdHhOMlZnSDRDVE9lNFJocHU3WjlFSWdjNUM3ZHJfcE13SFVXaFBmcm45VHVZUE1RcUxHcDNoQjUxdGZmN3A2ZDZPZHhfd01FREdlRmpSN2ZtcmpZenNycVRQTFNvR1FpbGYwVVZtQ1ltamNueFdrQlo1Zm8?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 75,
-      "title": "Bold predictions for college football Week 8 put BYU, Tennessee on upset alert",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 23 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdpenVObEdLZTQxbHBWRGYyNERqalJuMUk1NFZIU2RNYzBKUjdJZTNVRG5mZGZiUS1VUEVHcjRnXzZEY25ONXBhSDZkSGJwcVpNaE5NZ0wxdnVfem1NRi12ZncxOGhob2ZaWTgtdTdidkhzS2JSUFlQbU1fVnVIdFRGZmhzbk50QV92ZUZHWVZxcXJTZXVuT2RXMld0a1FhN0hRakF4MnIxVks3UWRIVGM3S1Z6VXlZTDFsM0llYjZPb3VWTXFSbTZqbUN5Z3VkT3M2bTk3T3JQR1BPbHhGZw?oc=5",
-      "age": "TUORE",
-      "id": "02"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
