@@ -1,12 +1,73 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T04:58:35.323830+00:00",
-  "updated": "04:58 UTC",
-  "rejected": 218,
-  "findings": [],
+  "generated_at": "2026-10-23T11:45:41.990740+00:00",
+  "updated": "11:45 UTC",
+  "rejected": 228,
+  "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 80,
+      "title": "Meta's credit risk indicator hits record high on increased AI spending plan",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXV0RkI1VFVXRm4xc0tyNDBnc2NENDA3aF9XdjNxZVVGeU9IMkVlN0s0N3dvbTlYdzFFM0JwbUZjQ01tNFJpWE1GVG5wZXZjOWZMbnk1dUFrWWJlTjNrVU5kZjZxblBOUWFRX2hicTlFUEUyaTV0TjEyZUtUeHliMzZBTHFkS3BOb2FOWmF2S0RoTDBMSm1rdE84YmVQUnZ6bU9CazJmNA?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Jailer 2 Box Office: Rajinikanth’s film sets first-week record in Tamil cinema",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Only Kollywood",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXpocEtZVXhxeU84b1B0WEptZlE4VDQxSzk4WHpublRTa0xOeGtMVWpsOHBQMVZLZWJ1Qi1pb1dmb3ZueEdvTVc4Q3BEQ3hyVlpoNWtrb2FkSWp3ZW1PMDgyZzFGY3hfZ1BLamhhZG9BSmxkN1VtbTJ3UzY4NzFmLUtGeXh6Qkk5dk8zUlVqTXhmVTM2SmMzUHJUcWE4UTBNcW94NmRTWkR2VlnSAbABQVVfeXFMUFJuV256c0hoT1ZwM2NWdk9mbXMtaFhLNlZQTHR0akpiaWVwYlpVd2lsTlBSbXhFYV9RYUNCOEZYckFZM0oweERRT1E3dVRQQk15dVpya3ZtMXVULU4tai1mdDVvMmtzZUxqTVZ5OUZlVWVwOXRaZUFhMHNRSVRvUjF6SHZVejF5blo3dlBvS2szSHB6bVRudHRtbGdGaklGWkxUZFBFN3J6M2VBNVlqWDQ?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 76,
+      "title": "Shai Gilgeous-Alexander Explains How Ending Historic 20-Point Streak Was About Respecting Basketball",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Fadeaway World",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLWNKLVI3Ykx5c2kycjloSENEX3JlcFBYQWdCUlRrWUJEQXYwNjNqRFJ0eGltX1BxX1ZNY0hzUU56eXVoNGVseWduWVg4cTV2Qm0zM1hHMDdUWmYtWFA5ZTRNdXRkaElMcmgtMkJncFB3S2VLdHhOMlZnSDRDVE9lNFJocHU3WjlFSWdjNUM3ZHJfcE13SFVXaFBmcm45VHVZUE1RcUxHcDNoQjUxdGZmN3A2ZDZPZHhfd01FREdlRmpSN2ZtcmpZenNycVRQTFNvR1FpbGYwVVZtQ1ltamNueFdrQlo1Zm8?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "ODDITY",
+      "score": 75,
+      "title": "TSMC Rare-Earth-Free Motors Supply Chain Risk",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Rare Earth Exchanges",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbzVxUDcyaUgtLVZFQ096TS1ydGZHQVl2RHI4MU9QT05SZ1NSWUN4VkR1UmNvWTAxVHhHVEk2enRLdTlsZ3NMa2hybFNoeUk0WTJURFNZYm9GS1RxZ0NXanQtMjZIQ3VhdTU5SHlmemwtZw?oc=5",
+      "age": "TUORE",
+      "id": "04"
+    },
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 75,
+      "title": "Bold predictions for college football Week 8 put BYU, Tennessee on upset alert",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 8 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Gator Sports",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnBBWGNpNm5aVzdsQ1AxN0NfVU03Vk9RWmQ4ZWlRc0sxOU1ZdWRwRXpWbUo0Z2Q2RXQyeExRRlZickNSNEc3RGdDTmtJMXhQQWp4ZURYWFgtbFg1X1djQmx3YjQ1dkFvOHZEUXpNR3Q2T2FSRTRhQ2RwemNhLXdzd0h2V1NUSTJBU0RpeHp0ZkpoUVNQd1dmSTFrZUMwRkRpSE1OU0t3ekJzTU5WZDJqZXhaX3psT2o1ckU3NlAzRTRsYmRkSTR3bWhlLVBQaF94YUlnU2FSVFBfaUhldmk5WVpwZnY?oc=5",
+      "age": "TUORE",
+      "id": "05"
+    }
+  ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
