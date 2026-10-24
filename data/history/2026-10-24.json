@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T04:43:35.181467+00:00",
+  "updated": "04:43 UTC",
+  "rejected": 234,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 75,
+      "title": "Bold predictions for college football Week 8 put BYU, Tennessee on upset alert",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 25 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdpenVObEdLZTQxbHBWRGYyNERqalJuMUk1NFZIU2RNYzBKUjdJZTNVRG5mZGZiUS1VUEVHcjRnXzZEY25ONXBhSDZkSGJwcVpNaE5NZ0wxdnVfem1NRi12ZncxOGhob2ZaWTgtdTdidkhzS2JSUFlQbU1fVnVIdFRGZmhzbk50QV92ZUZHWVZxcXJTZXVuT2RXMld0a1FhN0hRakF4MnIxVks3UWRIVGM3S1Z6VXlZTDFsM0llYjZPb3VWTXFSbTZqbUN5Z3VkT3M2bTk3T3JQR1BPbHhGZw?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}

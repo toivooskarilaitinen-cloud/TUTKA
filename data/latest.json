@@ -1,25 +1,25 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T21:28:22.771799+00:00",
-  "updated": "21:28 UTC",
-  "rejected": 191,
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T04:43:35.181467+00:00",
+  "updated": "04:43 UTC",
+  "rejected": 234,
   "findings": [
     {
       "category": "URHEILU",
       "type": "SIGNAL",
-      "score": 76,
-      "title": "Shai Gilgeous-Alexander Explains How Ending Historic 20-Point Streak Was About Respecting Basketball",
+      "score": 75,
+      "title": "Bold predictions for college football Week 8 put BYU, Tennessee on upset alert",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Fadeaway World",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLWNKLVI3Ykx5c2kycjloSENEX3JlcFBYQWdCUlRrWUJEQXYwNjNqRFJ0eGltX1BxX1ZNY0hzUU56eXVoNGVseWduWVg4cTV2Qm0zM1hHMDdUWmYtWFA5ZTRNdXRkaElMcmgtMkJncFB3S2VLdHhOMlZnSDRDVE9lNFJocHU3WjlFSWdjNUM3ZHJfcE13SFVXaFBmcm45VHVZUE1RcUxHcDNoQjUxdGZmN3A2ZDZPZHhfd01FREdlRmpSN2ZtcmpZenNycVRQTFNvR1FpbGYwVVZtQ1ltamNueFdrQlo1Zm8?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 25 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdpenVObEdLZTQxbHBWRGYyNERqalJuMUk1NFZIU2RNYzBKUjdJZTNVRG5mZGZiUS1VUEVHcjRnXzZEY25ONXBhSDZkSGJwcVpNaE5NZ0wxdnVfem1NRi12ZncxOGhob2ZaWTgtdTdidkhzS2JSUFlQbU1fVnVIdFRGZmhzbk50QV92ZUZHWVZxcXJTZXVuT2RXMld0a1FhN0hRakF4MnIxVks3UWRIVGM3S1Z6VXlZTDFsM0llYjZPb3VWTXFSbTZqbUN5Z3VkT3M2bTk3T3JQR1BPbHhGZw?oc=5",
       "age": "TUORE",
       "id": "01"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
