@@ -1,27 +1,14 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T16:01:51.250493+00:00",
-  "updated": "16:01 UTC",
-  "rejected": 232,
-  "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "ODDITY",
-      "score": 75,
-      "title": "Jeremy Renner Enjoys Rare Public Outing with His 13-Year-Old Daughter Ava",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "People.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHNMRUsxSkNyOGs2Xy1ycjFYeThZS1pYZ3E3cURQYnB2c0M1YVhtdFFVcWNsQmdJQVY0UE1vQXp6ZnJzM21QVVhGaXh0NWFmcHF3aXJhTnBYeXlXZWVidm92U3hUaGctaFRvdTlVcU1mTDcwc0owbGNrVkloa0JsQ1l1YUR2NmhSN1JyNEpEUTJFcVFQZ0xxNXRn?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
-  ],
+  "generated_at": "2026-10-24T20:55:15.245880+00:00",
+  "updated": "20:55 UTC",
+  "rejected": 249,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
