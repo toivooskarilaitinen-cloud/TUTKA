@@ -1,18 +1,18 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T04:43:35.181467+00:00",
-  "updated": "04:43 UTC",
-  "rejected": 234,
+  "generated_at": "2026-10-24T11:09:25.455541+00:00",
+  "updated": "11:09 UTC",
+  "rejected": 256,
   "findings": [
     {
-      "category": "URHEILU",
-      "type": "SIGNAL",
+      "category": "KULTTUURI",
+      "type": "ODDITY",
       "score": 75,
-      "title": "Bold predictions for college football Week 8 put BYU, Tennessee on upset alert",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 25 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXdpenVObEdLZTQxbHBWRGYyNERqalJuMUk1NFZIU2RNYzBKUjdJZTNVRG5mZGZiUS1VUEVHcjRnXzZEY25ONXBhSDZkSGJwcVpNaE5NZ0wxdnVfem1NRi12ZncxOGhob2ZaWTgtdTdidkhzS2JSUFlQbU1fVnVIdFRGZmhzbk50QV92ZUZHWVZxcXJTZXVuT2RXMld0a1FhN0hRakF4MnIxVks3UWRIVGM3S1Z6VXlZTDFsM0llYjZPb3VWTXFSbTZqbUN5Z3VkT3M2bTk3T3JQR1BPbHhGZw?oc=5",
+      "title": "Jeremy Renner Enjoys Rare Public Outing with His 13-Year-Old Daughter Ava",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "People.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHNMRUsxSkNyOGs2Xy1ycjFYeThZS1pYZ3E3cURQYnB2c0M1YVhtdFFVcWNsQmdJQVY0UE1vQXp6ZnJzM21QVVhGaXh0NWFmcHF3aXJhTnBYeXlXZWVidm92U3hUaGctaFRvdTlVcU1mTDcwc0owbGNrVkloa0JsQ1l1YUR2NmhSN1JyNEpEUTJFcVFQZ0xxNXRn?oc=5",
       "age": "TUORE",
       "id": "01"
     }
@@ -21,7 +21,7 @@
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
