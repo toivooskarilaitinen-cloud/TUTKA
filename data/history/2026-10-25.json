@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T04:49:39.117546+00:00",
+  "updated": "04:49 UTC",
+  "rejected": 253,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 80,
+      "title": "Watch UCF fans storm field after historic upset of No. 2 BYU football",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Daytona Beach News-Journal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRld1VENPckRaT0k1T3YtY1cwRTlqd25JUGJ2R2NKR2Z3NzRDU05teUlJRWRyZndGWW92UFV6ekNoT3dxUVc4c1RBUUdmVFI2VjN5Mlk2MHExa2FzYXZfbzFIanBOekcyUEM1MUdraUtsMFF3WFFCTjViaWJBWmNjdmhsY1g1aEs0a3FLTzgyX1ZHNnB1NEpQdWs4bnNHckd4dFFwZWU1TUFFMWV5UjVHMEl0c1lJN2lnTmNOb1Byc3NRUklTVzQ3NVZ2eHo?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "ODDITY",
+      "score": 75,
+      "title": "ITRI plans to build rare-earth materials plant in Taiwan — Taipei Times",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWERuQm9HRnlXLXBEcDJhTFc1M2Zxc3FBQ2V0VzJJWFhReEZaMVR4ME1TeUNsaXlJWE1oWXZyMnNiMzgzdThyU3FHSlBoaWt5MWRqVzZ4WTJJNHpYNXZmSUpsV3QtVTBfQlA2b0puc21BckYyYXJYQ3RSRlpXa2tzTVpuNmgwaUs3NTVtSHJHam13cUp2Sk84allCemFBMnZodDBvYlZUYmZKUVJjWWVTV0RoUQ?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "GDELT",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
