@@ -1,25 +1,49 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T20:56:01.798834+00:00",
-  "updated": "20:56 UTC",
-  "rejected": 226,
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T04:54:31.829988+00:00",
+  "updated": "04:54 UTC",
+  "rejected": 189,
   "findings": [
     {
       "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 89,
-      "title": "Watch UCF fans storm field after historic upset of No. 2 BYU football",
+      "type": "RECORD WATCH",
+      "score": 87,
+      "title": "Dream walk: Aussie's historic athletics world record",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Daytona Beach News-Journal",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRld1VENPckRaT0k1T3YtY1cwRTlqd25JUGJ2R2NKR2Z3NzRDU05teUlJRWRyZndGWW92UFV6ekNoT3dxUVc4c1RBUUdmVFI2VjN5Mlk2MHExa2FzYXZfbzFIanBOekcyUEM1MUdraUtsMFF3WFFCTjViaWJBWmNjdmhsY1g1aEs0a3FLTzgyX1ZHNnB1NEpQdWs4bnNHckd4dFFwZWU1TUFFMWV5UjVHMEl0c1lJN2lnTmNOb1Byc3NRUklTVzQ3NVZ2eHo?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Yahoo News Australia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeV91bUQwMWNRM2FNUDM2ZTFJek02YjA5TV96bElfaG5zSnlFaWY3UHR6a1BnV0pabHd0WXJqdDZ4cm1UTENkYmNZVVFUSDl1S1BWVjM1cFJ4Q2JhQzgzRnlzYUN0TE9rd3l2a0NQLW15b2QtUnpIX3ZtR2xVblJFSEdxVHo?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 84,
+      "title": "Australia’s Rebecca Henderson claims historic race walk world record",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1FCdUM2TGlaRzh0T1hCWnVHZmpRbGdDekFPZG45YXdOelY2WUtsOWU3M2ZPOEpfVkJaY2VfNDU5bW1xdXNoMGRTUkJrVkM1bVhaczVUdldaVkdWSDRPX2VBanpyT0o4TkVzb1VaWlBRQ2kwQjA3T014NGk0TFlwS0UyX1dhd1dHel9OT1EwMjFXbHRQcUllVnY5Z0Fzb2ZYaUhYTTU5Wkp1R3dTNFJoQTA4TTBTWkJWcW4yTXVrR0twRnE5OUhfYQ?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 83,
+      "title": "Thailand Imports Surge at Record Pace on AI, Energy Demand",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0xGV0lOSVJEb2tCQk5mV3pPTWVGTVFRZDgxM0ZoQ2tvVXlwUUhKNFRNekVJc3V0RnVEZU5iRVlnNTZzRXZKN0VqNWpGVXlaZmlPUzlpa1lCWUlHOHFmU0VoaTRCeko1UjdFekREZnMzQjAxOG1YZXlTLVE5QVlVR01xTTdDR1ZtZlI1NllZN1o2aTRCX2FvNlVuN2xxTGlnZWhOV1NtVVktV2Nr?oc=5",
+      "age": "TUORE",
+      "id": "03"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
