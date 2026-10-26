@@ -1,18 +1,18 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T04:54:31.829988+00:00",
-  "updated": "04:54 UTC",
-  "rejected": 189,
+  "generated_at": "2026-10-26T13:13:18.409476+00:00",
+  "updated": "13:13 UTC",
+  "rejected": 240,
   "findings": [
     {
       "category": "URHEILU",
       "type": "RECORD WATCH",
       "score": 87,
-      "title": "Dream walk: Aussie's historic athletics world record",
+      "title": "Dream walk: Aussie’s historic athletics world record",
       "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Yahoo News Australia",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeV91bUQwMWNRM2FNUDM2ZTFJek02YjA5TV96bElfaG5zSnlFaWY3UHR6a1BnV0pabHd0WXJqdDZ4cm1UTENkYmNZVVFUSDl1S1BWVjM1cFJ4Q2JhQzgzRnlzYUN0TE9rd3l2a0NQLW15b2QtUnpIX3ZtR2xVblJFSEdxVHo?oc=5",
+      "source": "Canberra CityNews",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQXp2b1FMX3Rzdlo2SXBJT0FialhwT2xKbE5UZl9Ra0lzRENFNFZ1TjI1ZzB2VUJMV3BGZzNpUmM2NnlFNU5hRVlHc0RoMGt5aFoyZ3ZKelNKRklVdEUtNlpIWEtQOUZIVXRPYUVLRUJKMmhIOFM5amI5YzAwNXM4a3pCT0dyQ3M?oc=5",
       "age": "TUORE",
       "id": "01"
     },
@@ -39,13 +39,25 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0xGV0lOSVJEb2tCQk5mV3pPTWVGTVFRZDgxM0ZoQ2tvVXlwUUhKNFRNekVJc3V0RnVEZU5iRVlnNTZzRXZKN0VqNWpGVXlaZmlPUzlpa1lCWUlHOHFmU0VoaTRCeko1UjdFekREZnMzQjAxOG1YZXlTLVE5QVlVR01xTTdDR1ZtZlI1NllZN1o2aTRCX2FvNlVuN2xxTGlnZWhOV1NtVVktV2Nr?oc=5",
       "age": "TUORE",
       "id": "03"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "K-Beauty and Semiconductors Deliver as SME Exports Hit Record High",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5Mzc1MVlNNVRNOUZVd1dpblN1REdYS2xnZ3RBLVVNRU5NYmZ6U3FRR0pxdGVEdWRoZHNBbkdGdUlBRGhxek9XSnVwcVgyOFotaDk0QnF5Q2k?oc=5",
+      "age": "TUORE",
+      "id": "04"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
