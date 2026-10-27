@@ -1,20 +1,44 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T05:12:28.031271+00:00",
-  "updated": "05:12 UTC",
-  "rejected": 150,
+  "generated_at": "2026-10-27T12:20:06.672645+00:00",
+  "updated": "12:20 UTC",
+  "rejected": 153,
   "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 96,
+      "title": "Gloc-9 marks 29 years in music with first-ever vinyl record",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Interaksyon",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUVQeXk1VVJlblluam90MEhmV0V4R1NxeGw4aVVSM1BuR3BqWW42azk1ZmJlbWoxSDdLdDYzOWtkM0dyckNFd0lUcFA2Z2Y1YjZBb2cwSWpKRGFtbUNnYklpZTZTYVpidTFpZGVjYzR4Mkk4ZmN1eHNiWWZhN1FaM2tLeGc3OVF1dFRmMWotUWp3SVBfQlR5VmNFMnNVQWNHMnlLSy1PbFdyRmItTmZiS1A4SUNDOE16Q1F4UEdIT0HSAcYBQVVfeXFMTkhUZTZfdjhwbDctNDVSQS1CM045aE54R3JUM0VyalBRejJGNG1ISlgteDAwQmNzTWFDSEM4QnRheDh2SWd1NnBjQWhtYkxCNy13dW1vY1k3OTZYVE1rS0lLMHNsbVJqN1FMUWVOSmVTRVNGUUZsay1qYm0xRDVydE9pODRqcWtWdlQ0WGtBbU9yWDJ0akRZbVNsb3c2UllnZ1ROblo1cHBNNTBLelNxYktDdy1vWVY4U0Z5czYybE1vMGpIXzRB?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "ANOMALY",
+      "score": 91,
+      "title": "Brazilian Markets Plunge After Lula's Upset Win",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Newsmax",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGlxT1ZyU19UdjVtLWlLS3ZBTlhodG9yUXNjdkVldEVUaVNnU3p6MDV4dWlPendxTGlwWnJkTDNIWEdTR3BQZnRoSFVBOHQtVDluWHNxYUYxc1A1ODI3U0pZRERGQUxvX2trWXdUWnV6ak5lVGIyREtNZ3k4YlAwUnltZmRMbTRkYUFPckNoQl9xejBLZXc?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
     {
       "category": "TALOUS",
       "type": "ANOMALY",
       "score": 75,
-      "title": "Brazilian markets plunge after presidential election",
+      "title": "Brazilian Markets Plunge After Lula's Election Win, Crypto Seen as Potential Hedge",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkhwM2xrei1OREx3eGVLZkZUNDhyemFiRHFOYjJVRzNuUk1hcFNGcUJRNS12UjEtbTBjNmMxXzdIbFc0bGpVUzBfMjFURjZRcmxobmw2bWdiQzdTbloydF84cDBVSDFBdnd2ZFR5R19xc0NwTnZ1UFRkUUZKOUx1bXFhNURiUTc2UkpveDRLYw?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXdhWkMwYWJGN2ZmSFVUY2dodXF0cFVQLWVqazFoamRNbmpFLUl6S1ItcW5fVlRmWDlfZEJRaG5DTFI5cEpWVHNPUWE2OUFmVl9BcS1zV2xncjBJeXJ5MWtXS2xzVElYR1p3SnFpcVM4TkV4NVF3NUdCRUZBODg2TDMwSVhkOHBlQWJQVzNmZUtfNE9DZGF0UU5MVmRaQmN6dDVXU1gyeEsyOFlWUm9RVjNVUllyQQ?oc=5",
       "age": "TUORE",
-      "id": "01"
+      "id": "03"
     },
     {
       "category": "URHEILU",
@@ -26,7 +50,7 @@
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DaVRTbDh2X1NkdGQ1TXJwTUZXdlpTLWwyZWJhS3EtbzdrbjBJVGxsdXFXMW9WbXc0dzZ2NkxibUZqeUtXWk1IcVBVSHpQU24zbTBTdzYyZ3doei1CY1R2bjQ2MHktakhH?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "04"
     }
   ],
   "errors": [],
