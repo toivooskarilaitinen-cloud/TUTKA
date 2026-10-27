@@ -1,8 +1,8 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T12:20:06.672645+00:00",
-  "updated": "12:20 UTC",
-  "rejected": 153,
+  "generated_at": "2026-10-27T22:19:31.905611+00:00",
+  "updated": "22:19 UTC",
+  "rejected": 184,
   "findings": [
     {
       "category": "KULTTUURI",
@@ -22,35 +22,11 @@
       "score": 91,
       "title": "Brazilian Markets Plunge After Lula's Upset Win",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Newsmax",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGlxT1ZyU19UdjVtLWlLS3ZBTlhodG9yUXNjdkVldEVUaVNnU3p6MDV4dWlPendxTGlwWnJkTDNIWEdTR3BQZnRoSFVBOHQtVDluWHNxYUYxc1A1ODI3U0pZRERGQUxvX2trWXdUWnV6ak5lVGIyREtNZ3k4YlAwUnltZmRMbTRkYUFPckNoQl9xejBLZXc?oc=5",
       "age": "TUORE",
       "id": "02"
-    },
-    {
-      "category": "TALOUS",
-      "type": "ANOMALY",
-      "score": 75,
-      "title": "Brazilian Markets Plunge After Lula's Election Win, Crypto Seen as Potential Hedge",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXdhWkMwYWJGN2ZmSFVUY2dodXF0cFVQLWVqazFoamRNbmpFLUl6S1ItcW5fVlRmWDlfZEJRaG5DTFI5cEpWVHNPUWE2OUFmVl9BcS1zV2xncjBJeXJ5MWtXS2xzVElYR1p3SnFpcVM4TkV4NVF3NUdCRUZBODg2TDMwSVhkOHBlQWJQVzNmZUtfNE9DZGF0UU5MVmRaQmN6dDVXU1gyeEsyOFlWUm9RVjNVUllyQQ?oc=5",
-      "age": "TUORE",
-      "id": "03"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Ballon d'Or Feminin: Alexia Putellas wins award for record-equalling third time",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DaVRTbDh2X1NkdGQ1TXJwTUZXdlpTLWwyZWJhS3EtbzdrbjBJVGxsdXFXMW9WbXc0dzZ2NkxibUZqeUtXWk1IcVBVSHpQU24zbTBTdzYyZ3doei1CY1R2bjQ2MHktakhH?oc=5",
-      "age": "TUORE",
-      "id": "04"
     }
   ],
   "errors": [],
