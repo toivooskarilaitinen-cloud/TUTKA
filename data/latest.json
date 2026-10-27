@@ -1,44 +1,32 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T22:44:09.541741+00:00",
-  "updated": "22:44 UTC",
-  "rejected": 196,
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T05:12:28.031271+00:00",
+  "updated": "05:12 UTC",
+  "rejected": 150,
   "findings": [
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 84,
-      "title": "Australia’s Rebecca Henderson claims historic race walk world record",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1FCdUM2TGlaRzh0T1hCWnVHZmpRbGdDekFPZG45YXdOelY2WUtsOWU3M2ZPOEpfVkJaY2VfNDU5bW1xdXNoMGRTUkJrVkM1bVhaczVUdldaVkdWSDRPX2VBanpyT0o4TkVzb1VaWlBRQ2kwQjA3T014NGk0TFlwS0UyX1dhd1dHel9OT1EwMjFXbHRQcUllVnY5Z0Fzb2ZYaUhYTTU5Wkp1R3dTNFJoQTA4TTBTWkJWcW4yTXVrR0twRnE5OUhfYQ?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 83,
-      "title": "Thailand Imports Surge at Record Pace on AI, Energy Demand",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0xGV0lOSVJEb2tCQk5mV3pPTWVGTVFRZDgxM0ZoQ2tvVXlwUUhKNFRNekVJc3V0RnVEZU5iRVlnNTZzRXZKN0VqNWpGVXlaZmlPUzlpa1lCWUlHOHFmU0VoaTRCeko1UjdFekREZnMzQjAxOG1YZXlTLVE5QVlVR01xTTdDR1ZtZlI1NllZN1o2aTRCX2FvNlVuN2xxTGlnZWhOV1NtVVktV2Nr?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
     {
       "category": "TALOUS",
       "type": "ANOMALY",
       "score": 75,
       "title": "Brazilian markets plunge after presidential election",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Traders Union",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkhwM2xrei1OREx3eGVLZkZUNDhyemFiRHFOYjJVRzNuUk1hcFNGcUJRNS12UjEtbTBjNmMxXzdIbFc0bGpVUzBfMjFURjZRcmxobmw2bWdiQzdTbloydF84cDBVSDFBdnd2ZFR5R19xc0NwTnZ1UFRkUUZKOUx1bXFhNURiUTc2UkpveDRLYw?oc=5",
       "age": "TUORE",
-      "id": "03"
+      "id": "01"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Ballon d'Or Feminin: Alexia Putellas wins award for record-equalling third time",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DaVRTbDh2X1NkdGQ1TXJwTUZXdlpTLWwyZWJhS3EtbzdrbjBJVGxsdXFXMW9WbXc0dzZ2NkxibUZqeUtXWk1IcVBVSHpQU24zbTBTdzYyZ3doei1CY1R2bjQ2MHktakhH?oc=5",
+      "age": "TUORE",
+      "id": "02"
     }
   ],
   "errors": [],
