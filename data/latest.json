@@ -1,20 +1,32 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T05:49:36.852054+00:00",
-  "updated": "05:49 UTC",
-  "rejected": 154,
+  "generated_at": "2026-10-28T13:02:44.823533+00:00",
+  "updated": "13:02 UTC",
+  "rejected": 191,
   "findings": [
     {
-      "category": "TALOUS",
-      "type": "ANOMALY",
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
       "score": 82,
-      "title": "Brazilian Markets Plunge After Lula's Upset Win",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "title": "Record setting Monet auction + Pumpkin art + World's largest pop-up book",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Newsmax",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGlxT1ZyU19UdjVtLWlLS3ZBTlhodG9yUXNjdkVldEVUaVNnU3p6MDV4dWlPendxTGlwWnJkTDNIWEdTR3BQZnRoSFVBOHQtVDluWHNxYUYxc1A1ODI3U0pZRERGQUxvX2trWXdUWnV6ak5lVGIyREtNZ3k4YlAwUnltZmRMbTRkYUFPckNoQl9xejBLZXc?oc=5",
+      "source": "CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblVRV283R0tTRnlSbzdoOFRnRHlLQ2FhWWtDVzJITmpPa041U2dzdTRPUG5sUFFYTlZ1dUNUSG9jQWsxOV9LVXZjVGZ2ai14czNxbHJhMGNLNWZTNnV4S0VyakdkNW9aZVlERFljM05HXzVJQmlSaHNjMEFBbElsU1NmYkthYkQ0YW0zcEFNX3hPSTZ1WjhELXNQWS1QanVUNlRmak5fTU1pZElQdmZFUE1fU0ZZTWc?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Germany set for record trade deficit with Asia-Pacific in 2026, report says",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTdlT0t1VVBXRElsZDdIX1BRQnlMaVM0emdXanFrVVJlQ0FHdUNqVU1NSHd4cTNUd2FyQ1M5VHJUdy1ORDBocmhTa0V6enRRQi1CQ05PYy1VSUZzRlgyLTFWcktjc0NCd3FrczUwcnBHcHFrQ2NObGdHOS1SSnhmRDhPOXlCYlRmQnJzdVRGLTV3Qy1OTXJ2SmF4U3dLdUpsazdhY0dQX0xzVjl4QmU1YlFiS0Y4dw?oc=5",
+      "age": "TUORE",
+      "id": "02"
     }
   ],
   "errors": [],
