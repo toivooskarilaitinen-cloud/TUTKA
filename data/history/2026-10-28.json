@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T05:49:36.852054+00:00",
+  "updated": "05:49 UTC",
+  "rejected": 154,
+  "findings": [
+    {
+      "category": "TALOUS",
+      "type": "ANOMALY",
+      "score": 82,
+      "title": "Brazilian Markets Plunge After Lula's Upset Win",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Newsmax",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGlxT1ZyU19UdjVtLWlLS3ZBTlhodG9yUXNjdkVldEVUaVNnU3p6MDV4dWlPendxTGlwWnJkTDNIWEdTR3BQZnRoSFVBOHQtVDluWHNxYUYxc1A1ODI3U0pZRERGQUxvX2trWXdUWnV6ak5lVGIyREtNZ3k4YlAwUnltZmRMbTRkYUFPckNoQl9xejBLZXc?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}

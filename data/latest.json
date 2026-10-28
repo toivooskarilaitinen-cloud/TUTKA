@@ -1,32 +1,20 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T22:19:31.905611+00:00",
-  "updated": "22:19 UTC",
-  "rejected": 184,
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T05:49:36.852054+00:00",
+  "updated": "05:49 UTC",
+  "rejected": 154,
   "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 96,
-      "title": "Gloc-9 marks 29 years in music with first-ever vinyl record",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Interaksyon",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUVQeXk1VVJlblluam90MEhmV0V4R1NxeGw4aVVSM1BuR3BqWW42azk1ZmJlbWoxSDdLdDYzOWtkM0dyckNFd0lUcFA2Z2Y1YjZBb2cwSWpKRGFtbUNnYklpZTZTYVpidTFpZGVjYzR4Mkk4ZmN1eHNiWWZhN1FaM2tLeGc3OVF1dFRmMWotUWp3SVBfQlR5VmNFMnNVQWNHMnlLSy1PbFdyRmItTmZiS1A4SUNDOE16Q1F4UEdIT0HSAcYBQVVfeXFMTkhUZTZfdjhwbDctNDVSQS1CM045aE54R3JUM0VyalBRejJGNG1ISlgteDAwQmNzTWFDSEM4QnRheDh2SWd1NnBjQWhtYkxCNy13dW1vY1k3OTZYVE1rS0lLMHNsbVJqN1FMUWVOSmVTRVNGUUZsay1qYm0xRDVydE9pODRqcWtWdlQ0WGtBbU9yWDJ0akRZbVNsb3c2UllnZ1ROblo1cHBNNTBLelNxYktDdy1vWVY4U0Z5czYybE1vMGpIXzRB?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
     {
       "category": "TALOUS",
       "type": "ANOMALY",
-      "score": 91,
+      "score": 82,
       "title": "Brazilian Markets Plunge After Lula's Upset Win",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Newsmax",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGlxT1ZyU19UdjVtLWlLS3ZBTlhodG9yUXNjdkVldEVUaVNnU3p6MDV4dWlPendxTGlwWnJkTDNIWEdTR3BQZnRoSFVBOHQtVDluWHNxYUYxc1A1ODI3U0pZRERGQUxvX2trWXdUWnV6ak5lVGIyREtNZ3k4YlAwUnltZmRMbTRkYUFPckNoQl9xejBLZXc?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "01"
     }
   ],
   "errors": [],
