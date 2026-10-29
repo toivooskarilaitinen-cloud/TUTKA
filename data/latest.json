@@ -1,32 +1,20 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T13:10:30.306552+00:00",
-  "updated": "13:10 UTC",
-  "rejected": 204,
+  "generated_at": "2026-10-29T22:48:53.423577+00:00",
+  "updated": "22:48 UTC",
+  "rejected": 160,
   "findings": [
     {
       "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Samsung posts record profit as AI boom drives chip demand",
+      "type": "ODDITY",
+      "score": 83,
+      "title": "Seoul Viosys, Seoul Semiconductor surge as rare-earth-free white LED debuts",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUk1ncE9rLU5WcUlxYzByczVXdko5N2lMcVJUWHhkcmt4OVpKX3dxNzkyN00xV2hJblBiVkF4UktIb1BuMVU5ODNJWXdIVVJqS1NGdXE5M0JlUGxncnN6eUVpakVjQy1XUm5uWkpxcnFjSjllRE9kZ0hfNjZrcDlOeGdzWVQ3blRQVTZ4OVVianp0YkN5Wnc?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUF9WaTFtdUs3RU1FTUNNckxXdEdhUU9SYUZKWjYtXy01cXdjR21pM2U0SEdBenpGVkMyeFRKWXI1VUdmalJZMzlzWW1yVFRUY3BjVldCcWs3RGxNcGQ5R2EyYlBkQnRXTVpDZnQ0NG1YcG1SbldNcjB6aGdWMHdBZzBXdGs5TEhENU9LUHZ1UE1EWElf0gGUAUFVX3lxTE9QX1ZpMW11SzdFTUVNQ01yTFd0R2FRT1JhRkpaNi1fLTVxd2NHbWkzZTRIR0F6ekZWQzJ4VEpZcjVVR2ZqUlkzOXNZbXJUVFRjcGNWV0JxazdEbE1wZDlHYTJiUGRCdFdNWkNmdDQ0bVhwbVJuV01yMHpoZ1Ywd0FnMFd0azlMSEQ1T0tQdnVQTURYSV8?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Samsung Electronics posts record semiconductor operating profit in Q3",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNWlhlYXhsSjJSRjk0dXBzcERpNjA5U3gyM1NyMDRyWGdPZmwxMjRnV3prNXc4ZXlnWHJ1SGo4OWRvVF9SSTNtSmRGWFRaMVdOb0UyN2xqUQ?oc=5",
-      "age": "TUORE",
-      "id": "02"
     }
   ],
   "errors": [],
