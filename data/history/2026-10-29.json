@@ -1,18 +1,18 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T05:54:39.349949+00:00",
-  "updated": "05:54 UTC",
-  "rejected": 171,
+  "generated_at": "2026-10-29T13:10:30.306552+00:00",
+  "updated": "13:10 UTC",
+  "rejected": 204,
   "findings": [
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "Samsung posts record quarterly profit as AI-driven chip demand surges",
+      "title": "Samsung posts record profit as AI boom drives chip demand",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTNSMjcyYnItR1RyY1BlZjl2S2dtb0tRdHFRTFRzOVUyb2pjbHBhbHQ5VmxzVXN0WGlqYVpZdUwyTzk2QzhNYzE4THhSdWczMzhtbnd4RlJxSUVVb2twVVJnLTBldXZabW9IcUNsV1pvNWFObUpaa2w0QjdMVk9nRWl3UkdROHI2VUIwMl9QY1J4eHhIR09mZ3JUaF9jUEpuczFJ?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUk1ncE9rLU5WcUlxYzByczVXdko5N2lMcVJUWHhkcmt4OVpKX3dxNzkyN00xV2hJblBiVkF4UktIb1BuMVU5ODNJWXdIVVJqS1NGdXE5M0JlUGxncnN6eUVpakVjQy1XUm5uWkpxcnFjSjllRE9kZ0hfNjZrcDlOeGdzWVQ3blRQVTZ4OVVianp0YkN5Wnc?oc=5",
       "age": "TUORE",
       "id": "01"
     },
@@ -27,18 +27,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNWlhlYXhsSjJSRjk0dXBzcERpNjA5U3gyM1NyMDRyWGdPZmwxMjRnV3prNXc4ZXlnWHJ1SGo4OWRvVF9SSTNtSmRGWFRaMVdOb0UyN2xqUQ?oc=5",
       "age": "TUORE",
       "id": "02"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Germany set for record trade deficit with Asia-Pacific in 2026, report says",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTdlT0t1VVBXRElsZDdIX1BRQnlMaVM0emdXanFrVVJlQ0FHdUNqVU1NSHd4cTNUd2FyQ1M5VHJUdy1ORDBocmhTa0V6enRRQi1CQ05PYy1VSUZzRlgyLTFWcktjc0NCd3FrczUwcnBHcHFrQ2NObGdHOS1SSnhmRDhPOXlCYlRmQnJzdVRGLTV3Qy1OTXJ2SmF4U3dLdUpsazdhY0dQX0xzVjl4QmU1YlFiS0Y4dw?oc=5",
-      "age": "TUORE",
-      "id": "03"
     }
   ],
   "errors": [],
