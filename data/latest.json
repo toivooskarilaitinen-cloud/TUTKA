@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T22:48:53.423577+00:00",
-  "updated": "22:48 UTC",
-  "rejected": 160,
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T05:55:53.323993+00:00",
+  "updated": "05:55 UTC",
+  "rejected": 180,
   "findings": [
     {
       "category": "TEKNOLOGIA",
-      "type": "ODDITY",
-      "score": 83,
-      "title": "Seoul Viosys, Seoul Semiconductor surge as rare-earth-free white LED debuts",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Samsung posts record $80.5bn quarterly profit on AI chip demand",
       "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUF9WaTFtdUs3RU1FTUNNckxXdEdhUU9SYUZKWjYtXy01cXdjR21pM2U0SEdBenpGVkMyeFRKWXI1VUdmalJZMzlzWW1yVFRUY3BjVldCcWs3RGxNcGQ5R2EyYlBkQnRXTVpDZnQ0NG1YcG1SbldNcjB6aGdWMHdBZzBXdGs5TEhENU9LUHZ1UE1EWElf0gGUAUFVX3lxTE9QX1ZpMW11SzdFTUVNQ01yTFd0R2FRT1JhRkpaNi1fLTVxd2NHbWkzZTRIR0F6ekZWQzJ4VEpZcjVVR2ZqUlkzOXNZbXJUVFRjcGNWV0JxazdEbE1wZDlHYTJiUGRCdFdNWkNmdDQ0bVhwbVJuV01yMHpoZ1Ywd0FnMFd0azlMSEQ1T0tQdnVQTURYSV8?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "TheReport.live",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWFoLXNlRmViV2FBRHdYRVgwR2FJWm5mLWl2VC10TXk5dl95c3NpR2RvSFRnMEFQa3RLUkNaVVcwSGdtRjRkZW1udXZ2Yld4MWFETnFtdDBLVjkwLTUxU3NucDBWNUJWZmlmM1FKLVZwc2JkMnI3cDI5cVBCdVo3SzVuUGhBS3N2WGxtVWJLdmNqbnB4VnI0T0tPSUtLTk53MVE?oc=5",
       "age": "TUORE",
       "id": "01"
     }
