@@ -1,18 +1,18 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T13:02:52.055152+00:00",
-  "updated": "13:02 UTC",
-  "rejected": 204,
+  "generated_at": "2026-10-30T22:26:00.033113+00:00",
+  "updated": "22:26 UTC",
+  "rejected": 154,
   "findings": [
     {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Record Gasoline Prices Push Kenya Inflation to Three-Year High",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlF5VTJORFIzcEFpa3JxY29CRjlHUlBDYXBEa3Q3ZUt5OXlIR3lOdXFndXR3X2JXTm45dVFTOWZQYTMxdlpYWmZGdjlDbEN6RWhPNHBCNTB1WmpGN0NZSjdhci1abmFrcXJTOXFjelludFZUVWNsRHlzT2NzRGxYajBEZFBHM085eWRkb0JjMFo0OTR1T3VxelY1b1lOSnNYdTNmN1dSNnJ3dkZiMjQ0dHVYMA?oc=5",
+      "category": "KULTTUURI",
+      "type": "ANOMALY",
+      "score": 79,
+      "title": "MoMA, Centre Pompidou, and M+ Form an Unprecedented Alliance",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Artnet News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmUDF5ekU5aUlpeExzbkJ2enFVd0drd2hsc3FmVW9YTWRwdEpwaVN0cWkxY05qd0dXcnE4VmtYdjBCejhyWDlRRVE2SDN0cTFPNXJHUmdvbU9TMk5zel9WUENhdnprVGhrZGtXS9IBdEFVX3lxTE1zLWdJRXFMbkJLRUtlOXc1NTludk5fTHNjOVUzTUVaV01xRUQxOG9GdkhBb1dJYUpuNXlaQV83a0NJU3NMaHUxRFFJNF9pSjRxRF9zUEt5M0h1ZFVQZEpEUm9nTUlCN2ltODAzT29JekFteDdx?oc=5",
       "age": "TUORE",
       "id": "01"
     }
