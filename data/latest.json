@@ -1,18 +1,18 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T05:55:53.323993+00:00",
-  "updated": "05:55 UTC",
-  "rejected": 180,
+  "generated_at": "2026-10-30T13:02:52.055152+00:00",
+  "updated": "13:02 UTC",
+  "rejected": 204,
   "findings": [
     {
-      "category": "TEKNOLOGIA",
+      "category": "TALOUS",
       "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Samsung posts record $80.5bn quarterly profit on AI chip demand",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "TheReport.live",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWFoLXNlRmViV2FBRHdYRVgwR2FJWm5mLWl2VC10TXk5dl95c3NpR2RvSFRnMEFQa3RLUkNaVVcwSGdtRjRkZW1udXZ2Yld4MWFETnFtdDBLVjkwLTUxU3NucDBWNUJWZmlmM1FKLVZwc2JkMnI3cDI5cVBCdVo3SzVuUGhBS3N2WGxtVWJLdmNqbnB4VnI0T0tPSUtLTk53MVE?oc=5",
+      "score": 75,
+      "title": "Record Gasoline Prices Push Kenya Inflation to Three-Year High",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlF5VTJORFIzcEFpa3JxY29CRjlHUlBDYXBEa3Q3ZUt5OXlIR3lOdXFndXR3X2JXTm45dVFTOWZQYTMxdlpYWmZGdjlDbEN6RWhPNHBCNTB1WmpGN0NZSjdhci1abmFrcXJTOXFjelludFZUVWNsRHlzT2NzRGxYajBEZFBHM085eWRkb0JjMFo0OTR1T3VxelY1b1lOSnNYdTNmN1dSNnJ3dkZiMjQ0dHVYMA?oc=5",
       "age": "TUORE",
       "id": "01"
     }
