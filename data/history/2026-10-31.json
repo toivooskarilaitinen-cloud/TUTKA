@@ -1,18 +1,18 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T12:41:21.193368+00:00",
-  "updated": "12:41 UTC",
-  "rejected": 189,
+  "generated_at": "2026-10-31T21:40:55.135711+00:00",
+  "updated": "21:40 UTC",
+  "rejected": 177,
   "findings": [
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 90,
-      "title": "King Sets An All-Time Overseas Record For Indian Cinema?",
+      "score": 99,
+      "title": "Shah Rukh Khan’s King Sets All-Time Overseas Record With ₹175 Crore MG Deal",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Gulte",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2p5c21SOWhPdktlUDlzYlpzcElsakkwazdEQWgtYTlYamlhZWJmR3NFRjZBcVNfdVVjVldRd3ZiMUpxSnZ0SFZnZkpkdFZJeC15RTR0NzFyVlQxNVhxQXdPcWdUdm9icmNHNEY4SGxzMHNjem9NNDZyeDk4VXhpUFRzS2M3MFZ5UVBnWGpGbzVUY0E1NEFFRW9R0gGfAUFVX3lxTE5oVVFCV3cxZnYydzNTOU9VMkNzMGdseFVqOHlqMFhIcGJZSV9oRzZlaExBaFdnS003MWhPcUNVdzJEMm5kbDR0SDFRY1hHVEpmQ1VFcENhVVgyVHkyUnBqT1dKWXRXdnF0SXF2UURYNy1yT2xYa05UVldoNWJ2Wmt2NFhtd1hvNHFLck02YkQ2Wm1IejlYNm8wTzdpN3hjQQ?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Outlook India",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmlWdDlpRXdSaVRRRklIOVplWEE2ZlZLd3VKMklrSGRwaE5OMzBoSWpZS19GdnJ4eXhRZHJFVWpoS0JiTVp3ZTd6R3ZnWGxTNFlVZ1AyR3hvUW1YcEktRDA3S0QwemotMGJubXc4SnVxMi1fLXdOZ2xYSVk2VXVfRWZHbWdOSGdkRjZSVUVycjNiZWx4ZFJ0R2gwaU0tdmxoRUJCaFJFNlpnNGNSeFVLejFMR2VqT1JqTlRxStIBygFBVV95cUxPdHZ3TlZabk5qVTZURUdGLXA3aWZlY1RkcGlnaXlwYVROQ2VCQjlKb0VDT1Uta3Z5NG9tZ2s3N25aRmdYODdycGdzbGNaNmh5al8xVUJvbVdrN1BiRXRTaWtJZ1NuUzhwRk9wM3QydmtYSjIzMDdFVEh5aDFIRVcyUjMxS0I3bmk4QWI4SnBad3Q0R2V3VThoc1cwWVdOcEhPNDk5OHlXNnlRRF9jXzhlalpZT3RicnJnVm5nWWRLdS1rWDBfcnE5eHVR?oc=5",
       "age": "TUORE",
       "id": "01"
     },
@@ -22,9 +22,9 @@
       "score": 77,
       "title": "Shah Rukh Khan’s 'King' breaks overseas rights record at Rs 175 crore; eyes to top 'Pathaan', 'Jawan' col",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRXdhb1FNY0hCamVNX1pnQW5FSEhoTHpVMkZrOGNkRWZKYXVaTmVnaGh4WTF2WVVTMFM3anZGSi1WSElfb3o1bEl3OHVqVDlhWGtPZlR5TTZJWUx5bjF5T3JfVFY1SWtzRUhKZG9vWlFnOTNQSWNiRFVZNGZRS0hTTmVjdlhPVUFOQkRmanEzb1F2eThWR3NJZ3BoMVNKTWVYYW9BUkd6RjJ0eFN6S3Z3U0Z1d2x3aDJQSmo1NU12NGVNUWRaWl9xOEh3eTBLdlZ2WVJwN3drMjliRm9YUnZpMXFreFZVLTF5M3lWOVNDalUwUEc2X3h5UVJ4TlVtVWhNa1hpVlJZTGw3Q1FmVzR3NHFVMXk0RGQtQW8zVE12QXJyN3d1cnZCczJBQkJZU1VlNldXTjR1Q096ZGZyVWRQNTh30gHHAkFVX3lxTE9CQjN3dUpoRnlaUGJHYW0xR2tRR2k5ZDRlSEp3UDMzWWxVTFdXMm1ZQXRqcU95djZiaGU3dVkwLTRNTXlOc091bHhSQ2NUUFJEcG8zRzNvTHZXT1IyYW5pMFdYam9TX0M0bVZLYWtFNlRxWV9EWU1NbVFhVWZZa3dOVVBQX3Z5SEtIbXZSYkR6N240MEdPamk3YXMtejVSdWFMY0JCcDJHczFWXzlIUThsMnJ6dWsxNjJMRVpZWWpGYk5LelJwNWVmZVFSR3A0V2hZWXJzRFVrQV9ISWZpc1M1aURxZVBYYmgzT1hlRFh4aDVEM3c1c1pvYUhWcTBNRUZwWjZkRF9XblRKVGVERXlUUUxybFdiZDdiZURoZkVmRTRiTW1Odld0RjVSLUtKNkZiM24xYlVoblM3OWRnT1lZTlJNaURQWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPQkIzd3VKaEZ5WlBiR2FtMUdrUUdpOWQ0ZUhKd1AzM1lsVUxXVzJtWUF0anFPeXY2YmhlN3VZMC00TU15TnNPdWx4UkNjVFBSRHBvM0czb0x2V09SMmFuaTBXWGpvU19DNG1WS2FrRTZUcVlfRFlNTW1RYVVmWWt3TlVQUF92eUhLSG12UmJEejduNDBHT2ppN2FzLXo1UnVhTGNCQnAyR3MxVl85SFE4bDJyenVrMTYyTEVaWVlqRmJOS3pScDVlZmVRUkdwNFdoWVlyc0RVa0FfSElmaXNTNWlEcWVQWGJoM09YZURYeGg1RDN3NXNab2FIVnEwTUVGcFo2ZERfV25USlRlREV5VFFMcmxXYmQ3YmVEaGZFZkU0Yk1tTnZXdEY1Ui1LSjZGYjNuMWJVaG5TNzlkZ09ZWU5STWlEUFnSAccCQVVfeXFMT0JCM3d1SmhGeVpQYkdhbTFHa1FHaTlkNGVISndQMzNZbFVMV1cybVlBdGpxT3l2NmJoZTd1WTAtNE1NeU5zT3VseFJDY1RQUkRwbzNHM29MdldPUjJhbmkwV1hqb1NfQzRtVktha0U2VHFZX0RZTU1tUWFVZllrd05VUFBfdnlIS0htdlJiRHo3bjQwR09qaTdhcy16NVJ1YUxjQkJwMkdzMVZfOUhROGwycnp1azE2MkxFWllZakZiTkt6UnA1ZWZlUVJHcDRXaFlZcnNEVWtBX0hJZmlzUzVpRHFlUFhiaDNPWGVEWHhoNUQzdzVzWm9hSFZxME1FRnBaNmREX1duVEpUZURFeVRRTHJsV2JkN2JlRGhmRWZFNGJNbU52V3RGNVItS0o2RmIzbjFiVWhuUzc5ZGdPWVlOUk1pRFBZ?oc=5",
       "age": "TUORE",
       "id": "02"
     }
