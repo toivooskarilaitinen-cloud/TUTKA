@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T22:26:00.033113+00:00",
-  "updated": "22:26 UTC",
-  "rejected": 154,
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T05:51:47.375723+00:00",
+  "updated": "05:51 UTC",
+  "rejected": 183,
   "findings": [
     {
-      "category": "KULTTUURI",
-      "type": "ANOMALY",
-      "score": 79,
-      "title": "MoMA, Centre Pompidou, and M+ Form an Unprecedented Alliance",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Artnet News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmUDF5ekU5aUlpeExzbkJ2enFVd0drd2hsc3FmVW9YTWRwdEpwaVN0cWkxY05qd0dXcnE4VmtYdjBCejhyWDlRRVE2SDN0cTFPNXJHUmdvbU9TMk5zel9WUENhdnprVGhrZGtXS9IBdEFVX3lxTE1zLWdJRXFMbkJLRUtlOXc1NTludk5fTHNjOVUzTUVaV01xRUQxOG9GdkhBb1dJYUpuNXlaQV83a0NJU3NMaHUxRFFJNF9pSjRxRF9zUEt5M0h1ZFVQZEpEUm9nTUlCN2ltODAzT29JekFteDdx?oc=5",
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Hockey’s longest losing streak ends",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "106.9 The X",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82UFVUc0UwNnVxdXNjaDVFUEl0T3RuRHJheGQ5T0tZMnF4QllDN0VUSzZzMVp4MHBPTFRXRXd0ODk4dHVibkh4RHU4R3lwNW1VQTZ0amMtekgwZzlISS13WWlRenNEQWFBdU9kYmZScThPR1FrdFE?oc=5",
       "age": "TUORE",
       "id": "01"
     }

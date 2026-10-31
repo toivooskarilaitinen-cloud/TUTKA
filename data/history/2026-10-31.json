@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T05:51:47.375723+00:00",
+  "updated": "05:51 UTC",
+  "rejected": 183,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Hockey’s longest losing streak ends",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "106.9 The X",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82UFVUc0UwNnVxdXNjaDVFUEl0T3RuRHJheGQ5T0tZMnF4QllDN0VUSzZzMVp4MHBPTFRXRXd0ODk4dHVibkh4RHU4R3lwNW1VQTZ0amMtekgwZzlISS13WWlRenNEQWFBdU9kYmZScThPR1FrdFE?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
