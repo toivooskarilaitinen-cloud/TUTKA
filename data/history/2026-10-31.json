@@ -1,20 +1,32 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T05:51:47.375723+00:00",
-  "updated": "05:51 UTC",
-  "rejected": 183,
+  "generated_at": "2026-10-31T12:41:21.193368+00:00",
+  "updated": "12:41 UTC",
+  "rejected": 189,
   "findings": [
     {
-      "category": "URHEILU",
+      "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Hockey’s longest losing streak ends",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "score": 90,
+      "title": "King Sets An All-Time Overseas Record For Indian Cinema?",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "106.9 The X",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82UFVUc0UwNnVxdXNjaDVFUEl0T3RuRHJheGQ5T0tZMnF4QllDN0VUSzZzMVp4MHBPTFRXRXd0ODk4dHVibkh4RHU4R3lwNW1VQTZ0amMtekgwZzlISS13WWlRenNEQWFBdU9kYmZScThPR1FrdFE?oc=5",
+      "source": "Gulte",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2p5c21SOWhPdktlUDlzYlpzcElsakkwazdEQWgtYTlYamlhZWJmR3NFRjZBcVNfdVVjVldRd3ZiMUpxSnZ0SFZnZkpkdFZJeC15RTR0NzFyVlQxNVhxQXdPcWdUdm9icmNHNEY4SGxzMHNjem9NNDZyeDk4VXhpUFRzS2M3MFZ5UVBnWGpGbzVUY0E1NEFFRW9R0gGfAUFVX3lxTE5oVVFCV3cxZnYydzNTOU9VMkNzMGdseFVqOHlqMFhIcGJZSV9oRzZlaExBaFdnS003MWhPcUNVdzJEMm5kbDR0SDFRY1hHVEpmQ1VFcENhVVgyVHkyUnBqT1dKWXRXdnF0SXF2UURYNy1yT2xYa05UVldoNWJ2Wmt2NFhtd1hvNHFLck02YkQ2Wm1IejlYNm8wTzdpN3hjQQ?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Shah Rukh Khan’s 'King' breaks overseas rights record at Rs 175 crore; eyes to top 'Pathaan', 'Jawan' col",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRXdhb1FNY0hCamVNX1pnQW5FSEhoTHpVMkZrOGNkRWZKYXVaTmVnaGh4WTF2WVVTMFM3anZGSi1WSElfb3o1bEl3OHVqVDlhWGtPZlR5TTZJWUx5bjF5T3JfVFY1SWtzRUhKZG9vWlFnOTNQSWNiRFVZNGZRS0hTTmVjdlhPVUFOQkRmanEzb1F2eThWR3NJZ3BoMVNKTWVYYW9BUkd6RjJ0eFN6S3Z3U0Z1d2x3aDJQSmo1NU12NGVNUWRaWl9xOEh3eTBLdlZ2WVJwN3drMjliRm9YUnZpMXFreFZVLTF5M3lWOVNDalUwUEc2X3h5UVJ4TlVtVWhNa1hpVlJZTGw3Q1FmVzR3NHFVMXk0RGQtQW8zVE12QXJyN3d1cnZCczJBQkJZU1VlNldXTjR1Q096ZGZyVWRQNTh30gHHAkFVX3lxTE9CQjN3dUpoRnlaUGJHYW0xR2tRR2k5ZDRlSEp3UDMzWWxVTFdXMm1ZQXRqcU95djZiaGU3dVkwLTRNTXlOc091bHhSQ2NUUFJEcG8zRzNvTHZXT1IyYW5pMFdYam9TX0M0bVZLYWtFNlRxWV9EWU1NbVFhVWZZa3dOVVBQX3Z5SEtIbXZSYkR6N240MEdPamk3YXMtejVSdWFMY0JCcDJHczFWXzlIUThsMnJ6dWsxNjJMRVpZWWpGYk5LelJwNWVmZVFSR3A0V2hZWXJzRFVrQV9ISWZpc1M1aURxZVBYYmgzT1hlRFh4aDVEM3c1c1pvYUhWcTBNRUZwWjZkRF9XblRKVGVERXlUUUxybFdiZDdiZURoZkVmRTRiTW1Odld0RjVSLUtKNkZiM24xYlVoblM3OWRnT1lZTlJNaURQWQ?oc=5",
+      "age": "TUORE",
+      "id": "02"
     }
   ],
   "errors": [],
