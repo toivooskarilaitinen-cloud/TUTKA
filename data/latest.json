@@ -1,34 +1,9 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T21:40:55.135711+00:00",
-  "updated": "21:40 UTC",
-  "rejected": 177,
-  "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 99,
-      "title": "Shah Rukh Khan’s King Sets All-Time Overseas Record With ₹175 Crore MG Deal",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 7 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Outlook India",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVmlWdDlpRXdSaVRRRklIOVplWEE2ZlZLd3VKMklrSGRwaE5OMzBoSWpZS19GdnJ4eXhRZHJFVWpoS0JiTVp3ZTd6R3ZnWGxTNFlVZ1AyR3hvUW1YcEktRDA3S0QwemotMGJubXc4SnVxMi1fLXdOZ2xYSVk2VXVfRWZHbWdOSGdkRjZSVUVycjNiZWx4ZFJ0R2gwaU0tdmxoRUJCaFJFNlpnNGNSeFVLejFMR2VqT1JqTlRxStIBygFBVV95cUxPdHZ3TlZabk5qVTZURUdGLXA3aWZlY1RkcGlnaXlwYVROQ2VCQjlKb0VDT1Uta3Z5NG9tZ2s3N25aRmdYODdycGdzbGNaNmh5al8xVUJvbVdrN1BiRXRTaWtJZ1NuUzhwRk9wM3QydmtYSjIzMDdFVEh5aDFIRVcyUjMxS0I3bmk4QWI4SnBad3Q0R2V3VThoc1cwWVdOcEhPNDk5OHlXNnlRRF9jXzhlalpZT3RicnJnVm5nWWRLdS1rWDBfcnE5eHVR?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Shah Rukh Khan’s 'King' breaks overseas rights record at Rs 175 crore; eyes to top 'Pathaan', 'Jawan' col",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPQkIzd3VKaEZ5WlBiR2FtMUdrUUdpOWQ0ZUhKd1AzM1lsVUxXVzJtWUF0anFPeXY2YmhlN3VZMC00TU15TnNPdWx4UkNjVFBSRHBvM0czb0x2V09SMmFuaTBXWGpvU19DNG1WS2FrRTZUcVlfRFlNTW1RYVVmWWt3TlVQUF92eUhLSG12UmJEejduNDBHT2ppN2FzLXo1UnVhTGNCQnAyR3MxVl85SFE4bDJyenVrMTYyTEVaWVlqRmJOS3pScDVlZmVRUkdwNFdoWVlyc0RVa0FfSElmaXNTNWlEcWVQWGJoM09YZURYeGg1RDN3NXNab2FIVnEwTUVGcFo2ZERfV25USlRlREV5VFFMcmxXYmQ3YmVEaGZFZkU0Yk1tTnZXdEY1Ui1LSjZGYjNuMWJVaG5TNzlkZ09ZWU5STWlEUFnSAccCQVVfeXFMT0JCM3d1SmhGeVpQYkdhbTFHa1FHaTlkNGVISndQMzNZbFVMV1cybVlBdGpxT3l2NmJoZTd1WTAtNE1NeU5zT3VseFJDY1RQUkRwbzNHM29MdldPUjJhbmkwV1hqb1NfQzRtVktha0U2VHFZX0RZTU1tUWFVZllrd05VUFBfdnlIS0htdlJiRHo3bjQwR09qaTdhcy16NVJ1YUxjQkJwMkdzMVZfOUhROGwycnp1azE2MkxFWllZakZiTkt6UnA1ZWZlUVJHcDRXaFlZcnNEVWtBX0hJZmlzUzVpRHFlUFhiaDNPWGVEWHhoNUQzdzVzWm9hSFZxME1FRnBaNmREX1duVEpUZURFeVRRTHJsV2JkN2JlRGhmRWZFNGJNbU52V3RGNVItS0o2RmIzbjFiVWhuUzc5ZGdPWVlOUk1pRFBZ?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    }
-  ],
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T06:15:10.579250+00:00",
+  "updated": "06:15 UTC",
+  "rejected": 157,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
