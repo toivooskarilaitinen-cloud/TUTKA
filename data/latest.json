@@ -1,9 +1,22 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T22:06:54.529586+00:00",
-  "updated": "22:06 UTC",
-  "rejected": 152,
-  "findings": [],
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T06:16:29.708739+00:00",
+  "updated": "06:16 UTC",
+  "rejected": 148,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "Rafael Jodar has just broken an all-time tennis record at the Basel Open without even playing",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Tennishead",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR014Uk1LckZpRWFkQl9uOTloLXNoeU5odklLdXpVcUVkTUZaS0xVTi1zdVZXMWFPc0hyaUFwRy1sb1B1Y3NNVHdaSG5Rb1hRWXFDZHdnQy1rYnM2Nmc1Z2NuTVlJNU9HX3VXWkxibFpfYXNFczd2V1RfRlVtNUFUMXN2dDM1QUZWZkxya0UtWkpVdDh4YlZDbFJTS3RzYXF4cmpfRHgyUFd5MTlSd3Vtd0tCakZsUE12?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
