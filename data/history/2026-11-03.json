@@ -1,14 +1,39 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T01:02:37.096884+00:00",
-  "updated": "01:02 UTC",
-  "rejected": 187,
-  "findings": [],
+  "generated_at": "2026-11-03T14:24:33.996969+00:00",
+  "updated": "14:24 UTC",
+  "rejected": 162,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 85,
+      "title": "Oklahoma Suffers Historic Upset Loss to East Texas A&M on 1st Day of CBB Season",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bleacher Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFRjNEFWYlp6TlZMaUtYVnkyM2hzdDFjR19jM2RSMlZnaW1WUXhyakstemxkLUpVRkxEdmxhc2VKVlRxd0I0RTZyRFl6UGc1SVpUVExMemY3c2pZY055cFQ3MlNTcDE3WFdxVmtxb2pmV3NLWXkwU3BYVFA1MHJsSi1kYzhZZjZsU2JIVzBDZ19zTkxuZ2lJTktDeS1rN3pLcnFDWXBLSmJ2bEloZHYzQmt5cTI?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "Lattice Semiconductor Reports Record Q3 Revenue Surge, LSCC Stoc",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWtaMzE1aEhmZ1pLQy0xSktlbW1BWE92SEJnRUtzX2FzTExTeEUxOGo5OXRtMFBFdkZDbmNncTRwTjk3ekVkM0pXdmJXdHpJV29udl9xaEdILXVJV19ieVhoOFBIdTJ5Ynk0N3UxdzlmNm52LU9LVFV1cFFzUk0zQkJnSk9nVzlNdHdyLVJJS3g2UGVFZE1qWnNtQnpRSjhQeUdFeTlBcG9xdlU1Q2VXd2dCWnhFdGkwb0VZ?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
+  ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
