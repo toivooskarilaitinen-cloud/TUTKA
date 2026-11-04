@@ -1,39 +1,14 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T23:27:50.727607+00:00",
-  "updated": "23:27 UTC",
-  "rejected": 232,
-  "findings": [
-    {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 85,
-      "title": "Oklahoma Suffers Historic Upset Loss to East Texas A&M on 1st Day of CBB Season",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bleacher Report",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFRjNEFWYlp6TlZMaUtYVnkyM2hzdDFjR19jM2RSMlZnaW1WUXhyakstemxkLUpVRkxEdmxhc2VKVlRxd0I0RTZyRFl6UGc1SVpUVExMemY3c2pZY055cFQ3MlNTcDE3WFdxVmtxb2pmV3NLWXkwU3BYVFA1MHJsSi1kYzhZZjZsU2JIVzBDZ19zTkxuZ2lJTktDeS1rN3pLcnFDWXBLSmJ2bEloZHYzQmt5cTI?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 80,
-      "title": "OU men's basketball falls to East Texas A&M in historic upset",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "OU Daily",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWkdfWHdxZWNRMFNZV3ljTkE3eXFhM25wRDZ1MlNuQU05Smw1RHQyMjZTa2pXYUtNUW9yWXZWUUtnbHJRVUJIYndycGVNSkFoem1FYkZHSVpnS0FxaUZaY25HTWxlb2swbXE2dElpU2lwc2NBRjNLMkNDTTVhZ1ljekZVREhFSUJFOTRWdFB6cVJtUjJHcWJ3THV4azdaQ0ctTktiY0FFX1I2dnVWcVFvNG9IV3Z4UXZqc0FXM1hZTkJZeXViUko5WTNFeXNMQQ?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    }
-  ],
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T06:33:00.692636+00:00",
+  "updated": "06:33 UTC",
+  "rejected": 193,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
