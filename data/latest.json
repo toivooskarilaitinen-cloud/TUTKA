@@ -1,32 +1,56 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T19:50:18.271373+00:00",
-  "updated": "19:50 UTC",
-  "rejected": 138,
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T06:55:31.995810+00:00",
+  "updated": "06:55 UTC",
+  "rejected": 146,
   "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 84,
+      "title": "South Korea’s Current Account Surplus Hits Record on Chip Boom",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUJMUVREQVpaZHIwLVpOQ1ctN21uVGFEZmlFaVZxSDRwNm1lOFhzcTJod0ZKd3BrX2N5amljYUR3d0hoWDduVFpKRGdnNVdieXFzZFNGN0UwcFlyVFZKNEpPMU9GRmhxeXczYlJqdXJOQng0bFllRlFhdHFYNmZHTE4wTElyVzZwbFEwVlo1U3VtWVZkc2xJb0UxSUhmRzJoRUw5SUF5M3R4RnYtNnlxdVYzVQ?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "TALOUS",
       "type": "RECORD WATCH",
-      "score": 80,
+      "score": 84,
       "title": "US trade deficit narrows slightly in September; imports hit record high",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dDeFRyZUtVWnJCcUJXcE9RTFVvS0J2dE44ejVsMml5MXo3WEVLVDFwN2I2eTNhOWtsUGNsRkVxdndBN1c2S3lPdHZzTGtZam9SOGNyNzRHN281aU5QSThDTUNBeEJFeEgxcTVkWG5kRkkxLUpGR1RDaVhTbDkxYVkyMHJ3azEwd2VEYVVnVjQ5OVI3NzZYZEY2cjE4YkdydXE1bGZWdG16UGVEWWZ5RGxVNA?oc=5",
       "age": "TUORE",
-      "id": "01"
+      "id": "02"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 82,
+      "title": "China's largest import expo opens in Shanghai amid record trade imbalances",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmhsWjJDN3pNSXpmQ2FuNkd1V18tekxkMlQ5UEYwQ3FzRWJMMlN5OVROQ1g1ZmZ2WEg1ZW5EdGI2d2NQS1BONktURmxVUUh2enU1UlJnRmxXS3pramJfRkpjMlRjMms5UDhVV3ptZ1BsM2FORngxWVA3MlR2LW1NLXVjdkhLYmxpV0kwR1FMbFZRUDF1WldhbUlXQmo0bzEta0FoZ1dGX0VjVVJYSWJOMktjVEo4aUhfOGM0cEJvTmlHejVEaVluM29CSS1UMUpfVFlXb3FzZzFpd1NU?oc=5",
+      "age": "TUORE",
+      "id": "03"
     },
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "Apple Music gets a fun new karaoke feature that lets you record yourself singing",
+      "title": "Latest Godzilla film sets live-action opening-day box office record in Japan",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Digital Trends",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTlFMUNWTWtnT3BBTVpiTmZiMGpQOXFNRFo2Nk1iMUxfd3JYRnJkVlUxUlM4aFRCS3B0Z2hhUW8weE1GMWpab2loR0lBREhrZFFEUEZVOTdDZ3pZRmxraThHXzVNUmZHSVZDclNwSnU2R3plZV9xcFRVZnpjd2lNRkJnUG1BR0pwS1c3SmpZdXNfOG9JcUFUc0JrYW9MY1BucTd0OWNnZExWR0VKMFI1TGliSE5wWEJFY2c?oc=5",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNck9Ea05sMXNTT3YyU0kwdDEzLWM2cC1vcjhPT1FCWTIyRVVFczhmZ1gyOEdNeGp3QTB1ajNJbjdWSGtTeG1FaXBHU0tKUE16SmFPLS1mSVVBUGtDMEJEdkFtZ2hudVdSTE5McXEtUTBZUFpFVFdPVGZPVEdhUjVoMmc4aHlzak16OE9EczVTS1lFc3dUYmxpZlplYjFWdw?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "04"
     }
   ],
   "errors": [],
