@@ -1,9 +1,21 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T06:55:31.995810+00:00",
-  "updated": "06:55 UTC",
-  "rejected": 146,
+  "generated_at": "2026-11-05T20:01:37.807925+00:00",
+  "updated": "20:01 UTC",
+  "rejected": 154,
   "findings": [
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 89,
+      "title": "China's largest import expo opens in Shanghai amid record trade imbalances",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZGJQakhPQjUzdEJJUWpWT2VZOC1QR2JrY0hTU2pBQ1MtWHFqQ1IzZXRrbFczM2dGSzhYeG5VN1pNWGM1OEhRSzQyRThGcW5teGF3NmE2V2tCQ3Vad0V0dXZtamxOQ2p5V3YzTm5VaHNXbUZUT00ybWpobm04bE41bE1tdTNNWFBaZzNXMEVNNnkzVE5uRzRDTVBCakV2d2NnYk1qSGczellRdmNvc0V3Y3FiQzZMTDZpcl9TT081ckVWMUE?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "TEKNOLOGIA",
       "type": "RECORD WATCH",
@@ -14,41 +26,29 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUJMUVREQVpaZHIwLVpOQ1ctN21uVGFEZmlFaVZxSDRwNm1lOFhzcTJod0ZKd3BrX2N5amljYUR3d0hoWDduVFpKRGdnNVdieXFzZFNGN0UwcFlyVFZKNEpPMU9GRmhxeXczYlJqdXJOQng0bFllRlFhdHFYNmZHTE4wTElyVzZwbFEwVlo1U3VtWVZkc2xJb0UxSUhmRzJoRUw5SUF5M3R4RnYtNnlxdVYzVQ?oc=5",
       "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 84,
-      "title": "US trade deficit narrows slightly in September; imports hit record high",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX2dDeFRyZUtVWnJCcUJXcE9RTFVvS0J2dE44ejVsMml5MXo3WEVLVDFwN2I2eTNhOWtsUGNsRkVxdndBN1c2S3lPdHZzTGtZam9SOGNyNzRHN281aU5QSThDTUNBeEJFeEgxcTVkWG5kRkkxLUpGR1RDaVhTbDkxYVkyMHJ3azEwd2VEYVVnVjQ5OVI3NzZYZEY2cjE4YkdydXE1bGZWdG16UGVEWWZ5RGxVNA?oc=5",
-      "age": "TUORE",
       "id": "02"
     },
     {
-      "category": "TALOUS",
+      "category": "URHEILU",
       "type": "RECORD WATCH",
-      "score": 82,
-      "title": "China's largest import expo opens in Shanghai amid record trade imbalances",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmhsWjJDN3pNSXpmQ2FuNkd1V18tekxkMlQ5UEYwQ3FzRWJMMlN5OVROQ1g1ZmZ2WEg1ZW5EdGI2d2NQS1BONktURmxVUUh2enU1UlJnRmxXS3pramJfRkpjMlRjMms5UDhVV3ptZ1BsM2FORngxWVA3MlR2LW1NLXVjdkhLYmxpV0kwR1FMbFZRUDF1WldhbUlXQmo0bzEta0FoZ1dGX0VjVVJYSWJOMktjVEo4aUhfOGM0cEJvTmlHejVEaVluM29CSS1UMUpfVFlXb3FzZzFpd1NU?oc=5",
+      "score": 77,
+      "title": "World record 53 red cards shown in Brazil football match",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2FYeld6LTJDc1Z2X1VrUVY2WFRteXlVa2s1SzBDLVVtTkRFN1FmMHVlVllKcHVERnNLa1hLdmt4cWJ6Q2FxYU1PMTU1Q0JaNFl0Q1RFQWd4TXpXazdLc2FGZk5EUVEtcUhUN1VTVlBaUGtqaFQ4S3htUjc4aWprdkxMbWttd3NVS1h5VmM0MThmUWZPZmJGUm1uVE1uSXRkSFFwUVYyWklnVkXSAbABQVVfeXFMTV9hbHVJSTAyVUFRZW10Q092RzNWMDJrTkdPOHZlRzFmVlEzRm1CbEdFN2RYR3ZfbkhNTDYtV2ZaWVhlemMtVzY0bTFIZUhlNTc0NG5mYm1hWUdmQVpZMXdVT2FoOFl5RmhOcnRZU2s4a0JBNUFJU0Mxc1JGUERjcXJJRjZnR2pJRWR0VjBFNm5ZODNLMEFiT19fSHZIUUZoeFQ4QzM3TlFJdG1kR003Wmc?oc=5",
       "age": "TUORE",
       "id": "03"
     },
     {
-      "category": "KULTTUURI",
+      "category": "URHEILU",
       "type": "RECORD WATCH",
       "score": 77,
-      "title": "Latest Godzilla film sets live-action opening-day box office record in Japan",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "title": "Referee shows 51 red cards in record-breaking football brawl",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNck9Ea05sMXNTT3YyU0kwdDEzLWM2cC1vcjhPT1FCWTIyRVVFczhmZ1gyOEdNeGp3QTB1ajNJbjdWSGtTeG1FaXBHU0tKUE16SmFPLS1mSVVBUGtDMEJEdkFtZ2hudVdSTE5McXEtUTBZUFpFVFdPVGZPVEdhUjVoMmc4aHlzak16OE9EczVTS1lFc3dUYmxpZlplYjFWdw?oc=5",
+      "source": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUElYYnV1YW10ZkFCdDExaVR1VE16S0wwLWFSbERqMnRNYXpoSVBTd1hlYXlWRWVlOW1McFB4RXZESjFXSWtYY3ZuN1NBbXhYeXNiNXFjUV9SYXhtd2prYjZMQVdINlFlb0k4NDZ3V3NuYTZjODNEdnZoajRpczR2dGV0RWh5N0JERHNtTGpncnBoaGJKbkRzSU1uSmVDZjlZWWYzQnd3TDlOSjFpVVE?oc=5",
       "age": "TUORE",
       "id": "04"
     }
