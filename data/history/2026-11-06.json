@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T06:55:05.672101+00:00",
+  "updated": "06:55 UTC",
+  "rejected": 176,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 99,
+      "title": "No. 5 Michigan stuns No. 2 UConn in historic women's basketball upset",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcGkxamdpQ2RJbjhpZ01Mal9mdkd0MHlVODlXR2VkWVRkNTh1R0tZdTVUQVRfZ19McGtPTGNVd3Y3UHREVDlzcjh4VUpkUHZwVjNUTUJuWWc3U202ZkU3NGhUTWlLTWN6MDRndEZINXVDejhhY1FhOV9Nbnd6NTF1Z1VkMS1kOEU5VnQxcDU3TTFFQ2hvR1dFRkpWUHNPNDl4aUV2M2RfT2kta0lUVDgzOXlJLVNuLUJEY012T3V1ZzB5VUZrZDA2RTBKSkk1bmdJM2c?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "DIVERGENCE",
+      "score": 90,
+      "title": "Stock markets plunge in stunning reversal as investors reconsider AI shares",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEtUdVJWOG1sWVZNUi1XVGU1ZWJMZGlnM0RnWFo5bmdFQ2Q1OGgxc2d6eGppbldhWUppR1NraUl6Ul9velFyWjg4c0ZxTlZOWExxb2JUQW4yX1BlSHhfaWR0YkRiZUw1cTBRR2t6SkhOeGdBWUdMVjcyWmhnUDlsMHVVVnRYOUVsVWRMdFBTbHlSbmk1djRGSW1JRjlCZWZGS1hPTzllN1BBUQ?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "BlackSky Technology Inc (BKSY) Q3 2026 Earnings Call Highlights: Record Revenue Surge and ...",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkpDQ3hoVmpiZG9PVnVuNHpwczE5U1BHTUpTemlhT2g5QkxXRXp3V3gzOVJoc0o0WlMzajQ4ZWN0OExBLWQwVWE4Y2FJNjFKY0d5dTA4elZUUGdQdW4tdVAtek5oSkJrbmhfcF92MXpKNlcxMjRXaFZPYmRTRFp5bFBBcTFQUm1udTluZFZpRmhFRG5EbVRkdkIxcno?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
