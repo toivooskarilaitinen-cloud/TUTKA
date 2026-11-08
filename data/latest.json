@@ -1,22 +1,9 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T21:56:26.388773+00:00",
-  "updated": "21:56 UTC",
-  "rejected": 138,
-  "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Box Office: 'Godzilla Minus Zero' Roars Toward Record Opening",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Deadline",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaFVSRWh3OGg5Z2huTzdLYVQ0M3p4UVEyYXpKRkYtWldBLWUxSWNxNkZCbE9NWlFmSlItUGQ3eG5vZ2xvT0ZwejlMQWFscVhBb1BwdWhSNXVWM3R1cGdyRWpKcThoUU9RdklZdno1cW5LN241ZXV0aXZYVjJqSk9lbVdpeG8ydEdGeGxxSW9ORQ?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
-  ],
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T06:10:37.986674+00:00",
+  "updated": "06:10 UTC",
+  "rejected": 132,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
