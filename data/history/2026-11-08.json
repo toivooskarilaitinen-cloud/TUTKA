@@ -1,12 +1,12 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T06:10:37.986674+00:00",
-  "updated": "06:10 UTC",
-  "rejected": 132,
+  "generated_at": "2026-11-08T13:32:30.293736+00:00",
+  "updated": "13:32 UTC",
+  "rejected": 169,
   "findings": [],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
