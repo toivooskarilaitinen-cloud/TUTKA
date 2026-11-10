@@ -1,27 +1,14 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T22:26:36.115811+00:00",
-  "updated": "22:26 UTC",
-  "rejected": 114,
-  "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Godzilla Minus Zero smashes box office record for a foreign language film",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Independent",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUtnYWVFZVl3TmxwR0hWY0dXbFc5LWVDOWlXd2Uwcm9MOHRNV1owZEM1REltTFdKY2xXMlVkTDU3MnUzdlpNUlFtZWxTX2NVSmlqRFdUUnM3ekMyMzRaWVRYLXdmMVBzc1hTdmZHd3hNTHpQUlNCSG9RTjhfVjNzLW12bWlaRm8tZGsybWM3dlBoZVdrTnhEVTZ1N2pJWWltajF4MWJMcS1OVTZZTjhZaw?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
-  ],
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T07:25:52.435855+00:00",
+  "updated": "07:25 UTC",
+  "rejected": 163,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
