@@ -1,14 +1,27 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T19:48:20.964868+00:00",
-  "updated": "19:48 UTC",
-  "rejected": 132,
-  "findings": [],
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T06:34:39.492048+00:00",
+  "updated": "06:34 UTC",
+  "rejected": 153,
+  "findings": [
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 89,
+      "title": "Home loan data shows record plunge in investor loans as CGT tax changes flow through property market",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "theage.com.au",
+      "url": "https://www.theage.com.au/politics/federal/record-plunge-in-investor-loans-as-tax-overhaul-hits-property-market-20261111-p61d9h.html",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
