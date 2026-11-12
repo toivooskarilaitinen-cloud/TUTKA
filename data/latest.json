@@ -1,27 +1,14 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T19:40:12.593272+00:00",
-  "updated": "19:40 UTC",
-  "rejected": 132,
-  "findings": [
-    {
-      "category": "TALOUS",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "American credit card debt hits record high 1.3 trillion, inflation report shows",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "WHAS11",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVUpMWVFNdjN6eEMzMElkVVRnN1B2ckhqaUszbURRV2pSaG5oa05wNTR6SnZxWEprdzlnOFQ2ZFBoaVNtQWhZRTZQbnRHSWlwOWNTZXU0QldhUXZ1dmY2NWNlbzNrMy0wRWVOcE01S2NWMDd1NGxRRWk3TUdMUnVDUWU4b1h5dW9WN0M1eE9Hcm5wRkNmaUpObmF3ajhjTXh1UzRXS0lydjl2b3NwWE5SQkw4X24xSkVqQmszNUU3VkxYMF9GdGd6SHZDaGN2R0lnY2Y4MkpmVVVyZ3pkZDlKeW9OODl4dXhwM00xSnJ3UFlPMzNxSEpWanVjYjRZV2NnY3NESWQyanVGSDg?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
-  ],
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T07:18:53.844686+00:00",
+  "updated": "07:18 UTC",
+  "rejected": 147,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
