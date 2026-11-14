@@ -1,20 +1,44 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T06:33:38.623483+00:00",
-  "updated": "06:33 UTC",
-  "rejected": 120,
+  "generated_at": "2026-11-14T18:11:50.491940+00:00",
+  "updated": "18:11 UTC",
+  "rejected": 139,
   "findings": [
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 77,
-      "title": "Rocky fans in Philadelphia break world record as film celebrates 50 years",
+      "score": 84,
+      "title": "Rocky fans break world record on film's 50th anniversary",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmpEYllPVGhOOXYxMWQzRldEMnJsR0hrUlZuVTJuOXBhX0dvOU9VNnZwUXBTd1F2SWVQVUVyUGppTkVjZTQybmJrTHFFY1ZodzhYMWpGNThmWmE5bTBHUU82UHpaYlg2bjNvbzR0LXJNb2o2c3laLThENmZ1T3J5OEtJdzFkakhLYXliYm56T0E2TldFVGphcG5PdEVidGVRVGNxRW9GUjFNbW8zOXBid3Itc0wwUC05OU1USQ?oc=5",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84RzhhU2luc1h6STEySzJEOF9SSFVzNFBuV3pLNXNNbmg3NWZaMUpJUmxBRnctemdtc3RRb1NqaWlSZXFHZmV1LVJrM3lpb1hyVnhrZHJBRWE?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "50 years after iconic film, a gathering of ‘Rocky’ fans in Philadelphia breaks a world record",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVhuaVNDMWlzNUpKWFc4ZjFBaVBGeWFEMnNWVzhha0xvcDRIZkFpbjIyOVNNNWktMEx1S0VlZ2tVbEpTSXljQUdmU1o4aVUwTjBqM2RMR3RjOEVyRUliT3RfSXBwWkhLLUFnWFQ1dm51bkhGTWlPcmZpUWxYNHdhRHVYYU9QUG15aHllUUNiQzR6WG9u0gGaAUFVX3lxTE9SdUdtU2dHOC1lRFdJendZdHJxRmJWazJKLUt0SDJYUGFHMjVhZ1VNSENlMmxQb1VKZk0yTDkyTXIwVWVfRTVVaDhtU1RTMFRybVBydkl2S0R4OUZ1SFZEX0hUclBhS1NsRWR3cDY5azg3Unc3SVRQM094SHMwQjhoTllpVkg0TXQ5emtmbEhlR2xYd0hqdEsydXc?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "ODDITY",
+      "score": 77,
+      "title": "What to know about the rare nationwide ground stop issued by the FAA",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQanpsckRBbHo2TkhyVTc1VmlLRDZFSkE4d05OZF8zS0lNd3RBVExDUXNZdGpuSG5tTUxGVWJuRWVSdUFaRi1VOTBhLTFLOG9xLTBraGM0VUtBYThsXzFoX0d0dEpoNURpWVJuTFVVel90aXZKbDhjZVBXTF9XMDdBSnlKbEdxUQ?oc=5",
+      "age": "TUORE",
+      "id": "03"
     }
   ],
   "errors": [],
