@@ -1,15 +1,28 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T19:48:21.550074+00:00",
-  "updated": "19:48 UTC",
-  "rejected": 0,
-  "findings": [],
-  "errors": [
-    "KULTTUURI: HTTPError: HTTP Error 503: Service Unavailable",
-    "TEKNOLOGIA: HTTPError: HTTP Error 503: Service Unavailable",
-    "TALOUS: HTTPError: HTTP Error 503: Service Unavailable",
-    "URHEILU: HTTPError: HTTP Error 503: Service Unavailable"
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T06:33:38.623483+00:00",
+  "updated": "06:33 UTC",
+  "rejected": 120,
+  "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Rocky fans in Philadelphia break world record as film celebrates 50 years",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BreakingNews.ie",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmpEYllPVGhOOXYxMWQzRldEMnJsR0hrUlZuVTJuOXBhX0dvOU9VNnZwUXBTd1F2SWVQVUVyUGppTkVjZTQybmJrTHFFY1ZodzhYMWpGNThmWmE5bTBHUU82UHpaYlg2bjNvbzR0LXJNb2o2c3laLThENmZ1T3J5OEtJdzFkakhLYXliYm56T0E2TldFVGphcG5PdEVidGVRVGNxRW9GUjFNbW8zOXBid3Itc0wwUC05OU1USQ?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
   ],
-  "providers": {},
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
   "method_version": "v0.3"
 }
