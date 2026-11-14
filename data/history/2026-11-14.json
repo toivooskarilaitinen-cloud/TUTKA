@@ -1,9 +1,21 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T18:11:50.491940+00:00",
-  "updated": "18:11 UTC",
-  "rejected": 139,
+  "generated_at": "2026-11-14T22:30:26.262263+00:00",
+  "updated": "22:30 UTC",
+  "rejected": 150,
   "findings": [
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "Jeremiah Smith Breaks Big Ten’s All-Time Record for Receiving Yards",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Eleven Warriors",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbUdBcE5pNjBWLWdoUjY0OVRnYzVWN1E2bk9JZzVFUWVyLXQ2bTc0dVpHbU84aWFwZTQxMEJpdjAyR09qY2wzbnRmXy1rVnI2VzZQTHRaQ3E5LUpHVnF3RndEN2ZwWkowRktnQ3pzakdmSm1nT3ZOTkstaHF3c1FwYjhyWTNONlFMdEtBT2tZWDlpcXlEdER0dkk5VUduQUJtR2ZmakV4ZFU3ZkRCOVNkYkk1MjdxeHpjbWQ4WnRIRGwzZkIwdWVPU1JqV1dOZw?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
@@ -14,7 +26,7 @@
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84RzhhU2luc1h6STEySzJEOF9SSFVzNFBuV3pLNXNNbmg3NWZaMUpJUmxBRnctemdtc3RRb1NqaWlSZXFHZmV1LVJrM3lpb1hyVnhrZHJBRWE?oc=5",
       "age": "TUORE",
-      "id": "01"
+      "id": "02"
     },
     {
       "category": "KULTTUURI",
@@ -26,7 +38,7 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVhuaVNDMWlzNUpKWFc4ZjFBaVBGeWFEMnNWVzhha0xvcDRIZkFpbjIyOVNNNWktMEx1S0VlZ2tVbEpTSXljQUdmU1o4aVUwTjBqM2RMR3RjOEVyRUliT3RfSXBwWkhLLUFnWFQ1dm51bkhGTWlPcmZpUWxYNHdhRHVYYU9QUG15aHllUUNiQzR6WG9u0gGaAUFVX3lxTE9SdUdtU2dHOC1lRFdJendZdHJxRmJWazJKLUt0SDJYUGFHMjVhZ1VNSENlMmxQb1VKZk0yTDkyTXIwVWVfRTVVaDhtU1RTMFRybVBydkl2S0R4OUZ1SFZEX0hUclBhS1NsRWR3cDY5azg3Unc3SVRQM094SHMwQjhoTllpVkg0TXQ5emtmbEhlR2xYd0hqdEsydXc?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "03"
     },
     {
       "category": "TEKNOLOGIA",
@@ -38,7 +50,19 @@
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQanpsckRBbHo2TkhyVTc1VmlLRDZFSkE4d05OZF8zS0lNd3RBVExDUXNZdGpuSG5tTUxGVWJuRWVSdUFaRi1VOTBhLTFLOG9xLTBraGM0VUtBYThsXzFoX0d0dEpoNURpWVJuTFVVel90aXZKbDhjZVBXTF9XMDdBSnlKbEdxUQ?oc=5",
       "age": "TUORE",
-      "id": "03"
+      "id": "04"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Ohio State's Jeremiah Smith sets Big Ten receiving record",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjBWV3Y3TXNlQTJKVlBGN2N1MlhSckowZkNjdnJ2RU8ta1U1VTcyUmNrTjQ0RFd3Ukk4OEdscVo2ZmdiLWJCSUNidmMyZk5aQWw5UDVSUFFnamhrYkJPTnVQRDU0M2JxNGZIUkpsc2ZLbjZnYndENTYxVjZiVzltNUNaVGQ3aWt0V3lqeXBkcHhIZVlDUDhkU3VZZnE1R1dnOW55SG1UNUp3SWhSWVhxbTg5WQ?oc=5",
+      "age": "TUORE",
+      "id": "05"
     }
   ],
   "errors": [],
