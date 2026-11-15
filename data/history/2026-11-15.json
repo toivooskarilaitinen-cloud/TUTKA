@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T06:41:48.448744+00:00",
+  "updated": "06:41 UTC",
+  "rejected": 139,
+  "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 80,
+      "title": "Rocky fans break world record on film's 50th anniversary",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84RzhhU2luc1h6STEySzJEOF9SSFVzNFBuV3pLNXNNbmg3NWZaMUpJUmxBRnctemdtc3RRb1NqaWlSZXFHZmV1LVJrM3lpb1hyVnhrZHJBRWE?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
