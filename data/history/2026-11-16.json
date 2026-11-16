@@ -1,20 +1,32 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T06:39:34.647280+00:00",
-  "updated": "06:39 UTC",
-  "rejected": 108,
+  "generated_at": "2026-11-16T22:12:23.678438+00:00",
+  "updated": "22:12 UTC",
+  "rejected": 75,
   "findings": [
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 99,
+      "title": "Belgium's all-time record goalscorer Romelu Lukaku retires from international football, says 'I'm at peace with my decision'",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "SportsWorldGhana",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVUktTkJocXM4dzMwRXRfMzY0SXhScTZDTnpJa1NGVHd2QUZRUUdqV2pKTmxia2VZRGd6SWJaZ19iRzR5SnlzQVZKejJDa0I5clM5Y3BsVi1ZVktKb01TQm9YdWxPTml6cmtvQlVoaUpBR19rbFJhei1tT1J5QThSZ1dUZC1uV3p4eGhWMHRDZkhJU1ppRUZHaTB5WGdicmJTcUU0X3Y2SnFEdFRjQ3pvSDlSTVp1WGVxY2R5ZjlsSUpLRWhMVTRVdkVPX0hEQk9ydEdGWmZIbHFKZnlnY0ctVkpybw?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
     {
       "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 82,
-      "title": "Guinness World Record achieved for the largest gathering of fans dressed as Rocky Balboa",
+      "score": 77,
+      "title": "‘Rocky’ gathering KOs world record in Philadelphia",
       "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Inquirer.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVDlUVzVMeW1Ca0J2NFVLVmZBVXpVZzJPRW83b3RmVTJmTGNxcVZ5bGNSd21KUHNJWkZZSVV2S1dfUFlPbS02MmtYWXlSWjhrY1I1ZGZHSnJrQWFqSFlKN0R5T1FqZ2hmMTE0M2hWc3FGa1dWWFFLT2gwUnNQWVp5Vm5KVDBEMVdmaVNRQlBEd0s2ajRhRzlvYzdWQzNFRnRSVHZYeXFHbl9wUl9Wc2RMaWhaOWwyTzBGakE?oc=5",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "WPXI",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM09VLVNPMWc4c3F4d0N1LTdkd2ktcXUwVmpxNWJmWjVfQzVMd2sxYTFZWE9CX0JBX2R6REFEZlpHLXNsbWNzOWM1d3FBXzNzakMzNG4xbGk5SnJkdzFLaXhQb0UyWjV5MlNKTHpqV2pqTWQ4M0FhQmRwQzJnUTNGLTVTMURHbDFnWTlMMEtMdURmNTA4R0VaQkxHMVVwY0duTlBzc0t6N0pmN2VS0gHAAUFVX3lxTFBvWkVKSFZiMUVNa1NiQjNIU1VKR1pNTWd5OHBXVk1vdEswMVBoUFlSQWtRVjdlNTZlSTBFbFFBaF8yaF8tMWlkcVd2bGsyMUl4dnhwUVdreFluTVBqcEZ2LU9QTjl5S0xGTjViWkFFLXlfR3pxandMRGV0TlNVUmlKeVFZTnptTnJ6clpaM0d5S0p6cUpueE91cFRNR1NFU0l2bW1pVk8xY2NvOEdjajVyVU40SlFmV2lTa3RRTVBGRQ?oc=5",
       "age": "TUORE",
-      "id": "01"
+      "id": "02"
     },
     {
       "category": "URHEILU",
@@ -26,14 +38,15 @@
       "source": "ESPN",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1V0dnE3bU9TUy16eXhOYlZuNlBmbWlCbkRISmxvbVl5TldONnNKbk5FVE1MT2hscnNUa0lua3RpZUdoTHpJRl84Mk1hUFVjMHVvRXB4VnhaTk9mWUxfYTlIY1Q1aG00TDJZbEk3ak9RNFB6Ty1LRWVBdWwzWlFPQVRyV0syMEc4NmdQdlg4VU5rQWwtT2lNSVhuUko5WURKR29fWDlMTVo4ckZJYkVGY0ZRU0UxaHg3YWhr?oc=5",
       "age": "TUORE",
-      "id": "02"
+      "id": "03"
     }
   ],
-  "errors": [],
+  "errors": [
+    "TALOUS: HTTPError: HTTP Error 429: Too Many Requests"
+  ],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
