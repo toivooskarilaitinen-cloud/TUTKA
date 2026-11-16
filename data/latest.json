@@ -1,9 +1,34 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T18:55:30.178581+00:00",
-  "updated": "18:55 UTC",
-  "rejected": 115,
-  "findings": [],
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T06:39:34.647280+00:00",
+  "updated": "06:39 UTC",
+  "rejected": 108,
+  "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 82,
+      "title": "Guinness World Record achieved for the largest gathering of fans dressed as Rocky Balboa",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVDlUVzVMeW1Ca0J2NFVLVmZBVXpVZzJPRW83b3RmVTJmTGNxcVZ5bGNSd21KUHNJWkZZSVV2S1dfUFlPbS02MmtYWXlSWjhrY1I1ZGZHSnJrQWFqSFlKN0R5T1FqZ2hmMTE0M2hWc3FGa1dWWFFLT2gwUnNQWVp5Vm5KVDBEMVdmaVNRQlBEd0s2ajRhRzlvYzdWQzNFRnRSVHZYeXFHbl9wUl9Wc2RMaWhaOWwyTzBGakE?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "URHEILU",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "UCLA raises banner for first-ever NCAA women's basketball title",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1V0dnE3bU9TUy16eXhOYlZuNlBmbWlCbkRISmxvbVl5TldONnNKbk5FVE1MT2hscnNUa0lua3RpZUdoTHpJRl84Mk1hUFVjMHVvRXB4VnhaTk9mWUxfYTlIY1Q1aG00TDJZbEk3ak9RNFB6Ty1LRWVBdWwzWlFPQVRyV0syMEc4NmdQdlg4VU5rQWwtT2lNSVhuUko5WURKR29fWDlMTVo4ckZJYkVGY0ZRU0UxaHg3YWhr?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
+  ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
