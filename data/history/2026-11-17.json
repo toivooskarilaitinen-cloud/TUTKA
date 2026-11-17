@@ -1,18 +1,18 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T08:00:34.256176+00:00",
-  "updated": "08:00 UTC",
-  "rejected": 107,
+  "generated_at": "2026-11-17T20:59:58.012611+00:00",
+  "updated": "20:59 UTC",
+  "rejected": 111,
   "findings": [
     {
-      "category": "TALOUS",
+      "category": "KULTTUURI",
       "type": "RECORD WATCH",
-      "score": 86,
-      "title": "Supertanker rates plunge more than 60% from record highs",
-      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0ZJYjdxQndHZmhXNXpBLTVhN0p2NmtoMXliTHZFeURJMU05VVpzQW16STBtZzNuMnUyelRkTzRPODgxR21pdm9YY2JIaUhPbmM2MVVDMVlPSkp5UjY1VjVkbVkzQmhmZGR5TXFiMTRuMkc1SWF5a1hVVGZQdUlFUjA0Y3Z6YnJtX1BKTkF3TXpuMXc5Nk9OMTRjTVp4eXAtanJkOA?oc=5",
+      "score": 82,
+      "title": "Photographer sets world record with world's smallest working film camera",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlFEX0gzZ21wZHlUcng5YlBEUTBURHY2clhXdjVEMHBvR2NLb3oxajZ1bDU2QUtGYWMtT0Z2X2pkcGVsRXRzYVFabXNyd1NiV18xREF0aktGQlhQODVuaUR0cWtCLVFxUVBvN2hUcXI3dGZsN1hEcmx2T0g3bFlqQWZDNDFIT0VTX2pLMnFOSVV4eE5lR3pydi0wMmdhSi1BUjRrbzd0U2w?oc=5",
       "age": "TUORE",
       "id": "01"
     }
