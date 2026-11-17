@@ -1,52 +1,27 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T22:12:23.678438+00:00",
-  "updated": "22:12 UTC",
-  "rejected": 75,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T08:00:34.256176+00:00",
+  "updated": "08:00 UTC",
+  "rejected": 107,
   "findings": [
     {
-      "category": "URHEILU",
+      "category": "TALOUS",
       "type": "RECORD WATCH",
-      "score": 99,
-      "title": "Belgium's all-time record goalscorer Romelu Lukaku retires from international football, says 'I'm at peace with my decision'",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "SportsWorldGhana",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVUktTkJocXM4dzMwRXRfMzY0SXhScTZDTnpJa1NGVHd2QUZRUUdqV2pKTmxia2VZRGd6SWJaZ19iRzR5SnlzQVZKejJDa0I5clM5Y3BsVi1ZVktKb01TQm9YdWxPTml6cmtvQlVoaUpBR19rbFJhei1tT1J5QThSZ1dUZC1uV3p4eGhWMHRDZkhJU1ppRUZHaTB5WGdicmJTcUU0X3Y2SnFEdFRjQ3pvSDlSTVp1WGVxY2R5ZjlsSUpLRWhMVTRVdkVPX0hEQk9ydEdGWmZIbHFKZnlnY0ctVkpybw?oc=5",
+      "score": 86,
+      "title": "Supertanker rates plunge more than 60% from record highs",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0ZJYjdxQndHZmhXNXpBLTVhN0p2NmtoMXliTHZFeURJMU05VVpzQW16STBtZzNuMnUyelRkTzRPODgxR21pdm9YY2JIaUhPbmM2MVVDMVlPSkp5UjY1VjVkbVkzQmhmZGR5TXFiMTRuMkc1SWF5a1hVVGZQdUlFUjA0Y3Z6YnJtX1BKTkF3TXpuMXc5Nk9OMTRjTVp4eXAtanJkOA?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 77,
-      "title": "‘Rocky’ gathering KOs world record in Philadelphia",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "WPXI",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM09VLVNPMWc4c3F4d0N1LTdkd2ktcXUwVmpxNWJmWjVfQzVMd2sxYTFZWE9CX0JBX2R6REFEZlpHLXNsbWNzOWM1d3FBXzNzakMzNG4xbGk5SnJkdzFLaXhQb0UyWjV5MlNKTHpqV2pqTWQ4M0FhQmRwQzJnUTNGLTVTMURHbDFnWTlMMEtMdURmNTA4R0VaQkxHMVVwY0duTlBzc0t6N0pmN2VS0gHAAUFVX3lxTFBvWkVKSFZiMUVNa1NiQjNIU1VKR1pNTWd5OHBXVk1vdEswMVBoUFlSQWtRVjdlNTZlSTBFbFFBaF8yaF8tMWlkcVd2bGsyMUl4dnhwUVdreFluTVBqcEZ2LU9QTjl5S0xGTjViWkFFLXlfR3pxandMRGV0TlNVUmlKeVFZTnptTnJ6clpaM0d5S0p6cUpueE91cFRNR1NFU0l2bW1pVk8xY2NvOEdjajVyVU40SlFmV2lTa3RRTVBGRQ?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
-    {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "UCLA raises banner for first-ever NCAA women's basketball title",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1V0dnE3bU9TUy16eXhOYlZuNlBmbWlCbkRISmxvbVl5TldONnNKbk5FVE1MT2hscnNUa0lua3RpZUdoTHpJRl84Mk1hUFVjMHVvRXB4VnhaTk9mWUxfYTlIY1Q1aG00TDJZbEk3ak9RNFB6Ty1LRWVBdWwzWlFPQVRyV0syMEc4NmdQdlg4VU5rQWwtT2lNSVhuUko5WURKR29fWDlMTVo4ckZJYkVGY0ZRU0UxaHg3YWhr?oc=5",
-      "age": "TUORE",
-      "id": "03"
     }
   ],
-  "errors": [
-    "TALOUS: HTTPError: HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
