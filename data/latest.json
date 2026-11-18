@@ -1,22 +1,9 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T20:59:58.012611+00:00",
-  "updated": "20:59 UTC",
-  "rejected": 111,
-  "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 82,
-      "title": "Photographer sets world record with world's smallest working film camera",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlFEX0gzZ21wZHlUcng5YlBEUTBURHY2clhXdjVEMHBvR2NLb3oxajZ1bDU2QUtGYWMtT0Z2X2pkcGVsRXRzYVFabXNyd1NiV18xREF0aktGQlhQODVuaUR0cWtCLVFxUVBvN2hUcXI3dGZsN1hEcmx2T0g3bFlqQWZDNDFIT0VTX2pLMnFOSVV4eE5lR3pydi0wMmdhSi1BUjRrbzd0U2w?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    }
-  ],
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T07:37:10.323716+00:00",
+  "updated": "07:37 UTC",
+  "rejected": 113,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
