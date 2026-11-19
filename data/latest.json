@@ -1,14 +1,27 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T20:38:23.437885+00:00",
-  "updated": "20:38 UTC",
-  "rejected": 88,
-  "findings": [],
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T07:32:41.123902+00:00",
+  "updated": "07:32 UTC",
+  "rejected": 139,
+  "findings": [
+    {
+      "category": "URHEILU",
+      "type": "SIGNAL",
+      "score": 81,
+      "title": "No. 7 UCLA needs late surge to avert Cal State Fullerton's upset bid",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdjhMa3c4UGxEcnV5MGhpdzZDYkhCUDFmbWFDWlFBTzFQR2RQd2FwN1F3YVJsamxLUFBRVHlSWDlkMlJlUGlQeXRBc0JaYnpBVFdSUzViVy1lamdtallVekNza0NrclhTNVpQY21Ga192bF9hSGFBdHQwZU9PUncxZ1FzVk5jSk8tRXFZaTNkekdZQ1lGWE1FdERHekNRQ2JQdHBlZzhpZUszcEt3X0xndnA2TWM2VXpfWXVrYzRpTQ?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "GDELT",
+    "TALOUS": "Google News",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
