@@ -1,27 +1,51 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T07:32:41.123902+00:00",
-  "updated": "07:32 UTC",
-  "rejected": 139,
+  "generated_at": "2026-11-19T20:43:32.129266+00:00",
+  "updated": "20:43 UTC",
+  "rejected": 150,
   "findings": [
     {
-      "category": "URHEILU",
-      "type": "SIGNAL",
-      "score": 81,
-      "title": "No. 7 UCLA needs late surge to avert Cal State Fullerton's upset bid",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdjhMa3c4UGxEcnV5MGhpdzZDYkhCUDFmbWFDWlFBTzFQR2RQd2FwN1F3YVJsamxLUFBRVHlSWDlkMlJlUGlQeXRBc0JaYnpBVFdSUzViVy1lamdtallVekNza0NrclhTNVpQY21Ga192bF9hSGFBdHQwZU9PUncxZ1FzVk5jSk8tRXFZaTNkekdZQ1lGWE1FdERHekNRQ2JQdHBlZzhpZUszcEt3X0xndnA2TWM2VXpfWXVrYzRpTQ?oc=5",
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 80,
+      "title": "Anthropic Raises $107.3 Billion to Top SpaceX’s Record Debut",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3BkQzh0ZFBoUzZmTzU4akxveFYzZ2pZWEM0aklQWU50RlBfaW4yaDNTMWxKbzFmZ1d3QW96ZkVjOC0zOHh6eUhGWHhZbkVqRHdGc09WSnk3ek56UTJzYjZtZXI5cVo5UmlRd1JJUE9Qa29HRXZEN0JZZlFNR01yX2xpYkVGWDNSTVNxeGFCTzNBZ3VDc29BQlV6dzdBdw?oc=5",
       "age": "TUORE",
       "id": "01"
+    },
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 75,
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45NllZTG1sbEFGZy1MM0hGV1pWX1ByS3JxQUhyLUY1T29JT2k4ZENBUkFlZ0FZQkJyQXdJbGZ1Vmp6RmtNT1RsV1g4aDBEWXZoSEIxVjZQWmZ0b1pPSXc?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "URHEILU",
+      "type": "ODDITY",
+      "score": 75,
+      "title": "Why top-ranked women's basketball teams are playing at Columbia in rare mid-major scheduling coup",
+      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3p0OFdJME55eDlLNW1JaUYtSzdnVHgzTjJQWllJUFFkUGpac0ZwS1hRUUhKSkxOaVVZaWljZk54OUFPZ09KblA2YlVCaDZvaW9BeGY0Q2kzX3JwWHUyaFY0WXVyVlRnd3ptMGNESHE5TmJZelpqR1Fpbmdqa2tSSmNOUVBXNEVxR3Y2QUZ4N19Xdl9SUEFNSTQ1VUNuSFRwWUJhZjJn0gGrAUFVX3lxTE5mUTBwY1F1a0VDaHpTdDV0b1Bsc2JVWkNZRFN6d3I2c2oxbUZUa0Z3ZGV5RGMxbTBQdm01VkVWY0lPem5iUm1oMUJrNjBvZFQ5dFA2Y0ZvZ243YlVhSUs4c0FYekhHRkJIM1V5MzlRZGNmZ1BVeld1QVY3anhiaEY5c0d0MHd3bzlvbG1tYktmSDRqelhBajVFQ1QwdVk1Q2Vaemg5RkE3WW9HNA?oc=5",
+      "age": "TUORE",
+      "id": "03"
     }
   ],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
-    "TALOUS": "Google News",
+    "TALOUS": "GDELT",
     "URHEILU": "Google News"
   },
   "method_version": "v0.3"
