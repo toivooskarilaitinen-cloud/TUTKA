@@ -1,34 +1,9 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-20T07:24:21.149543+00:00",
-  "updated": "07:24 UTC",
-  "rejected": 153,
-  "findings": [
-    {
-      "category": "URHEILU",
-      "type": "ODDITY",
-      "score": 79,
-      "title": "Why top-ranked women's basketball teams are playing at Columbia in rare mid-major scheduling coup",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3p0OFdJME55eDlLNW1JaUYtSzdnVHgzTjJQWllJUFFkUGpac0ZwS1hRUUhKSkxOaVVZaWljZk54OUFPZ09KblA2YlVCaDZvaW9BeGY0Q2kzX3JwWHUyaFY0WXVyVlRnd3ptMGNESHE5TmJZelpqR1Fpbmdqa2tSSmNOUVBXNEVxR3Y2QUZ4N19Xdl9SUEFNSTQ1VUNuSFRwWUJhZjJn0gGrAUFVX3lxTE5mUTBwY1F1a0VDaHpTdDV0b1Bsc2JVWkNZRFN6d3I2c2oxbUZUa0Z3ZGV5RGMxbTBQdm01VkVWY0lPem5iUm1oMUJrNjBvZFQ5dFA2Y0ZvZ243YlVhSUs4c0FYekhHRkJIM1V5MzlRZGNmZ1BVeld1QVY3anhiaEY5c0d0MHd3bzlvbG1tYktmSDRqelhBajVFQ1QwdVk1Q2Vaemg5RkE3WW9HNA?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "Watch: Moment Van Gogh painting sells for record $190.4m (£144.8m)",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1od1d2VEJBVWdPRUVxSm82SEUzNE5ydlVaYlhmb2FDSkhlZjhlSTBBb2t4LTdDY0lGYVl5a3BlVmtsc09qXzhZTldwNk5vRElhRjF2MnoyeFk?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    }
-  ],
+  "generated_at": "2026-11-20T20:27:47.916600+00:00",
+  "updated": "20:27 UTC",
+  "rejected": 128,
+  "findings": [],
   "errors": [],
   "providers": {
     "KULTTUURI": "Google News",
