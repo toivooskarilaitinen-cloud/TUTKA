@@ -1,33 +1,9 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T07:17:35.447762+00:00",
-  "updated": "07:17 UTC",
-  "rejected": 143,
+  "generated_at": "2026-11-21T19:22:33.081518+00:00",
+  "updated": "19:22 UTC",
+  "rejected": 195,
   "findings": [
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 92,
-      "title": "CORTIS Achieves Record-Breaking Shortest-Term Win for Special International Music Award at Japan's 'Record of the Year'",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xSkE1TEtYQk5JbnhObEVWUW1yMFRmZWo5cHk0NGU0NGV6YmlfVE0xLWIyc2NNUm9qdTkwWVdrVnVkcDRNVXN2UTVZUnlrYXhYYVR3eUFsdHk1WDlNQmhTM3B4cjM4cjlVMXVtY1o2R21RdGczZDRZVg?oc=5",
-      "age": "TUORE",
-      "id": "01"
-    },
-    {
-      "category": "KULTTUURI",
-      "type": "RECORD WATCH",
-      "score": 92,
-      "title": "CORTIS, Japanese Record Awards... Shortest Recipient of Special International Music Award",
-      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 5 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "DIPE.CO.KR",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBNUmdIN0p6SWZ6ZWJhdEpTdnpqd1VLQXdBUklXV29YUmRaMDA2SlozNktpSkhialBLUjNYMTRVVHpma2Nk?oc=5",
-      "age": "TUORE",
-      "id": "02"
-    },
     {
       "category": "TALOUS",
       "type": "RECORD WATCH",
@@ -38,24 +14,12 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnR2UEpON1NrQkdGRzdZMkI1NFl4MTRJME1fZ0d1VHVoTHFwWVlRRmMwNjZ1TW9lTEx4Q3Z4RWpDQUM1dXBLQTlNOG52RjZRMUx0SEpJMUlORU94d3RPS2VCaXdMVTA3Z2JBUy1xQkxRbFAyaEhza0l0czNPcGdsNnd6YTlzczlZR3ZBeE9namVEdjcteDR5WjRzT2tEZw?oc=5",
       "age": "TUORE",
-      "id": "03"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 83,
-      "title": "Bond Sales Hit €2 Trillion Europe Record as AI Surge Takes Hold",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPand6WXl4NmpONmlVSzN4ZEJyT1RvYnVJY21WNGFwQlFRam1HMXFRa3h4bW1ucG9fcHVQZlpaclVwaE1odUZTeHFQa3U5VjRETkJham9OZWNsd3Y1ZElSeUE2MEdLa0lGaTF6Um9wdjg5VGNzQklHWFFuSm1sZ0RYNXAxSFprNkxSZ0ZrYjdKd0tzdjQ1V2tMRzdBV1hzV19ZeC1yQ3lDY2t1aElXeEhqbC1lVQ?oc=5",
-      "age": "TUORE",
-      "id": "04"
+      "id": "01"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "Google News",
+    "KULTTUURI": "GDELT",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
