@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T06:57:51.319787+00:00",
+  "updated": "06:57 UTC",
+  "rejected": 131,
+  "findings": [
+    {
+      "category": "KULTTUURI",
+      "type": "RECORD WATCH",
+      "score": 90,
+      "title": "Record-breaking sightings of rare moth in Essex",
+      "question": "Miksi tämä ilmiö poikkeaa kulttuurin tavallisesta kierrosta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 1 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wTS1jMFMwdGRzYURWazI5OFhXMU1sWkxjeUdnREQ5RTh4SHRzZjBFWDBuTWJfMUpkdUl2bzRHM2FzWlp2aExMZVlERlktT0trcUtWQjRNcU1zaTg?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Tesla imports push Korea’s car trade deficit with China to record high",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGhTRjRPSWY1eHpiUkp2RUtydHJZcnZ1QUYxUG95MXgzdnVsM3FDMjJIT3V3Tkl3VEJUSV9ZNm1sSEpBeHdjLU9ORldrNlFWbVlxVm5TRG5LdG55OWJweWRmUlRES1pWY3VoZnZicWlKMldEZnpvRFhrLWFRMjVoYU0tdkpSR3J1QnNfdnF2a3NJeWJBWnJNM3JQNjVIeVRtMGxUeG5XSF9qVjhjMWtxWUdnRVAyNjdIMElheWE2OA?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "South Korea's Auto Trade Deficit with China Hits Record",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 6 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1o0MUF5bTZ6bU5JNll1Q1pESmJ3STI5NWVCcjNhSzQwRkVtSEdHaFdzUV9uc2lCZXptdWM0VWNOZVdSWXl6QURBOFdlRTJ5MWpJaC03X3A4dDVGMVo4blZaWVpDSGllTzdRTmhfV1Y4cUp0SHBwV2w3UnZVbDZGSTE4QlR5SHly?oc=5",
+      "age": "TUORE",
+      "id": "03"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
