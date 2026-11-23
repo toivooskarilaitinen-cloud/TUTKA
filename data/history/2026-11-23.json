@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T07:47:15.782735+00:00",
+  "updated": "07:47 UTC",
+  "rejected": 117,
+  "findings": [
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 77,
+      "title": "Tesla drives Korea’s auto trade deficit with China to record $4.2bn",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "mkbn.mk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sb1h4dE9jM1dLVXU0cldybHVyaFN6LXp4SEFFbV9kNlNlRXc1amVrR0p2SFV6U0FDd0pueHdxUS1TU2pzZWZXX3AyWFh1Q2hZX0wyNWV3?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
