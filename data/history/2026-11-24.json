@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T10:00:02.532647+00:00",
+  "updated": "10:00 UTC",
+  "rejected": 196,
+  "findings": [
+    {
+      "category": "TEKNOLOGIA",
+      "type": "DIVERGENCE",
+      "score": 81,
+      "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "DIVERGENCE",
+      "score": 78,
+      "title": "Nvidia reinstates Jensen Huang as CEO after board reversal",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "CGTN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1YzFVcnBJcTVFLTRPeDJzNE56YVAzRXJnR1BNT1JYWWhfakNibENwTl9tS2xJOGZYM1BJNmVhS1hRcE9keEpNWmN4Um9yNlp4MkV4emdHLUJIU3NJbFNMN0l2MDFxUlhQd0ZTdkx3?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
