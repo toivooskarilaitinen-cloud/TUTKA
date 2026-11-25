@@ -1,32 +1,20 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T08:44:21.932675+00:00",
-  "updated": "08:44 UTC",
-  "rejected": 235,
+  "generated_at": "2026-11-25T21:46:38.623027+00:00",
+  "updated": "21:46 UTC",
+  "rejected": 204,
   "findings": [
     {
-      "category": "URHEILU",
-      "type": "RECORD WATCH",
-      "score": 90,
-      "title": "Hannah Hidalgo ties Notre Dame women's basketball all-time scoring record",
-      "question": "Onko kyse aidosta poikkeamasta vai nopeasti korjaantuvasta sattumasta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "South Bend Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNakRRYUpYXy1DMGdtVUxIYXpMYUxLalNwZEEwZUdDS0kyMDQ4ZXFJMnB4bEhiLXRjN2kwZ0Y3OHdlZ3lMeWdvbkUtN01wR0JyWlZzNTkwNjN3Vy1PMEVBX1lzNzFJNm9ibXVFNGo2SzYxdE8yc3RGMUZWQm5HNnRYVFJ0dkkySk5jekVVM3R0eXFvMW8ya3NRRGlRWDVhd0ZsWWJQV2FGVVV1ZUM2NWxEX1o3a2lXeDNsQUREa1dkaU1CSHI1bVoxWEdRNkJ0Tmcwa2VlSlROZmlhSkY3enR4UGdZc2NEWnd0SmRTUTRYQ19TVWM?oc=5",
+      "category": "TALOUS",
+      "type": "DIVERGENCE",
+      "score": 78,
+      "title": "United States Dollar Index pulls back amid doubts over sustainability of AI trade reversal",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS2RqQ1RmdURFZFoyZFZJMm1Ec085QmI0V0VicWFiNkRyaWNDYktoYW55QkpDTGY3aEFWM245STRfUzlXOUdKYXp3cWVfS29uaTJJRExxdVJtNEVrTXRyM21uNXN2ZGhzZnIzWmRtUmVkVWdGWnk5MXQ3aFZEUGVhUWlRN0lrQjlDRlFsVE9PQWNiWGxpR2hMZUxWUWFxSWxQUWpoVy1Ldm56TUNJUGszTnNEYjJiYU9xNEtRNlJZNmMteFJnZG1rVy0yX2pqQ0Vxb0FGWW53OVpVcF92SHdDMm1ZU09fOVA0enk0?oc=5",
       "age": "TUORE",
       "id": "01"
-    },
-    {
-      "category": "TEKNOLOGIA",
-      "type": "RECORD WATCH",
-      "score": 75,
-      "title": "A Record Holiday Rush Runs Into Outdated US Air Traffic Technology",
-      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUV5VDIyVklUUzE2SXBDR2M4OVFZR1dkYTJubXhjd2JGX0hTVWt1SXVXV29Jd01aQnpPUWc0ZTdpNy13c3JiSGlleXBBeklQQXBBdmdab2lGblNWQ3ZTQ2pUMzVScDNpWXhKUDJ1MVhweUNLdXBWLTBlTldNMlVXZE5qZnFIX3pVX0VzRXZqWUREUGxzczQ3cXBhdU1ycEVpQVB2TksyZjRDZ2xNNzFWSnhpUklXcTQ?oc=5",
-      "age": "TUORE",
-      "id": "02"
     },
     {
       "category": "TALOUS",
@@ -38,12 +26,12 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQl9MU2tlbEhlZ1ZoT1Y4V0JTd19DTkI4d01IR0ptbjZJT0RiNU1GNVdiVVJhb1NzWC1FOGZzWEN4eEFoOHlUb2tDdnAtbzJ2cDJaQjQtaVpaN1NnZVN1b2lhSlgxYmdwd0s4SlNFTTlONmgxT2R1S0NIdUVOSnNHbmNOVlNaMEM4LVVXLXlyRF9iUW1hbVU4NjNfSVFaNjVVaUE5R0RUemF0UkppbXVnWHBjZC0wUC1ldThOUVY4QkxXSjMyY2MwdWlmUW5LT0tM?oc=5",
       "age": "TUORE",
-      "id": "03"
+      "id": "02"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
