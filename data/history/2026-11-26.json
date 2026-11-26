@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T08:28:56.353210+00:00",
+  "updated": "08:28 UTC",
+  "rejected": 225,
+  "findings": [],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "Google News",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "GDELT",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
