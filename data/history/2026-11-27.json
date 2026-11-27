@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T08:43:26.637786+00:00",
+  "updated": "08:43 UTC",
+  "rejected": 204,
+  "findings": [
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 86,
+      "title": "PH trade deficit hits record $6.95B in October as imports surge",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "GMA Network",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUhTMjNSRFNWZFVlYlNqRjVCUUNBQXdUUGV4UDdMOEVYdi14eUJrMDZyTWx2allvSVBwYnNSdGtNZ2E5QmpRUjl4SEo1akZmNHhUM0VLU3ZhcTcwRmZWZ1k2QUNlUFdmZ1czUkdCam1ZY3JRczZXVzNwMXR4VVV2YWx1Yi1SRE1Jel9SUHdJSDZIeWQxamRtaGYxalZteVFMNDg5SXZfT2NlVWFUVFF6Z1B4b2NwMGdRSDNkRk9aZzLSAcYBQVVfeXFMTnItY2J6T2RMVjY1M0NqNlVzczg2dENTaHdnOWM3N2FrcXlDR0RxZWdHa2xXVDI3T0hXbVBReXVvek5VQ0h6dVNkMDFWeWdoaWZIVzBZSDVRYm1zXzFkXzVSZGJUM1U2amkwekZhNEJsdVZLY01zRTRqWWN2WDhjTWt4TTdHM2NWOVJ1bGE5X05fN0luM3pjUmM3MWlTa3JLVGdEZkRDZDFlYlBvbm9JS3BycnNnYXhIVC1wVkhVQU9WQ1FYVHh3?oc=5",
+      "age": "TUORE",
+      "id": "01"
+    },
+    {
+      "category": "TALOUS",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "Thai Exports Surge as Imports Drive Trade Deficit to Record High",
+      "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Energy Connects",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZV80WTVFZW41Wk5zMHFzZFc1Qm5ueDlITVR0WnAtblRfTFh3QzZHNDlIWWx1ZFZmV1g5Z0lWZ3hEQkp3UXRwMGl6eVdFWVBRalh2cVF4VmRVWkhRci0zQUxtZzlLSDFKOVY2X1EzNHVOVDlEYlk4bmdheXBJRVdJSXJhOEsyNm9HeGtpb1BGaU9YTFpDVGNhVDRxbzQ1bnl5cjNFY2VZWDJMSXB5NnZUUzhKcUZDVzhrQUNZ?oc=5",
+      "age": "TUORE",
+      "id": "02"
+    }
+  ],
+  "errors": [],
+  "providers": {
+    "KULTTUURI": "GDELT",
+    "TEKNOLOGIA": "Google News",
+    "TALOUS": "Google News",
+    "URHEILU": "Google News"
+  },
+  "method_version": "v0.3"
+}
