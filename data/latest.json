@@ -1,16 +1,16 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T08:43:26.637786+00:00",
-  "updated": "08:43 UTC",
-  "rejected": 204,
+  "generated_at": "2026-11-27T21:23:38.811820+00:00",
+  "updated": "21:23 UTC",
+  "rejected": 158,
   "findings": [
     {
       "category": "TALOUS",
       "type": "RECORD WATCH",
-      "score": 86,
+      "score": 90,
       "title": "PH trade deficit hits record $6.95B in October as imports surge",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
-      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 3 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 4 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
       "source": "GMA Network",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUhTMjNSRFNWZFVlYlNqRjVCUUNBQXdUUGV4UDdMOEVYdi14eUJrMDZyTWx2allvSVBwYnNSdGtNZ2E5QmpRUjl4SEo1akZmNHhUM0VLU3ZhcTcwRmZWZ1k2QUNlUFdmZ1czUkdCam1ZY3JRczZXVzNwMXR4VVV2YWx1Yi1SRE1Jel9SUHdJSDZIeWQxamRtaGYxalZteVFMNDg5SXZfT2NlVWFUVFF6Z1B4b2NwMGdRSDNkRk9aZzLSAcYBQVVfeXFMTnItY2J6T2RMVjY1M0NqNlVzczg2dENTaHdnOWM3N2FrcXlDR0RxZWdHa2xXVDI3T0hXbVBReXVvek5VQ0h6dVNkMDFWeWdoaWZIVzBZSDVRYm1zXzFkXzVSZGJUM1U2amkwekZhNEJsdVZLY01zRTRqWWN2WDhjTWt4TTdHM2NWOVJ1bGE5X05fN0luM3pjUmM3MWlTa3JLVGdEZkRDZDFlYlBvbm9JS3BycnNnYXhIVC1wVkhVQU9WQ1FYVHh3?oc=5",
       "age": "TUORE",
@@ -19,19 +19,31 @@
     {
       "category": "TALOUS",
       "type": "RECORD WATCH",
-      "score": 81,
+      "score": 88,
       "title": "Thai Exports Surge as Imports Drive Trade Deficit to Record High",
       "question": "Mitä tämä kertoo ennen kuin tavalliset talousmittarit ehtivät reagoida?",
       "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
-      "source": "Energy Connects",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZV80WTVFZW41Wk5zMHFzZFc1Qm5ueDlITVR0WnAtblRfTFh3QzZHNDlIWWx1ZFZmV1g5Z0lWZ3hEQkp3UXRwMGl6eVdFWVBRalh2cVF4VmRVWkhRci0zQUxtZzlLSDFKOVY2X1EzNHVOVDlEYlk4bmdheXBJRVdJSXJhOEsyNm9HeGtpb1BGaU9YTFpDVGNhVDRxbzQ1bnl5cjNFY2VZWDJMSXB5NnZUUzhKcUZDVzhrQUNZ?oc=5",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNamdkVnFWeEl0UzZjUktWQXBiY19yT25VOTR1dEJTVzA4QUlwbDZOaU0ySVZfNWVTT3k2Z2QwRlNOaGlPbnNVMFFoUU9kbXFJaVgwcjhheXZ0b09KdnRrZGh6bGY5M2ltR2xLTkpydEJLb2s4VXhEZ1Ztd1QwMUxPU0ZZb05PV3dLREJPTmw5Sml4X1J2YVpjOUhtRWp2LTM3Ny1acUdkVUZ5T19nbDNHYzd2U1FmQQ?oc=5",
       "age": "TUORE",
       "id": "02"
+    },
+    {
+      "category": "TEKNOLOGIA",
+      "type": "RECORD WATCH",
+      "score": 81,
+      "title": "China chip stocks surge as semiconductor index posts record 17.6% gain",
+      "question": "Onko tämä yksittäinen havainto vai merkki teknologisen suunnan muutoksesta?",
+      "why": "Otsikossa on poikkeavuussignaali ja havaintoa tukee 2 toisistaan riippumatonta uutislähdettä tai historiallista avainsanaa.",
+      "source": "Rich Picks Daily",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVUdIbUFBQTJ3Z3czZHdoWXNmT0lxVFNfWlB3TWZQZzdEcUtUdklXX1dQZ0wwem1pMVFEMEplRVMtYW1QeHJfdUd1OXJmejYxUkJ4QWxoeGM3OWVYMWVPeEMtWkhpeTZWN0NCMEZLbnBSSHNkR1lBeUljWkhtSkVKc2RKa3dMYkg1RDZOX1FpYkNWN2czT2c?oc=5",
+      "age": "TUORE",
+      "id": "03"
     }
   ],
   "errors": [],
   "providers": {
-    "KULTTUURI": "GDELT",
+    "KULTTUURI": "Google News",
     "TEKNOLOGIA": "Google News",
     "TALOUS": "Google News",
     "URHEILU": "Google News"
